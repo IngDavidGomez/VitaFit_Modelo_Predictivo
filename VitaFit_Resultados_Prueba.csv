@@ -1,0 +1,2001 @@
+﻿ID_Cliente,Sucursal,Edad,Genero,Antiguedad_Meses,Tipo_Membresia,Visitas_Mes,Dias_Ultima_Visita,Clases_Grupales,Entrenador_Personal,Quejas_6M,Monto_Mensual,Renovaciones,Promocion_Referido,Cancelacion,Puntaje_Riesgo,Prediccion_Modelo
+VF1551,Nicoya,32,Masculino,11,Mensual,5,21,No,No,2,28500,1,No,1,0.8558,1
+VF9013,Liberia Centro,20,Femenino,13,Semestral,8,1,Sí,No,0,25000,3,Sí,0,0.3132,0
+VF4705,Liberia Centro,43,Masculino,8,Trimestral,4,9,Sí,No,1,26000,1,No,0,0.5198,1
+VF7949,Nicoya,45,Femenino,13,Semestral,10,2,No,No,0,25000,3,No,0,0.3913,0
+VF5109,Nicoya,40,Masculino,14,Mensual,7,15,Sí,No,1,28000,2,Sí,1,0.6762,1
+VF0775,Nicoya,31,Femenino,9,Mensual,9,8,No,No,0,30000,1,No,0,0.5833,1
+VF9149,Liberia Centro,36,Femenino,22,Mensual,15,12,Sí,No,0,28500,4,No,1,0.4187,0
+VF9251,Liberia Centro,27,Masculino,7,Semestral,10,3,Sí,No,0,22000,0,Sí,0,0.325,0
+VF1881,Santa Cruz,29,Masculino,13,Mensual,6,9,No,Sí,0,28000,2,Sí,0,0.6069,1
+VF2103,Liberia Centro,28,Masculino,2,Trimestral,11,11,Sí,No,0,27000,0,No,0,0.3804,0
+VF8872,Liberia Centro,18,Masculino,43,Mensual,8,10,No,Sí,0,28000,6,No,0,0.5332,1
+VF6433,Nicoya,21,Femenino,22,Semestral,8,24,No,Sí,1,24000,4,No,1,0.7069,1
+VF6519,Nicoya,44,Femenino,7,Trimestral,6,11,No,Sí,0,28000,2,No,0,0.521,1
+VF2111,Liberia Centro,43,Femenino,18,Mensual,4,2,Sí,Sí,1,29500,2,Sí,0,0.5098,1
+VF8768,Liberia Centro,34,Femenino,25,Mensual,8,8,No,Sí,1,29500,4,No,1,0.6007,1
+VF8720,Santa Cruz,22,Masculino,11,Trimestral,6,7,Sí,No,1,27000,2,Sí,0,0.4879,0
+VF7587,Liberia Centro,19,Masculino,11,Anual,15,23,No,No,0,20000,2,No,0,0.4312,0
+VF0650,Santa Cruz,31,Femenino,13,Anual,15,1,No,No,0,20000,2,No,0,0.2304,0
+VF8799,Liberia Centro,45,Masculino,11,Mensual,12,10,Sí,No,0,27500,1,Sí,0,0.4495,0
+VF6279,Nicoya,18,Femenino,12,Mensual,6,6,Sí,No,1,29500,2,Sí,0,0.6078,1
+VF6080,Liberia Centro,36,Femenino,11,Mensual,8,10,Sí,No,0,30000,1,No,0,0.495,0
+VF7342,Liberia Centro,44,Femenino,20,Trimestral,8,2,Sí,No,0,27500,3,No,0,0.2901,0
+VF2557,Santa Cruz,29,Masculino,22,Mensual,9,8,Sí,Sí,0,31500,3,No,0,0.4398,0
+VF9756,Liberia Centro,38,Femenino,9,Mensual,9,16,Sí,No,0,27000,0,No,1,0.5646,1
+VF8876,Liberia Centro,34,Femenino,24,Anual,11,22,No,No,1,24000,3,No,0,0.4862,0
+VF3387,Liberia Centro,29,Femenino,7,Trimestral,5,18,No,No,0,26000,2,No,1,0.6132,1
+VF3449,Santa Cruz,48,Masculino,8,Anual,9,5,No,Sí,1,21500,1,Sí,0,0.372,0
+VF6030,Liberia Centro,34,Femenino,1,Mensual,6,16,No,No,0,28000,0,No,1,0.6912,1
+VF6884,Santa Cruz,39,Femenino,15,Anual,3,10,Sí,No,0,21500,3,No,0,0.3652,0
+VF7861,Liberia Centro,41,Masculino,7,Anual,7,5,Sí,No,0,21000,1,Sí,0,0.2669,0
+VF6232,Nicoya,41,Femenino,11,Mensual,10,6,No,No,1,26500,1,No,0,0.6388,1
+VF6406,Nicoya,27,Masculino,10,Mensual,7,6,Sí,Sí,0,26000,0,No,0,0.5207,1
+VF9580,Liberia Centro,28,Femenino,15,Semestral,9,8,Sí,No,0,23500,2,Sí,0,0.363,0
+VF5810,Liberia Centro,40,Masculino,9,Mensual,9,16,Sí,No,0,29000,1,Sí,1,0.5515,1
+VF5289,Liberia Centro,43,Femenino,32,Mensual,4,3,Sí,No,0,28000,4,Sí,0,0.4431,0
+VF4128,Nicoya,58,Masculino,15,Mensual,3,5,Sí,No,0,27000,2,No,0,0.5497,1
+VF1917,Nicoya,35,Masculino,9,Semestral,6,2,Sí,Sí,1,26500,0,No,0,0.4234,0
+VF3594,Santa Cruz,47,Femenino,8,Mensual,10,8,Sí,No,0,31000,1,No,0,0.4555,0
+VF4148,Liberia Centro,37,Masculino,11,Anual,10,18,No,No,0,22000,1,No,0,0.4155,0
+VF8158,Liberia Centro,41,Femenino,11,Trimestral,11,11,No,No,0,24500,1,No,0,0.4467,0
+VF7297,Liberia Centro,39,Femenino,6,Anual,6,4,No,No,1,20500,0,No,0,0.4167,0
+VF1173,Santa Cruz,18,Femenino,16,Mensual,12,21,Sí,No,0,28000,3,Sí,0,0.5913,1
+VF9849,Santa Cruz,48,Masculino,6,Mensual,8,2,No,No,1,28000,1,No,1,0.6066,1
+VF5281,Nicoya,36,Masculino,16,Mensual,6,12,No,No,0,28000,2,No,0,0.6626,1
+VF0010,Santa Cruz,42,Masculino,4,Anual,7,0,Sí,No,1,20000,0,No,0,0.3149,0
+VF4028,Liberia Centro,37,Masculino,13,Semestral,4,7,Sí,Sí,0,27500,2,No,0,0.3807,0
+VF6688,Liberia Centro,29,Femenino,9,Semestral,14,8,No,No,1,24500,0,No,0,0.4537,0
+VF7242,Nicoya,24,Masculino,29,Semestral,13,3,Sí,No,0,25500,4,No,1,0.2758,0
+VF2581,Liberia Centro,45,Femenino,26,Semestral,8,33,Sí,No,1,24500,4,No,1,0.6781,1
+VF7608,Santa Cruz,31,Masculino,3,Mensual,7,6,Sí,No,0,28000,0,No,0,0.5187,1
+VF3705,Nicoya,29,Masculino,10,Mensual,15,27,Sí,No,0,24000,2,Sí,0,0.6611,1
+VF8854,Santa Cruz,28,Masculino,13,Anual,5,5,No,No,0,20500,1,No,0,0.3773,0
+VF4877,Santa Cruz,23,Masculino,25,Semestral,7,4,Sí,No,0,25500,4,No,0,0.3483,0
+VF8619,Liberia Centro,33,Femenino,29,Mensual,15,2,Sí,Sí,1,26500,4,No,0,0.3774,0
+VF1795,Liberia Centro,32,Femenino,3,Mensual,7,7,No,No,0,30000,0,Sí,1,0.5692,1
+VF5330,Santa Cruz,40,Femenino,13,Trimestral,7,16,Sí,No,0,26000,1,No,0,0.4761,0
+VF2554,Nicoya,46,Femenino,34,Anual,10,16,Sí,Sí,0,20500,4,No,1,0.3028,0
+VF1204,Liberia Centro,48,Femenino,29,Semestral,8,11,No,No,0,21500,3,No,0,0.4606,0
+VF7766,Santa Cruz,43,Masculino,11,Mensual,9,7,Sí,No,1,28500,2,Sí,0,0.5545,1
+VF3441,Liberia Centro,33,Masculino,26,Mensual,10,14,No,No,0,28500,4,No,0,0.5822,1
+VF9440,Santa Cruz,48,Masculino,31,Trimestral,7,25,Sí,No,0,26000,5,No,0,0.543,1
+VF2427,Liberia Centro,35,Masculino,4,Anual,9,12,Sí,No,0,24000,1,Sí,0,0.2966,0
+VF4249,Santa Cruz,31,Masculino,8,Mensual,14,12,No,No,0,29000,2,No,1,0.5558,1
+VF4044,Santa Cruz,39,Femenino,9,Semestral,10,20,No,Sí,0,24500,0,Sí,0,0.5426,1
+VF4360,Liberia Centro,41,Femenino,22,Mensual,11,7,Sí,Sí,0,27000,3,Sí,0,0.4018,0
+VF3067,Liberia Centro,40,Masculino,26,Semestral,9,17,Sí,No,0,25000,4,Sí,0,0.4213,0
+VF0296,Santa Cruz,44,Masculino,15,Mensual,12,6,No,No,1,27000,2,No,0,0.5874,1
+VF6354,Santa Cruz,42,Masculino,35,Semestral,9,11,Sí,Sí,0,25000,4,Sí,0,0.3394,0
+VF2462,Nicoya,27,Femenino,6,Semestral,10,5,Sí,No,0,23500,1,No,0,0.3753,0
+VF6712,Liberia Centro,35,Femenino,3,Mensual,6,3,Sí,No,0,28000,0,No,0,0.4784,0
+VF0384,Nicoya,18,Masculino,2,Trimestral,11,9,No,No,0,27000,0,Sí,0,0.4744,0
+VF4760,Nicoya,40,Masculino,16,Mensual,6,2,No,No,0,28500,2,No,0,0.5563,1
+VF2003,Nicoya,23,Femenino,13,Semestral,8,5,Sí,No,1,25500,2,No,1,0.4565,0
+VF1669,Liberia Centro,56,Masculino,14,Mensual,11,36,No,Sí,0,30000,2,Sí,0,0.7486,1
+VF5154,Nicoya,56,Masculino,5,Mensual,6,13,Sí,No,1,26000,0,Sí,0,0.6832,1
+VF8211,Liberia Centro,32,Masculino,7,Mensual,7,5,No,No,1,29500,1,Sí,0,0.6273,1
+VF6648,Nicoya,34,Femenino,4,Mensual,11,3,No,No,0,28000,0,No,0,0.5234,1
+VF2348,Liberia Centro,40,Femenino,8,Mensual,7,4,Sí,No,0,26000,1,No,0,0.4784,0
+VF2253,Santa Cruz,29,Masculino,10,Mensual,5,9,No,No,0,26500,1,No,0,0.6526,1
+VF7073,Santa Cruz,47,Femenino,4,Mensual,11,34,Sí,No,0,29000,0,Sí,0,0.7159,1
+VF0887,Santa Cruz,40,Femenino,33,Trimestral,5,16,Sí,No,1,24500,6,Sí,0,0.5637,1
+VF2416,Nicoya,43,Femenino,11,Semestral,10,4,Sí,No,0,25500,2,Sí,0,0.3306,0
+VF6774,Liberia Centro,26,Masculino,10,Mensual,12,3,Sí,No,0,29000,2,No,0,0.392,0
+VF3690,Liberia Centro,24,Masculino,33,Mensual,12,0,Sí,No,0,30000,5,No,0,0.3192,0
+VF0357,Liberia Centro,45,Femenino,20,Trimestral,7,3,Sí,No,0,27000,3,No,0,0.3129,0
+VF7764,Santa Cruz,35,Femenino,10,Mensual,4,13,No,No,0,29000,1,No,1,0.6802,1
+VF4646,Santa Cruz,26,Masculino,7,Mensual,6,6,Sí,No,0,29500,2,Sí,0,0.5198,1
+VF2664,Santa Cruz,32,Femenino,6,Mensual,5,7,No,No,0,28000,1,No,1,0.6277,1
+VF4652,Santa Cruz,18,Masculino,7,Trimestral,14,7,Sí,No,0,28000,1,No,0,0.3131,0
+VF1443,Santa Cruz,48,Femenino,26,Semestral,5,3,No,No,0,24000,5,No,0,0.433,0
+VF2011,Liberia Centro,36,Masculino,7,Semestral,4,3,No,No,0,27000,1,No,0,0.4474,0
+VF3045,Santa Cruz,43,Femenino,19,Trimestral,12,13,No,No,0,28000,3,No,0,0.4343,0
+VF0888,Liberia Centro,31,Masculino,10,Anual,11,14,No,No,0,22000,1,No,0,0.3686,0
+VF9875,Santa Cruz,22,Masculino,3,Mensual,13,5,Sí,No,0,28000,0,No,0,0.4326,0
+VF7316,Nicoya,51,Femenino,27,Semestral,17,3,Sí,No,0,24000,3,Sí,0,0.2227,0
+VF2112,Liberia Centro,43,Masculino,9,Mensual,6,9,No,No,1,28500,1,Sí,0,0.6732,1
+VF7771,Santa Cruz,29,Masculino,6,Anual,8,6,Sí,No,1,22000,1,No,0,0.3545,0
+VF9099,Nicoya,42,Femenino,18,Mensual,6,7,Sí,No,1,28000,4,No,1,0.6116,1
+VF6254,Liberia Centro,29,Masculino,17,Mensual,12,19,No,Sí,0,27500,2,No,0,0.6122,1
+VF5452,Liberia Centro,39,Femenino,12,Anual,5,7,No,No,2,21500,2,Sí,0,0.5241,1
+VF3732,Nicoya,31,Masculino,3,Trimestral,5,3,No,No,0,25000,0,No,0,0.501,1
+VF2708,Liberia Centro,33,Masculino,10,Trimestral,7,3,Sí,No,0,26000,0,Sí,0,0.3338,0
+VF3305,Liberia Centro,48,Femenino,5,Trimestral,5,10,Sí,No,1,26000,0,Sí,1,0.5078,1
+VF6233,Santa Cruz,48,Masculino,14,Mensual,13,9,No,Sí,0,28500,3,Sí,0,0.4976,0
+VF0918,Nicoya,35,Femenino,7,Semestral,9,3,Sí,Sí,1,24000,2,No,0,0.4222,0
+VF7121,Nicoya,41,Masculino,26,Mensual,8,10,Sí,Sí,1,27000,4,No,0,0.591,1
+VF3083,Liberia Centro,30,Femenino,7,Trimestral,9,8,No,No,1,25500,1,No,1,0.5329,1
+VF1287,Liberia Centro,18,Masculino,26,Semestral,7,5,Sí,No,1,23500,4,No,0,0.4334,0
+VF6554,Liberia Centro,42,Femenino,5,Anual,12,10,No,No,1,24500,1,No,0,0.376,0
+VF3433,Santa Cruz,39,Masculino,14,Semestral,9,4,No,No,0,23500,2,No,0,0.4171,0
+VF2756,Liberia Centro,49,Masculino,10,Mensual,10,14,Sí,No,0,27500,1,Sí,0,0.5187,1
+VF2584,Liberia Centro,40,Masculino,17,Mensual,5,1,Sí,No,0,27500,2,Sí,0,0.4441,0
+VF2351,Santa Cruz,28,Masculino,26,Trimestral,13,2,No,Sí,1,28500,5,Sí,1,0.3676,0
+VF7638,Santa Cruz,19,Masculino,19,Trimestral,13,9,Sí,No,0,24000,2,Sí,0,0.3422,0
+VF9720,Santa Cruz,61,Femenino,17,Semestral,9,17,No,Sí,0,23500,3,Sí,0,0.5107,1
+VF9016,Liberia Centro,29,Femenino,16,Trimestral,9,15,No,No,0,27000,2,Sí,0,0.4943,0
+VF8718,Santa Cruz,55,Femenino,6,Trimestral,11,20,No,No,0,27000,2,Sí,0,0.5423,1
+VF7484,Santa Cruz,23,Femenino,5,Anual,16,18,Sí,Sí,1,21500,0,No,0,0.3572,0
+VF7633,Liberia Centro,40,Femenino,4,Semestral,8,4,Sí,No,0,26000,1,Sí,0,0.3333,0
+VF3854,Nicoya,31,Masculino,3,Semestral,14,26,Sí,No,0,24500,1,Sí,0,0.5348,1
+VF7631,Santa Cruz,48,Masculino,7,Anual,12,1,No,No,0,26500,1,Sí,0,0.2236,0
+VF5192,Santa Cruz,36,Masculino,13,Trimestral,5,17,No,No,0,25000,2,Sí,0,0.605,1
+VF2860,Liberia Centro,25,Femenino,24,Semestral,9,7,Sí,No,0,24000,4,No,0,0.3451,0
+VF8354,Santa Cruz,42,Masculino,15,Mensual,17,16,No,No,1,30500,2,No,0,0.6004,1
+VF9631,Liberia Centro,40,Femenino,7,Trimestral,11,21,Sí,No,0,29000,1,Sí,0,0.4457,0
+VF5246,Santa Cruz,38,Femenino,5,Trimestral,8,6,Sí,No,2,28000,0,No,0,0.5191,1
+VF4531,Liberia Centro,47,Femenino,9,Trimestral,7,4,No,No,0,27500,2,No,0,0.4121,0
+VF6838,Santa Cruz,26,Masculino,31,Trimestral,8,11,Sí,No,1,25000,5,No,0,0.4844,0
+VF6768,Liberia Centro,56,Masculino,55,Trimestral,6,12,No,No,0,22500,10,No,1,0.4668,0
+VF8648,Liberia Centro,25,Femenino,5,Semestral,11,7,No,No,0,20500,0,No,0,0.4454,0
+VF7407,Santa Cruz,35,Masculino,6,Semestral,12,2,Sí,No,0,25000,1,Sí,0,0.2898,0
+VF4009,Santa Cruz,27,Masculino,11,Mensual,7,4,Sí,No,0,27000,0,Sí,0,0.4829,0
+VF1249,Nicoya,29,Masculino,24,Trimestral,12,17,No,No,0,26500,5,No,0,0.5157,1
+VF9438,Liberia Centro,18,Femenino,21,Mensual,7,25,Sí,No,0,26500,3,No,0,0.6815,1
+VF6502,Liberia Centro,21,Femenino,3,Semestral,9,9,Sí,No,0,24500,1,Sí,0,0.3941,0
+VF2338,Liberia Centro,32,Femenino,7,Trimestral,8,13,No,No,0,26000,1,No,0,0.5143,1
+VF7986,Nicoya,39,Femenino,7,Mensual,6,2,Sí,No,0,27000,2,No,0,0.5072,1
+VF0062,Liberia Centro,50,Masculino,25,Anual,6,21,No,Sí,0,24500,4,No,1,0.4375,0
+VF1112,Liberia Centro,21,Femenino,25,Mensual,9,6,Sí,No,0,29500,3,No,0,0.4288,0
+VF6374,Nicoya,18,Femenino,7,Semestral,5,1,Sí,No,0,23500,0,Sí,0,0.3947,0
+VF2508,Liberia Centro,26,Femenino,30,Anual,5,19,Sí,No,0,22000,4,Sí,0,0.3837,0
+VF4863,Liberia Centro,28,Femenino,20,Semestral,12,1,No,Sí,0,28000,4,No,0,0.2909,0
+VF3576,Liberia Centro,48,Femenino,13,Mensual,8,15,Sí,No,1,27000,2,Sí,0,0.6326,1
+VF7157,Santa Cruz,30,Femenino,12,Semestral,8,18,Sí,No,0,24000,2,No,0,0.503,1
+VF7110,Liberia Centro,29,Masculino,2,Mensual,7,19,Sí,No,0,26500,0,No,0,0.6495,1
+VF9641,Santa Cruz,43,Femenino,5,Trimestral,11,6,No,No,0,28500,1,Sí,0,0.3916,0
+VF7626,Santa Cruz,45,Femenino,12,Trimestral,3,23,No,No,1,28000,2,No,0,0.7347,1
+VF2699,Nicoya,37,Femenino,2,Semestral,13,10,No,No,0,23500,0,Sí,0,0.4573,0
+VF5437,Liberia Centro,32,Femenino,6,Mensual,8,24,No,No,0,30000,2,No,1,0.7254,1
+VF4418,Liberia Centro,38,Masculino,10,Mensual,9,0,Sí,No,1,26500,0,Sí,1,0.475,0
+VF7321,Liberia Centro,36,Femenino,4,Mensual,12,4,Sí,No,0,30000,0,Sí,0,0.386,0
+VF0396,Nicoya,44,Femenino,14,Mensual,7,4,Sí,No,0,27500,2,Sí,1,0.4853,0
+VF9743,Nicoya,39,Femenino,15,Anual,7,28,Sí,Sí,1,21000,2,No,1,0.5778,1
+VF9071,Nicoya,24,Femenino,16,Mensual,8,8,Sí,Sí,0,28500,2,Sí,0,0.4991,0
+VF6622,Liberia Centro,36,Masculino,11,Trimestral,7,1,No,No,0,25000,0,Sí,0,0.3905,0
+VF7335,Liberia Centro,43,Femenino,13,Trimestral,4,21,Sí,No,0,25500,2,No,1,0.5593,1
+VF3886,Nicoya,36,Masculino,13,Semestral,9,2,No,Sí,2,23500,1,No,0,0.5573,1
+VF2493,Nicoya,45,Femenino,59,Anual,7,9,No,Sí,0,22500,8,No,0,0.2953,0
+VF5069,Nicoya,37,Masculino,11,Mensual,8,10,Sí,Sí,2,25500,0,Sí,1,0.689,1
+VF9019,Liberia Centro,29,Femenino,26,Anual,8,9,Sí,Sí,1,21500,4,Sí,0,0.3179,0
+VF7432,Santa Cruz,26,Masculino,6,Mensual,7,14,Sí,No,0,27000,0,No,1,0.6051,1
+VF5159,Santa Cruz,32,Femenino,36,Trimestral,8,4,Sí,No,0,25000,6,Sí,0,0.3189,0
+VF4420,Liberia Centro,32,Femenino,9,Trimestral,11,3,Sí,No,2,28000,0,No,0,0.4246,0
+VF6050,Nicoya,40,Femenino,25,Mensual,10,1,Sí,No,0,28000,3,No,0,0.396,0
+VF4429,Liberia Centro,30,Femenino,6,Trimestral,10,9,Sí,No,1,28000,0,No,0,0.4301,0
+VF8745,Santa Cruz,50,Masculino,25,Anual,7,1,Sí,No,1,19000,5,No,0,0.3014,0
+VF0151,Nicoya,23,Masculino,15,Semestral,10,3,Sí,No,1,24500,2,No,0,0.4138,0
+VF4444,Liberia Centro,42,Femenino,11,Mensual,10,6,Sí,No,0,25500,0,Sí,0,0.4437,0
+VF9754,Nicoya,21,Masculino,2,Mensual,5,17,No,No,1,29000,0,No,1,0.7984,1
+VF6189,Liberia Centro,27,Femenino,7,Trimestral,6,13,Sí,Sí,0,27000,1,Sí,0,0.4365,0
+VF1431,Santa Cruz,48,Masculino,17,Semestral,8,25,No,Sí,0,26000,2,Sí,1,0.5973,1
+VF2966,Santa Cruz,49,Masculino,14,Mensual,7,15,No,Sí,0,28500,3,Sí,0,0.639,1
+VF7126,Santa Cruz,22,Femenino,24,Trimestral,7,9,No,No,0,29500,5,No,0,0.4617,0
+VF0045,Liberia Centro,38,Masculino,7,Mensual,8,20,Sí,Sí,0,29000,0,Sí,0,0.5915,1
+VF7102,Liberia Centro,34,Masculino,37,Semestral,7,8,No,Sí,0,19500,6,Sí,1,0.4424,0
+VF8195,Liberia Centro,41,Femenino,16,Semestral,8,4,Sí,No,0,26000,3,No,0,0.3195,0
+VF3108,Liberia Centro,27,Femenino,11,Trimestral,8,7,Sí,No,1,25500,1,No,0,0.4487,0
+VF5449,Santa Cruz,18,Femenino,25,Mensual,10,5,Sí,No,0,26500,4,No,1,0.4492,0
+VF8561,Liberia Centro,32,Femenino,12,Mensual,15,34,Sí,No,2,31000,2,No,1,0.7765,1
+VF7595,Liberia Centro,23,Femenino,10,Trimestral,10,6,No,No,1,25000,1,No,1,0.4993,0
+VF4166,Liberia Centro,36,Femenino,26,Mensual,9,0,Sí,No,0,29500,4,No,0,0.3603,0
+VF7698,Santa Cruz,18,Masculino,15,Semestral,6,6,No,No,1,24000,3,No,0,0.5721,1
+VF6482,Santa Cruz,31,Femenino,13,Trimestral,7,8,No,No,0,27000,3,Sí,0,0.475,0
+VF4688,Liberia Centro,37,Femenino,24,Anual,3,1,Sí,No,2,22500,5,No,1,0.3938,0
+VF8251,Nicoya,33,Femenino,4,Anual,14,6,Sí,No,0,22500,0,No,0,0.2295,0
+VF9441,Liberia Centro,28,Femenino,4,Trimestral,10,2,Sí,No,0,24500,0,Sí,0,0.3114,0
+VF3510,Liberia Centro,49,Femenino,7,Mensual,5,18,No,Sí,0,30000,0,No,1,0.6724,1
+VF7891,Liberia Centro,46,Femenino,10,Mensual,8,3,No,No,1,26500,2,No,0,0.6048,1
+VF5825,Liberia Centro,27,Femenino,17,Anual,10,1,Sí,No,0,22500,2,No,0,0.195,0
+VF6569,Liberia Centro,18,Masculino,10,Semestral,6,23,No,No,0,24000,1,No,1,0.6532,1
+VF6761,Liberia Centro,40,Masculino,25,Mensual,7,3,Sí,No,0,27500,5,Sí,0,0.4324,0
+VF3901,Liberia Centro,34,Femenino,9,Mensual,13,11,No,No,0,28000,1,Sí,0,0.5324,1
+VF6544,Liberia Centro,46,Femenino,5,Mensual,8,3,Sí,No,0,30000,0,No,0,0.4244,0
+VF0461,Liberia Centro,41,Femenino,16,Mensual,4,19,Sí,No,0,28000,2,Sí,1,0.6395,1
+VF4492,Santa Cruz,56,Femenino,10,Semestral,5,6,Sí,No,1,23500,1,Sí,0,0.4778,0
+VF7328,Santa Cruz,34,Femenino,43,Anual,10,15,No,Sí,0,20500,8,Sí,1,0.3473,0
+VF1951,Liberia Centro,28,Femenino,8,Trimestral,7,8,Sí,No,1,26000,1,No,0,0.4759,0
+VF9382,Liberia Centro,40,Masculino,13,Trimestral,9,16,No,No,0,23500,2,No,0,0.5373,1
+VF4082,Liberia Centro,31,Femenino,16,Mensual,6,8,No,No,0,25000,2,No,0,0.6112,1
+VF1010,Santa Cruz,41,Femenino,25,Mensual,5,4,No,Sí,0,27000,4,Sí,1,0.5451,1
+VF4747,Liberia Centro,46,Femenino,10,Mensual,11,17,No,No,0,27000,1,Sí,1,0.6174,1
+VF3068,Nicoya,24,Femenino,22,Mensual,6,11,No,No,0,29500,3,No,0,0.6394,1
+VF8305,Liberia Centro,35,Masculino,11,Mensual,7,8,Sí,No,0,27500,0,Sí,1,0.4993,0
+VF0618,Liberia Centro,47,Femenino,3,Trimestral,9,4,No,Sí,0,28000,0,No,0,0.3715,0
+VF8316,Liberia Centro,47,Femenino,10,Mensual,16,9,Sí,Sí,0,30500,1,No,0,0.3532,0
+VF7002,Liberia Centro,37,Femenino,4,Semestral,3,6,Sí,No,1,24500,0,Sí,0,0.5049,1
+VF4141,Liberia Centro,37,Femenino,15,Anual,8,3,No,Sí,0,20000,2,No,0,0.2874,0
+VF3967,Liberia Centro,33,Femenino,35,Trimestral,6,20,Sí,No,0,25500,5,Sí,1,0.4839,0
+VF8147,Liberia Centro,25,Masculino,28,Trimestral,12,5,No,Sí,0,26000,4,No,0,0.3348,0
+VF9892,Liberia Centro,38,Femenino,18,Trimestral,10,3,No,No,1,29000,3,Sí,0,0.4139,0
+VF6592,Liberia Centro,33,Femenino,25,Mensual,6,34,No,No,0,29500,4,No,0,0.797,1
+VF4918,Liberia Centro,39,Masculino,18,Trimestral,6,11,No,No,1,25000,3,Sí,0,0.5826,1
+VF2480,Nicoya,33,Femenino,4,Mensual,10,11,No,No,0,27000,1,No,0,0.6312,1
+VF0460,Liberia Centro,28,Femenino,18,Trimestral,9,56,Sí,No,1,25500,4,No,1,0.8578,1
+VF9648,Santa Cruz,35,Femenino,5,Trimestral,11,12,Sí,No,0,25000,0,Sí,0,0.4007,0
+VF4377,Liberia Centro,32,Masculino,28,Trimestral,12,3,Sí,No,0,24500,4,No,0,0.2688,0
+VF1878,Santa Cruz,36,Femenino,17,Anual,13,3,Sí,No,0,21000,3,No,0,0.1986,0
+VF4534,Liberia Centro,37,Femenino,11,Trimestral,11,16,No,No,0,27000,0,No,0,0.4796,0
+VF2270,Santa Cruz,29,Masculino,4,Trimestral,13,8,Sí,No,0,23000,0,Sí,0,0.3575,0
+VF9795,Santa Cruz,41,Femenino,37,Semestral,13,5,Sí,No,1,26500,6,Sí,0,0.3134,0
+VF9996,Nicoya,34,Masculino,9,Semestral,7,24,Sí,Sí,0,24500,2,Sí,1,0.5802,1
+VF2050,Liberia Centro,47,Masculino,8,Semestral,8,11,Sí,No,1,26000,2,No,0,0.4788,0
+VF3215,Liberia Centro,33,Masculino,12,Semestral,15,5,Sí,Sí,0,23500,2,No,0,0.2612,0
+VF6438,Liberia Centro,29,Femenino,36,Mensual,7,9,Sí,No,0,26500,6,Sí,0,0.4854,0
+VF7600,Liberia Centro,32,Femenino,14,Semestral,7,4,No,No,0,24500,1,No,0,0.4181,0
+VF3364,Liberia Centro,20,Femenino,18,Anual,10,5,Sí,No,0,22000,3,No,0,0.2306,0
+VF6349,Santa Cruz,39,Masculino,14,Semestral,6,12,Sí,No,0,22000,2,No,1,0.4729,0
+VF2175,Liberia Centro,43,Masculino,8,Trimestral,4,18,Sí,Sí,1,29000,1,Sí,0,0.5711,1
+VF2767,Santa Cruz,43,Masculino,17,Semestral,9,16,No,Sí,0,23500,3,No,1,0.5209,1
+VF6045,Santa Cruz,25,Masculino,33,Trimestral,7,6,Sí,No,0,24000,6,No,0,0.3753,0
+VF5965,Santa Cruz,41,Masculino,5,Mensual,11,7,Sí,No,0,28000,0,No,0,0.4624,0
+VF9108,Nicoya,36,Femenino,6,Anual,10,12,No,No,0,25000,1,Sí,0,0.3731,0
+VF2034,Nicoya,27,Masculino,8,Mensual,7,17,No,No,0,27000,1,Sí,1,0.7161,1
+VF6103,Liberia Centro,56,Masculino,14,Semestral,5,18,Sí,No,0,23000,2,No,0,0.5141,1
+VF3121,Liberia Centro,40,Masculino,23,Mensual,8,20,No,Sí,1,28500,3,No,0,0.7191,1
+VF5714,Nicoya,27,Masculino,2,Anual,12,9,Sí,No,0,23000,0,No,0,0.2808,0
+VF7868,Liberia Centro,25,Femenino,13,Semestral,14,6,Sí,No,0,23500,3,Sí,0,0.2943,0
+VF8400,Nicoya,41,Masculino,6,Mensual,12,8,No,Sí,1,27500,2,Sí,1,0.6242,1
+VF1432,Santa Cruz,31,Femenino,12,Semestral,6,3,Sí,No,0,21500,1,Sí,0,0.3815,0
+VF1648,Nicoya,41,Femenino,3,Mensual,11,10,Sí,No,1,29500,0,Sí,0,0.5788,1
+VF3619,Nicoya,42,Femenino,14,Trimestral,8,13,Sí,Sí,1,24500,2,Sí,0,0.5193,1
+VF8253,Liberia Centro,29,Femenino,20,Trimestral,6,10,Sí,No,0,25000,4,No,1,0.4222,0
+VF6517,Nicoya,18,Masculino,14,Mensual,7,9,No,No,0,27000,2,Sí,0,0.6393,1
+VF7166,Liberia Centro,41,Femenino,10,Semestral,6,6,Sí,No,0,24500,1,No,0,0.3782,0
+VF8955,Liberia Centro,38,Masculino,11,Trimestral,11,14,Sí,No,0,25000,1,No,0,0.4009,0
+VF1936,Nicoya,45,Masculino,33,Trimestral,7,9,No,Sí,1,27500,5,Sí,0,0.5175,1
+VF9973,Nicoya,45,Masculino,5,Trimestral,9,39,Sí,No,0,27000,0,No,0,0.7049,1
+VF9044,Liberia Centro,35,Femenino,41,Semestral,10,3,Sí,No,0,24000,7,Sí,0,0.2643,0
+VF2049,Santa Cruz,32,Femenino,14,Mensual,10,15,No,No,1,28000,2,No,0,0.7001,1
+VF4975,Liberia Centro,21,Femenino,4,Trimestral,6,10,No,Sí,0,25500,1,No,0,0.5119,1
+VF1357,Nicoya,26,Masculino,8,Semestral,4,2,Sí,No,1,26000,1,Sí,0,0.4792,0
+VF8088,Santa Cruz,22,Femenino,10,Anual,8,3,Sí,No,0,24000,1,Sí,0,0.2395,0
+VF6202,Liberia Centro,30,Femenino,15,Trimestral,12,8,Sí,No,0,27500,2,No,0,0.312,0
+VF7602,Liberia Centro,45,Masculino,18,Mensual,8,18,No,No,1,26500,3,No,0,0.734,1
+VF4770,Liberia Centro,18,Femenino,30,Mensual,10,16,No,Sí,0,27000,6,No,1,0.6038,1
+VF5178,Liberia Centro,53,Femenino,4,Anual,6,2,Sí,No,1,22000,0,Sí,1,0.3048,0
+VF5892,Santa Cruz,38,Femenino,20,Semestral,9,7,Sí,Sí,0,22000,2,No,0,0.3499,0
+VF8180,Liberia Centro,29,Masculino,18,Mensual,11,5,No,Sí,0,28000,2,No,0,0.4738,0
+VF7636,Liberia Centro,53,Masculino,12,Mensual,9,0,No,No,1,28000,1,No,0,0.5383,1
+VF4055,Nicoya,26,Femenino,4,Mensual,8,9,No,No,0,29000,1,No,1,0.6284,1
+VF9150,Santa Cruz,38,Masculino,2,Trimestral,4,16,No,Sí,0,25500,1,Sí,0,0.6083,1
+VF4113,Liberia Centro,28,Femenino,11,Trimestral,5,3,Sí,No,0,29500,1,Sí,0,0.3386,0
+VF6336,Santa Cruz,41,Femenino,11,Mensual,6,5,Sí,No,0,28500,0,Sí,0,0.4837,0
+VF4727,Nicoya,33,Masculino,10,Trimestral,6,7,Sí,No,0,25000,1,No,0,0.4361,0
+VF8849,Liberia Centro,33,Femenino,4,Semestral,9,8,Sí,Sí,1,22500,1,No,0,0.4539,0
+VF0285,Santa Cruz,35,Masculino,19,Semestral,9,1,Sí,No,1,23500,2,No,0,0.378,0
+VF2531,Santa Cruz,30,Masculino,17,Trimestral,14,11,No,No,0,25000,2,Sí,0,0.4148,0
+VF3080,Nicoya,38,Femenino,9,Semestral,9,10,Sí,No,0,23500,2,No,0,0.4292,0
+VF0022,Liberia Centro,46,Masculino,49,Semestral,10,12,Sí,No,0,23500,8,No,1,0.3345,0
+VF3630,Santa Cruz,24,Femenino,21,Mensual,10,18,No,No,0,28500,4,Sí,0,0.6481,1
+VF7501,Santa Cruz,35,Femenino,14,Mensual,7,8,No,Sí,1,27500,1,No,0,0.6538,1
+VF9096,Nicoya,35,Femenino,6,Mensual,10,6,Sí,No,0,27500,0,No,1,0.4869,0
+VF8846,Santa Cruz,34,Femenino,3,Semestral,15,4,Sí,Sí,0,26000,0,No,0,0.2591,0
+VF7345,Santa Cruz,39,Masculino,8,Trimestral,6,9,No,Sí,0,23000,1,No,0,0.5161,1
+VF0525,Nicoya,40,Masculino,24,Mensual,6,19,Sí,Sí,1,27000,4,No,0,0.7071,1
+VF6270,Santa Cruz,55,Femenino,13,Anual,10,11,No,No,2,24500,2,Sí,0,0.4792,0
+VF9945,Liberia Centro,18,Masculino,7,Trimestral,10,8,Sí,No,0,27500,1,Sí,0,0.3552,0
+VF5310,Nicoya,47,Femenino,24,Trimestral,11,1,No,Sí,1,26500,4,Sí,0,0.3996,0
+VF1971,Liberia Centro,35,Femenino,11,Mensual,8,9,No,No,0,26000,2,Sí,1,0.5923,1
+VF3217,Liberia Centro,38,Masculino,11,Trimestral,10,6,Sí,Sí,0,24500,0,No,0,0.3193,0
+VF4745,Liberia Centro,37,Masculino,2,Mensual,10,7,No,No,1,29000,0,No,0,0.6203,1
+VF6082,Nicoya,28,Femenino,14,Mensual,7,10,No,No,0,31000,2,Sí,0,0.6131,1
+VF6757,Nicoya,36,Masculino,1,Mensual,12,26,No,No,1,28500,1,Sí,1,0.7945,1
+VF9129,Santa Cruz,31,Masculino,17,Trimestral,11,3,Sí,No,0,25500,3,No,0,0.3066,0
+VF7351,Liberia Centro,38,Masculino,7,Trimestral,12,12,Sí,Sí,0,27500,0,No,0,0.3408,0
+VF1887,Liberia Centro,36,Femenino,3,Trimestral,9,4,Sí,No,2,25500,0,No,1,0.4918,0
+VF4061,Liberia Centro,34,Masculino,7,Mensual,9,26,Sí,No,0,30000,0,No,1,0.6547,1
+VF9680,Liberia Centro,32,Femenino,22,Mensual,10,9,Sí,No,0,28500,3,Sí,0,0.4481,0
+VF6576,Santa Cruz,39,Femenino,11,Trimestral,7,11,Sí,Sí,0,25500,0,No,0,0.4117,0
+VF6805,Liberia Centro,19,Femenino,8,Mensual,8,7,No,Sí,0,28500,0,Sí,0,0.5467,1
+VF9178,Nicoya,42,Femenino,3,Mensual,17,14,Sí,No,0,25000,0,No,1,0.4956,0
+VF8162,Liberia Centro,48,Masculino,22,Mensual,9,7,Sí,Sí,0,28000,3,No,0,0.4243,0
+VF0006,Liberia Centro,33,Masculino,14,Mensual,5,1,No,No,0,25500,2,Sí,0,0.5503,1
+VF2570,Nicoya,43,Masculino,16,Mensual,8,11,Sí,Sí,0,29500,3,Sí,0,0.5177,1
+VF3535,Liberia Centro,18,Masculino,16,Semestral,10,25,Sí,No,0,23500,2,No,0,0.538,1
+VF8006,Liberia Centro,26,Masculino,8,Mensual,7,3,No,No,0,29000,0,Sí,0,0.5294,1
+VF5710,Nicoya,20,Femenino,4,Anual,5,19,Sí,No,1,22500,1,No,0,0.5524,1
+VF5050,Santa Cruz,36,Femenino,3,Mensual,8,16,Sí,No,2,26500,0,No,1,0.7508,1
+VF8719,Nicoya,35,Femenino,3,Anual,8,5,No,No,0,21500,1,No,0,0.3653,0
+VF2140,Nicoya,54,Femenino,19,Mensual,9,8,Sí,No,2,28000,3,No,0,0.6434,1
+VF1156,Santa Cruz,27,Femenino,14,Trimestral,10,14,No,No,0,25000,1,No,0,0.5077,1
+VF2097,Santa Cruz,18,Masculino,9,Semestral,4,9,No,No,0,22500,1,Sí,0,0.5621,1
+VF3201,Santa Cruz,38,Femenino,6,Semestral,8,6,Sí,No,0,25000,0,Sí,0,0.3668,0
+VF4555,Santa Cruz,30,Masculino,23,Mensual,8,5,Sí,No,0,27500,3,No,0,0.4639,0
+VF4041,Nicoya,44,Masculino,8,Trimestral,11,7,No,No,1,27500,1,No,0,0.5065,1
+VF1964,Liberia Centro,23,Masculino,20,Anual,5,18,Sí,Sí,1,23500,3,Sí,0,0.4485,0
+VF2668,Santa Cruz,41,Masculino,16,Trimestral,9,10,No,No,0,27000,3,No,0,0.4622,0
+VF1205,Santa Cruz,24,Femenino,11,Trimestral,11,9,Sí,Sí,0,24000,2,No,0,0.3686,0
+VF6905,Liberia Centro,39,Masculino,13,Anual,10,2,Sí,Sí,0,22000,2,No,0,0.1959,0
+VF7695,Nicoya,36,Masculino,5,Trimestral,11,16,No,Sí,1,28000,1,No,1,0.5932,1
+VF8186,Liberia Centro,47,Femenino,4,Trimestral,10,6,No,No,0,25500,0,No,1,0.4093,0
+VF8589,Santa Cruz,46,Femenino,45,Mensual,8,3,Sí,Sí,1,29000,7,Sí,0,0.4413,0
+VF1168,Santa Cruz,40,Masculino,8,Mensual,18,2,Sí,No,1,28000,1,Sí,0,0.3885,0
+VF2567,Liberia Centro,26,Femenino,21,Mensual,6,8,No,No,0,29500,3,Sí,0,0.5714,1
+VF2339,Liberia Centro,19,Femenino,11,Trimestral,10,5,No,No,0,26500,1,Sí,0,0.3946,0
+VF1310,Nicoya,43,Femenino,26,Semestral,4,25,No,No,0,22000,4,No,1,0.6993,1
+VF7153,Nicoya,24,Femenino,30,Mensual,9,3,Sí,No,0,28000,5,No,0,0.4382,0
+VF0638,Liberia Centro,51,Masculino,5,Anual,4,9,No,No,0,21000,0,Sí,0,0.4052,0
+VF5807,Liberia Centro,19,Masculino,5,Trimestral,7,11,Sí,No,3,28000,0,No,1,0.66,1
+VF5809,Santa Cruz,22,Masculino,19,Semestral,12,9,No,No,0,24000,3,No,0,0.4295,0
+VF8053,Nicoya,25,Masculino,41,Mensual,6,10,Sí,No,1,25000,5,No,0,0.6273,1
+VF9657,Nicoya,38,Masculino,4,Mensual,8,8,Sí,Sí,1,25500,0,Sí,0,0.6118,1
+VF8410,Liberia Centro,20,Femenino,28,Anual,6,3,Sí,No,0,23500,5,No,0,0.2363,0
+VF9959,Santa Cruz,43,Femenino,7,Semestral,14,4,Sí,No,0,24500,0,Sí,0,0.2749,0
+VF1317,Santa Cruz,46,Femenino,6,Trimestral,12,4,No,Sí,1,27500,0,No,0,0.4219,0
+VF7951,Nicoya,52,Masculino,14,Trimestral,6,10,Sí,No,0,26500,2,No,0,0.4384,0
+VF3265,Nicoya,57,Masculino,8,Trimestral,12,4,Sí,No,1,26500,1,No,0,0.3813,0
+VF0648,Santa Cruz,46,Femenino,3,Trimestral,11,6,Sí,No,0,29000,1,No,0,0.3222,0
+VF9836,Liberia Centro,40,Femenino,2,Semestral,7,9,Sí,No,0,22000,0,No,0,0.4277,0
+VF3672,Liberia Centro,31,Femenino,6,Anual,11,32,Sí,No,0,22000,1,Sí,1,0.4777,0
+VF8563,Santa Cruz,39,Femenino,13,Mensual,9,14,No,No,1,28000,2,No,1,0.7006,1
+VF5349,Liberia Centro,47,Femenino,16,Trimestral,8,23,Sí,No,0,27000,2,No,1,0.5049,1
+VF6253,Liberia Centro,46,Masculino,10,Trimestral,8,9,Sí,No,0,27000,2,No,0,0.3776,0
+VF9212,Nicoya,18,Femenino,15,Trimestral,7,10,No,No,0,27500,3,No,0,0.5208,1
+VF5240,Liberia Centro,33,Masculino,26,Mensual,7,13,Sí,No,0,30000,3,Sí,0,0.5131,1
+VF3745,Liberia Centro,39,Masculino,7,Mensual,11,18,Sí,Sí,0,29000,1,Sí,0,0.5341,1
+VF5322,Liberia Centro,48,Masculino,5,Mensual,11,6,Sí,No,0,28000,0,Sí,0,0.4256,0
+VF2698,Liberia Centro,43,Femenino,3,Anual,9,27,Sí,No,2,26500,0,Sí,1,0.5742,1
+VF8604,Liberia Centro,25,Masculino,13,Mensual,11,11,Sí,No,1,27000,2,No,0,0.5761,1
+VF4027,Liberia Centro,58,Femenino,10,Semestral,8,2,No,No,0,27000,1,No,0,0.3597,0
+VF8125,Liberia Centro,26,Femenino,9,Trimestral,9,10,Sí,No,1,27000,1,Sí,0,0.4564,0
+VF2704,Liberia Centro,22,Masculino,21,Mensual,9,2,Sí,No,2,27500,3,No,0,0.5724,1
+VF0086,Liberia Centro,26,Masculino,18,Anual,8,13,No,No,0,23500,2,No,0,0.3766,0
+VF9200,Santa Cruz,34,Femenino,14,Mensual,9,9,Sí,No,1,27000,3,Sí,0,0.5867,1
+VF8428,Nicoya,32,Masculino,23,Mensual,6,27,No,No,0,29000,3,Sí,1,0.7725,1
+VF5782,Liberia Centro,38,Masculino,9,Semestral,6,3,No,No,1,25000,0,Sí,0,0.4983,0
+VF1253,Liberia Centro,44,Femenino,14,Semestral,12,2,Sí,No,0,23000,1,Sí,0,0.2648,0
+VF3617,Santa Cruz,31,Masculino,31,Semestral,8,8,Sí,No,0,23500,6,No,0,0.3778,0
+VF8813,Nicoya,37,Masculino,7,Trimestral,9,2,Sí,No,0,25500,1,No,0,0.3476,0
+VF8250,Nicoya,23,Masculino,12,Anual,15,9,No,Sí,0,20500,2,No,0,0.3036,0
+VF3867,Liberia Centro,32,Femenino,22,Semestral,12,8,Sí,Sí,1,26500,3,No,0,0.3543,0
+VF6715,Nicoya,24,Femenino,6,Semestral,16,3,No,No,0,27500,1,Sí,0,0.3251,0
+VF9203,Santa Cruz,18,Masculino,33,Anual,13,10,Sí,No,0,22500,5,No,0,0.2318,0
+VF0983,Liberia Centro,44,Femenino,23,Semestral,4,10,Sí,No,0,22000,3,No,0,0.4391,0
+VF3115,Liberia Centro,43,Femenino,1,Semestral,6,4,No,No,0,23500,0,Sí,0,0.4526,0
+VF7705,Liberia Centro,27,Masculino,13,Anual,7,6,Sí,No,1,23000,3,Sí,1,0.3351,0
+VF0855,Liberia Centro,27,Masculino,11,Semestral,8,7,No,No,0,22500,1,No,1,0.4635,0
+VF0667,Liberia Centro,46,Masculino,27,Semestral,10,7,Sí,No,0,24000,4,Sí,0,0.3114,0
+VF4909,Santa Cruz,30,Masculino,9,Trimestral,13,2,Sí,Sí,0,26000,1,Sí,0,0.2637,0
+VF7503,Liberia Centro,21,Masculino,12,Semestral,5,2,No,Sí,0,23000,2,No,0,0.4381,0
+VF2930,Liberia Centro,28,Femenino,11,Trimestral,13,14,Sí,No,0,24500,2,No,0,0.3867,0
+VF2749,Nicoya,30,Femenino,22,Trimestral,10,8,No,No,0,27500,4,No,0,0.4378,0
+VF1350,Liberia Centro,18,Masculino,6,Mensual,11,8,Sí,No,0,29000,0,No,0,0.4631,0
+VF7873,Nicoya,26,Femenino,10,Anual,6,1,Sí,Sí,1,22000,2,No,0,0.3282,0
+VF4684,Liberia Centro,50,Femenino,20,Semestral,13,9,No,No,1,24500,3,No,0,0.4502,0
+VF7724,Santa Cruz,34,Femenino,14,Trimestral,19,4,Sí,No,0,25000,2,Sí,0,0.2265,0
+VF8482,Liberia Centro,38,Masculino,12,Mensual,13,9,Sí,Sí,1,30500,1,No,0,0.4746,0
+VF7521,Liberia Centro,41,Femenino,17,Trimestral,10,13,No,No,0,25500,1,No,0,0.4596,0
+VF4869,Santa Cruz,32,Femenino,49,Trimestral,7,20,No,Sí,0,27000,8,No,1,0.5248,1
+VF6001,Santa Cruz,33,Masculino,16,Mensual,4,5,No,No,0,28500,2,Sí,0,0.5956,1
+VF5359,Nicoya,39,Femenino,18,Mensual,10,18,No,No,0,27500,3,No,1,0.6688,1
+VF4406,Santa Cruz,27,Masculino,15,Mensual,7,17,Sí,No,0,27000,2,No,1,0.6226,1
+VF2700,Nicoya,38,Femenino,4,Mensual,5,1,Sí,No,0,28500,0,Sí,0,0.4932,0
+VF6119,Liberia Centro,30,Femenino,8,Mensual,2,8,No,No,0,29500,0,Sí,1,0.638,1
+VF9625,Liberia Centro,18,Masculino,12,Mensual,7,14,Sí,No,0,27500,2,No,0,0.586,1
+VF7517,Liberia Centro,26,Femenino,29,Mensual,13,1,Sí,No,0,23000,3,No,1,0.3577,0
+VF7567,Nicoya,43,Masculino,12,Trimestral,4,11,No,No,0,23500,1,Sí,0,0.5785,1
+VF9145,Santa Cruz,30,Masculino,45,Mensual,6,7,Sí,No,0,28000,6,No,0,0.4692,0
+VF2402,Liberia Centro,24,Femenino,4,Mensual,9,15,No,No,0,27000,0,No,0,0.6517,1
+VF1751,Santa Cruz,45,Femenino,14,Anual,11,2,No,No,0,24500,2,Sí,0,0.2418,0
+VF5402,Nicoya,35,Femenino,20,Mensual,8,7,No,No,0,30500,2,No,1,0.5583,1
+VF2161,Santa Cruz,35,Masculino,3,Trimestral,9,2,Sí,No,0,25000,1,No,0,0.3439,0
+VF1090,Liberia Centro,30,Masculino,3,Anual,11,10,No,No,0,19500,1,No,0,0.3624,0
+VF2951,Nicoya,25,Femenino,4,Trimestral,5,8,Sí,No,0,27000,1,Sí,0,0.4583,0
+VF7086,Liberia Centro,34,Masculino,3,Trimestral,3,4,No,No,0,25000,0,No,0,0.5014,1
+VF3478,Santa Cruz,44,Femenino,17,Trimestral,9,7,No,No,1,27000,2,No,0,0.4986,0
+VF9694,Nicoya,37,Femenino,11,Semestral,8,9,Sí,Sí,0,24500,1,No,0,0.4003,0
+VF7468,Santa Cruz,25,Masculino,26,Semestral,7,8,No,No,0,26000,4,No,0,0.4583,0
+VF1600,Nicoya,51,Masculino,17,Mensual,8,17,No,No,1,26500,2,No,0,0.7481,1
+VF9912,Nicoya,45,Masculino,20,Semestral,11,22,Sí,No,0,24500,3,Sí,1,0.4916,0
+VF6922,Liberia Centro,46,Masculino,2,Mensual,9,8,No,No,1,24500,0,No,0,0.6663,1
+VF5713,Santa Cruz,23,Femenino,2,Mensual,12,9,Sí,No,0,29000,0,No,0,0.4799,0
+VF5635,Liberia Centro,38,Femenino,21,Mensual,8,6,No,Sí,0,27000,3,Sí,0,0.5157,1
+VF1056,Liberia Centro,45,Masculino,7,Anual,10,18,No,No,0,21000,1,Sí,0,0.4216,0
+VF7713,Liberia Centro,46,Masculino,18,Semestral,11,22,Sí,No,0,23500,3,No,0,0.4725,0
+VF7012,Nicoya,18,Femenino,10,Anual,13,17,Sí,No,0,21000,1,No,0,0.3441,0
+VF3661,Santa Cruz,36,Femenino,52,Trimestral,13,8,No,No,1,28000,8,No,0,0.3968,0
+VF7435,Liberia Centro,18,Femenino,7,Mensual,8,13,No,No,1,28000,1,No,1,0.7101,1
+VF9125,Liberia Centro,29,Masculino,6,Trimestral,7,14,No,Sí,1,24500,0,No,0,0.6135,1
+VF2377,Liberia Centro,35,Masculino,14,Anual,11,3,No,Sí,0,23500,2,No,0,0.2412,0
+VF5251,Liberia Centro,42,Femenino,6,Anual,10,8,No,No,0,24500,1,No,0,0.3074,0
+VF1054,Nicoya,29,Masculino,35,Anual,11,24,Sí,No,1,23000,5,Sí,0,0.4539,0
+VF6170,Liberia Centro,25,Masculino,23,Mensual,13,17,No,Sí,0,28000,3,Sí,0,0.5631,1
+VF2045,Nicoya,32,Femenino,44,Trimestral,6,10,Sí,No,1,27000,7,Sí,0,0.4712,0
+VF3650,Nicoya,25,Femenino,17,Trimestral,10,21,Sí,No,0,25500,2,No,1,0.5157,1
+VF0293,Nicoya,33,Femenino,18,Mensual,10,14,No,Sí,0,27500,3,No,1,0.6185,1
+VF2534,Liberia Centro,34,Femenino,12,Mensual,6,23,No,No,1,28000,3,Sí,1,0.7944,1
+VF3075,Santa Cruz,24,Masculino,20,Semestral,11,10,No,No,1,22500,3,No,0,0.5404,1
+VF9015,Liberia Centro,36,Masculino,12,Anual,9,3,No,Sí,2,25000,3,No,0,0.401,0
+VF7593,Santa Cruz,32,Femenino,13,Anual,7,4,Sí,No,1,21000,2,Sí,0,0.334,0
+VF5371,Liberia Centro,29,Femenino,27,Mensual,8,13,No,No,0,24500,3,Sí,0,0.6142,1
+VF6089,Santa Cruz,25,Masculino,6,Trimestral,6,3,No,No,0,26000,1,No,0,0.463,0
+VF1637,Liberia Centro,26,Masculino,7,Trimestral,11,7,No,Sí,0,25000,1,No,0,0.4081,0
+VF9811,Liberia Centro,49,Masculino,16,Mensual,8,10,Sí,No,1,29000,2,No,1,0.5681,1
+VF4209,Liberia Centro,35,Masculino,9,Semestral,11,9,Sí,No,0,22500,0,No,0,0.3616,0
+VF9779,Liberia Centro,25,Femenino,23,Mensual,10,5,Sí,No,0,27500,4,No,0,0.4256,0
+VF1576,Liberia Centro,34,Femenino,4,Semestral,9,10,Sí,Sí,0,24500,0,Sí,0,0.3727,0
+VF1125,Santa Cruz,34,Masculino,6,Trimestral,12,6,No,No,0,27500,1,No,1,0.3966,0
+VF1452,Santa Cruz,39,Femenino,10,Semestral,5,2,Sí,Sí,0,26000,0,No,0,0.3388,0
+VF5911,Liberia Centro,53,Femenino,13,Trimestral,6,11,Sí,No,2,27500,3,No,0,0.5698,1
+VF8767,Nicoya,34,Masculino,16,Mensual,9,9,Sí,No,0,27500,2,No,0,0.5208,1
+VF9869,Nicoya,21,Femenino,12,Trimestral,9,5,No,Sí,0,25000,2,Sí,0,0.4372,0
+VF4171,Liberia Centro,41,Masculino,7,Mensual,10,5,No,No,0,28500,1,No,0,0.5144,1
+VF2321,Nicoya,47,Masculino,43,Mensual,9,3,Sí,No,1,28500,7,Sí,0,0.4736,0
+VF9521,Liberia Centro,37,Masculino,13,Semestral,11,14,Sí,No,0,22000,2,No,1,0.4134,0
+VF6771,Liberia Centro,38,Femenino,24,Anual,8,9,No,No,1,22000,5,No,0,0.4116,0
+VF4467,Liberia Centro,31,Femenino,15,Mensual,4,9,No,No,0,29500,2,Sí,0,0.6143,1
+VF8359,Liberia Centro,44,Femenino,14,Trimestral,11,10,Sí,Sí,0,26500,2,Sí,0,0.3229,0
+VF7469,Santa Cruz,32,Femenino,18,Semestral,6,6,No,No,1,21000,3,Sí,0,0.5684,1
+VF4052,Santa Cruz,18,Masculino,7,Anual,8,2,Sí,No,0,21000,1,No,0,0.2612,0
+VF7877,Santa Cruz,51,Masculino,20,Trimestral,5,20,Sí,No,1,26500,4,No,0,0.6126,1
+VF2586,Santa Cruz,35,Femenino,24,Mensual,10,1,Sí,No,0,28000,4,Sí,0,0.3834,0
+VF0023,Liberia Centro,21,Masculino,7,Trimestral,9,14,No,No,0,23500,1,No,0,0.5396,1
+VF9160,Liberia Centro,26,Masculino,16,Mensual,11,13,Sí,No,1,27500,2,No,1,0.5853,1
+VF0566,Santa Cruz,30,Femenino,20,Mensual,9,12,No,No,0,30000,2,Sí,1,0.5803,1
+VF6695,Santa Cruz,18,Masculino,2,Anual,11,6,Sí,No,1,22500,1,Sí,0,0.3256,0
+VF3656,Liberia Centro,39,Masculino,24,Mensual,11,14,No,No,0,29500,4,No,0,0.5623,1
+VF9323,Santa Cruz,32,Femenino,11,Mensual,9,3,Sí,No,0,28000,0,No,0,0.4367,0
+VF3190,Nicoya,50,Masculino,13,Anual,6,7,Sí,Sí,1,22000,2,Sí,0,0.3614,0
+VF1340,Liberia Centro,22,Masculino,8,Trimestral,11,16,Sí,No,0,23500,1,No,0,0.4504,0
+VF4001,Santa Cruz,40,Masculino,4,Anual,9,3,Sí,Sí,1,21000,0,No,0,0.2993,0
+VF8512,Santa Cruz,33,Masculino,23,Mensual,7,8,No,No,1,27500,3,No,0,0.6615,1
+VF9075,Liberia Centro,21,Femenino,11,Mensual,9,26,No,No,0,29000,2,Sí,1,0.7295,1
+VF5757,Santa Cruz,55,Femenino,26,Trimestral,10,3,No,No,0,25000,5,No,0,0.3643,0
+VF9618,Nicoya,41,Femenino,18,Semestral,9,21,No,No,0,23000,2,No,0,0.603,1
+VF8493,Santa Cruz,49,Masculino,16,Mensual,11,19,Sí,No,1,28500,1,No,0,0.6347,1
+VF9840,Nicoya,26,Masculino,24,Semestral,10,15,Sí,Sí,0,25000,5,Sí,0,0.4245,0
+VF1875,Santa Cruz,31,Masculino,2,Semestral,8,12,Sí,No,1,23500,0,No,1,0.5406,1
+VF3406,Nicoya,29,Femenino,11,Mensual,16,3,Sí,No,2,28500,0,No,0,0.5182,1
+VF1701,Nicoya,18,Femenino,11,Trimestral,10,1,Sí,Sí,0,25000,2,Sí,0,0.3147,0
+VF9902,Liberia Centro,35,Femenino,21,Anual,7,5,Sí,No,0,21500,3,No,0,0.2501,0
+VF6808,Liberia Centro,48,Masculino,16,Semestral,8,7,Sí,Sí,0,25000,2,No,1,0.3329,0
+VF0164,Santa Cruz,44,Masculino,12,Semestral,7,16,No,Sí,0,23500,2,Sí,0,0.5499,1
+VF8505,Liberia Centro,44,Femenino,20,Mensual,9,10,Sí,No,1,27000,3,No,1,0.5644,1
+VF0318,Liberia Centro,18,Femenino,6,Mensual,9,6,Sí,No,0,29000,1,Sí,0,0.4662,0
+VF5051,Liberia Centro,41,Femenino,4,Anual,13,13,Sí,No,0,21000,0,No,0,0.2725,0
+VF5083,Nicoya,25,Femenino,14,Semestral,10,10,Sí,Sí,0,26500,2,Sí,0,0.3715,0
+VF2296,Liberia Centro,40,Femenino,27,Trimestral,7,14,No,No,0,29000,4,No,0,0.4766,0
+VF6765,Nicoya,42,Femenino,60,Semestral,8,8,Sí,Sí,2,25000,10,Sí,0,0.4592,0
+VF1279,Liberia Centro,24,Masculino,17,Mensual,6,0,Sí,No,2,26000,3,No,1,0.6102,1
+VF3651,Nicoya,47,Femenino,4,Anual,4,12,Sí,No,2,21000,0,Sí,1,0.5541,1
+VF9758,Nicoya,44,Masculino,28,Mensual,10,16,No,No,0,30000,4,No,1,0.6141,1
+VF0591,Liberia Centro,47,Femenino,9,Semestral,8,3,No,Sí,1,24500,0,No,0,0.4535,0
+VF2578,Santa Cruz,46,Femenino,35,Mensual,7,5,No,No,1,29000,5,Sí,0,0.587,1
+VF1862,Santa Cruz,25,Masculino,37,Mensual,7,9,No,No,1,27500,6,Sí,0,0.6534,1
+VF0200,Nicoya,36,Masculino,10,Trimestral,10,3,No,No,0,26000,1,No,0,0.4102,0
+VF3796,Santa Cruz,24,Femenino,20,Semestral,9,10,No,No,1,23500,3,Sí,0,0.5527,1
+VF1646,Santa Cruz,33,Masculino,4,Mensual,11,28,No,No,0,26000,1,Sí,0,0.7588,1
+VF7154,Nicoya,32,Femenino,3,Semestral,12,8,No,No,0,25000,0,No,0,0.4454,0
+VF5760,Liberia Centro,36,Femenino,4,Mensual,11,10,No,No,1,28500,0,Sí,1,0.6292,1
+VF6420,Santa Cruz,48,Masculino,7,Anual,10,14,Sí,No,1,21000,1,No,0,0.3999,0
+VF1234,Liberia Centro,37,Femenino,15,Mensual,10,10,No,No,0,28500,2,No,0,0.5523,1
+VF3681,Santa Cruz,33,Masculino,7,Mensual,9,31,No,Sí,1,28000,1,No,0,0.8278,1
+VF7831,Liberia Centro,18,Femenino,4,Anual,7,8,Sí,No,1,21500,0,Sí,0,0.3748,0
+VF7496,Liberia Centro,28,Masculino,14,Anual,17,2,No,Sí,1,20500,2,No,0,0.2514,0
+VF9327,Santa Cruz,19,Femenino,26,Mensual,7,6,Sí,No,0,28500,4,No,0,0.4833,0
+VF3288,Nicoya,39,Masculino,13,Anual,7,23,No,No,1,22000,1,Sí,0,0.6113,1
+VF5344,Liberia Centro,18,Femenino,8,Trimestral,6,8,Sí,Sí,0,27500,1,No,0,0.3906,0
+VF9494,Liberia Centro,27,Femenino,33,Anual,9,10,No,No,0,22000,6,Sí,1,0.321,0
+VF3167,Nicoya,31,Femenino,8,Trimestral,6,2,Sí,No,0,28000,2,No,0,0.3724,0
+VF6724,Liberia Centro,26,Femenino,11,Anual,8,5,No,No,1,23500,2,No,0,0.386,0
+VF9903,Liberia Centro,31,Masculino,18,Mensual,4,5,No,No,0,28500,3,No,0,0.5856,1
+VF9718,Liberia Centro,43,Femenino,4,Trimestral,17,8,Sí,No,0,26000,0,No,0,0.271,0
+VF4436,Liberia Centro,21,Femenino,15,Mensual,12,6,No,No,0,29500,2,Sí,0,0.4819,0
+VF5783,Santa Cruz,27,Masculino,4,Anual,6,8,No,No,0,22000,0,Sí,1,0.3965,0
+VF8906,Santa Cruz,22,Masculino,18,Anual,7,3,Sí,No,1,21500,3,Sí,0,0.3236,0
+VF2198,Nicoya,37,Femenino,13,Mensual,9,2,Sí,No,1,26500,2,No,0,0.5365,1
+VF5299,Liberia Centro,42,Femenino,26,Semestral,8,6,Sí,No,0,21000,4,No,0,0.352,0
+VF9047,Liberia Centro,23,Femenino,11,Anual,12,19,Sí,No,3,21500,0,Sí,0,0.5594,1
+VF9463,Santa Cruz,39,Femenino,35,Trimestral,9,31,Sí,No,1,24500,6,No,1,0.6625,1
+VF6506,Nicoya,41,Femenino,28,Mensual,10,14,Sí,No,0,27000,4,Sí,1,0.5306,1
+VF3301,Liberia Centro,43,Femenino,7,Semestral,7,13,No,No,0,21000,1,No,0,0.5468,1
+VF9231,Santa Cruz,30,Femenino,12,Trimestral,10,39,Sí,Sí,1,30000,3,No,0,0.7166,1
+VF9841,Nicoya,54,Femenino,1,Semestral,8,11,Sí,Sí,0,25000,0,No,0,0.4248,0
+VF1814,Liberia Centro,31,Masculino,14,Trimestral,8,4,No,No,0,25500,3,No,0,0.4192,0
+VF5379,Nicoya,26,Femenino,12,Mensual,6,7,No,No,0,31000,1,No,1,0.6023,1
+VF2288,Liberia Centro,23,Femenino,7,Trimestral,6,8,Sí,No,1,25500,2,No,0,0.5038,1
+VF0992,Santa Cruz,39,Femenino,9,Anual,5,13,Sí,No,2,20000,1,No,0,0.5426,1
+VF6486,Santa Cruz,37,Femenino,29,Mensual,11,2,Sí,No,1,26500,4,No,0,0.4606,0
+VF0252,Liberia Centro,29,Femenino,8,Mensual,9,2,Sí,No,0,28000,1,No,0,0.4239,0
+VF8973,Liberia Centro,18,Femenino,29,Mensual,14,5,Sí,No,1,29000,4,No,0,0.4305,0
+VF5662,Liberia Centro,36,Masculino,16,Semestral,8,4,Sí,No,1,22000,1,No,0,0.4177,0
+VF6047,Liberia Centro,67,Femenino,20,Semestral,7,18,Sí,No,1,22500,3,No,0,0.5497,1
+VF1934,Santa Cruz,30,Femenino,4,Anual,9,2,Sí,Sí,1,25000,0,No,0,0.2708,0
+VF0623,Liberia Centro,29,Femenino,24,Semestral,8,15,Sí,No,0,22000,3,No,0,0.4452,0
+VF4409,Liberia Centro,40,Femenino,13,Mensual,9,10,Sí,No,0,30500,2,No,0,0.4747,0
+VF0856,Liberia Centro,47,Masculino,18,Anual,6,11,Sí,No,0,20000,3,No,0,0.3231,0
+VF6008,Liberia Centro,30,Masculino,6,Anual,3,19,No,Sí,0,22000,1,No,0,0.5217,1
+VF9805,Santa Cruz,46,Masculino,12,Anual,7,2,Sí,No,0,19500,2,No,0,0.2589,0
+VF7040,Santa Cruz,33,Masculino,10,Mensual,13,7,Sí,No,0,27500,2,Sí,0,0.4366,0
+VF3853,Santa Cruz,25,Masculino,11,Trimestral,6,3,Sí,No,1,27500,2,Sí,0,0.4402,0
+VF4785,Liberia Centro,25,Femenino,5,Mensual,10,22,Sí,No,1,27000,1,No,0,0.7058,1
+VF6282,Santa Cruz,50,Femenino,31,Trimestral,8,1,No,No,0,23000,5,Sí,0,0.3707,0
+VF8082,Liberia Centro,30,Femenino,26,Mensual,6,15,No,No,1,27000,3,No,1,0.7184,1
+VF2163,Liberia Centro,43,Femenino,5,Semestral,12,3,No,No,1,25500,0,Sí,0,0.4165,0
+VF1044,Santa Cruz,37,Masculino,28,Mensual,12,10,No,No,0,28000,4,Sí,0,0.5206,1
+VF3486,Santa Cruz,32,Masculino,13,Trimestral,10,11,Sí,No,0,24500,1,Sí,0,0.3976,0
+VF2967,Santa Cruz,36,Masculino,4,Mensual,9,6,No,Sí,0,27500,1,Sí,0,0.5514,1
+VF0531,Nicoya,26,Femenino,8,Anual,17,0,No,No,0,23000,1,Sí,0,0.2067,0
+VF6498,Liberia Centro,23,Masculino,3,Trimestral,6,18,No,No,1,26000,0,No,1,0.6807,1
+VF8663,Liberia Centro,26,Femenino,23,Mensual,7,5,Sí,No,0,28500,2,Sí,1,0.4442,0
+VF7801,Liberia Centro,37,Masculino,16,Anual,7,21,Sí,No,1,22500,2,No,1,0.4769,0
+VF5155,Santa Cruz,25,Masculino,9,Mensual,8,6,No,No,0,27000,2,Sí,1,0.5852,1
+VF4868,Liberia Centro,36,Masculino,60,Trimestral,12,24,Sí,No,1,24000,11,No,1,0.5076,1
+VF5231,Santa Cruz,34,Masculino,20,Anual,16,7,Sí,No,0,22500,3,Sí,0,0.1875,0
+VF2429,Liberia Centro,39,Femenino,10,Mensual,8,33,No,No,0,26000,1,Sí,1,0.7972,1
+VF0517,Liberia Centro,33,Femenino,11,Mensual,9,7,Sí,No,1,30000,1,Sí,0,0.5269,1
+VF0411,Liberia Centro,25,Femenino,14,Mensual,8,7,No,No,0,27500,3,Sí,0,0.5656,1
+VF8032,Santa Cruz,34,Femenino,7,Semestral,9,8,Sí,No,1,23000,1,Sí,0,0.4706,0
+VF9468,Nicoya,42,Femenino,18,Mensual,9,5,Sí,Sí,0,28000,4,Sí,0,0.4491,0
+VF1166,Nicoya,30,Masculino,13,Trimestral,10,5,No,No,1,27000,2,No,0,0.5051,1
+VF8969,Santa Cruz,39,Femenino,48,Mensual,9,21,No,No,0,28000,8,No,0,0.6446,1
+VF8617,Nicoya,32,Femenino,13,Mensual,9,9,Sí,No,1,29500,1,No,1,0.5871,1
+VF0764,Santa Cruz,51,Femenino,35,Trimestral,7,3,Sí,Sí,0,28500,4,Sí,0,0.2698,0
+VF8055,Nicoya,39,Masculino,22,Anual,11,12,No,No,0,20000,4,Sí,0,0.371,0
+VF3547,Liberia Centro,30,Femenino,21,Mensual,12,14,Sí,Sí,0,28500,3,No,0,0.4655,0
+VF6329,Santa Cruz,30,Femenino,3,Mensual,12,9,Sí,No,1,29000,0,No,0,0.5526,1
+VF2497,Santa Cruz,29,Femenino,7,Mensual,10,12,No,No,1,29500,2,No,0,0.6802,1
+VF1228,Liberia Centro,26,Femenino,13,Trimestral,15,18,No,Sí,0,29500,1,Sí,0,0.4145,0
+VF6033,Nicoya,26,Masculino,13,Trimestral,10,2,Sí,No,1,28500,2,Sí,1,0.3827,0
+VF7034,Santa Cruz,53,Masculino,5,Semestral,12,6,No,Sí,0,23500,0,No,0,0.3842,0
+VF9951,Santa Cruz,26,Masculino,4,Mensual,11,18,Sí,No,0,29000,1,No,1,0.5884,1
+VF1239,Nicoya,28,Femenino,22,Anual,9,14,No,No,0,23500,3,Sí,0,0.3935,0
+VF8141,Liberia Centro,36,Masculino,5,Mensual,8,23,Sí,No,1,27000,1,No,0,0.7325,1
+VF8169,Liberia Centro,18,Femenino,26,Trimestral,12,15,No,No,0,29000,4,No,0,0.4369,0
+VF7479,Nicoya,41,Femenino,4,Trimestral,13,8,No,No,1,27500,0,No,0,0.494,0
+VF4357,Liberia Centro,42,Femenino,11,Mensual,11,1,No,No,0,28000,2,Sí,0,0.4484,0
+VF3961,Santa Cruz,38,Femenino,9,Mensual,8,3,No,No,0,23000,2,No,0,0.5753,1
+VF7158,Santa Cruz,18,Femenino,18,Semestral,10,9,Sí,Sí,1,18000,2,Sí,0,0.4755,0
+VF4810,Nicoya,42,Femenino,2,Mensual,7,18,No,No,1,29000,0,Sí,0,0.7716,1
+VF8313,Liberia Centro,47,Masculino,14,Mensual,6,7,No,No,0,28500,3,No,1,0.5779,1
+VF9886,Santa Cruz,36,Masculino,19,Trimestral,8,21,Sí,No,1,25500,3,No,0,0.5982,1
+VF6860,Santa Cruz,36,Masculino,14,Mensual,5,4,No,Sí,0,26500,3,Sí,1,0.5768,1
+VF6171,Liberia Centro,33,Femenino,11,Semestral,10,16,Sí,No,0,22500,2,Sí,1,0.4439,0
+VF3377,Nicoya,53,Masculino,7,Mensual,6,2,Sí,No,0,29000,1,No,1,0.481,0
+VF5779,Nicoya,48,Femenino,23,Anual,12,13,No,No,0,21500,3,Sí,0,0.3432,0
+VF3934,Liberia Centro,18,Masculino,17,Mensual,8,2,Sí,No,0,28000,2,No,0,0.4308,0
+VF2681,Liberia Centro,23,Femenino,11,Anual,11,4,Sí,No,1,23000,0,Sí,0,0.2638,0
+VF9744,Santa Cruz,48,Masculino,25,Mensual,9,2,No,No,1,27000,4,Sí,0,0.5638,1
+VF9538,Nicoya,18,Femenino,54,Semestral,7,2,No,No,1,24000,9,Sí,0,0.4603,0
+VF4677,Liberia Centro,50,Femenino,20,Trimestral,11,24,Sí,No,1,25500,3,No,1,0.5578,1
+VF4670,Santa Cruz,29,Femenino,9,Mensual,9,3,Sí,Sí,0,26000,1,Sí,0,0.4407,0
+VF2085,Santa Cruz,22,Masculino,43,Mensual,8,10,Sí,Sí,0,28500,7,No,0,0.4682,0
+VF3540,Liberia Centro,34,Femenino,17,Anual,8,3,Sí,No,0,22500,2,No,0,0.2239,0
+VF0858,Santa Cruz,37,Femenino,11,Semestral,11,5,No,No,2,25500,0,No,0,0.5422,1
+VF4316,Liberia Centro,30,Femenino,23,Semestral,15,6,Sí,No,0,23000,3,No,0,0.2675,0
+VF6758,Santa Cruz,25,Femenino,6,Mensual,14,25,Sí,No,0,26000,1,No,0,0.6334,1
+VF1591,Santa Cruz,36,Femenino,28,Mensual,12,7,Sí,Sí,0,26500,3,Sí,0,0.3974,0
+VF6685,Santa Cruz,24,Femenino,3,Anual,12,8,No,No,0,19000,0,No,0,0.3461,0
+VF5288,Liberia Centro,46,Masculino,16,Mensual,9,15,Sí,No,1,28500,3,Sí,0,0.6111,1
+VF9617,Santa Cruz,35,Femenino,6,Semestral,6,13,No,No,0,23000,1,Sí,1,0.5657,1
+VF2260,Liberia Centro,46,Masculino,32,Mensual,6,16,Sí,No,0,27500,5,No,1,0.5666,1
+VF5803,Liberia Centro,25,Masculino,10,Anual,10,7,No,No,0,23000,0,Sí,0,0.3036,0
+VF1822,Liberia Centro,36,Masculino,7,Mensual,10,25,Sí,No,1,30000,0,No,1,0.7022,1
+VF9293,Santa Cruz,38,Femenino,28,Anual,7,18,Sí,No,1,22000,3,No,0,0.4375,0
+VF4067,Liberia Centro,35,Femenino,18,Anual,10,33,No,No,0,22000,2,No,0,0.5593,1
+VF2176,Nicoya,31,Masculino,35,Trimestral,10,5,No,No,2,28000,5,No,0,0.5377,1
+VF0009,Santa Cruz,42,Masculino,6,Mensual,7,6,No,No,0,29000,1,No,0,0.5804,1
+VF5679,Santa Cruz,18,Femenino,60,Semestral,8,8,Sí,No,0,26000,10,Sí,0,0.3156,0
+VF2386,Santa Cruz,37,Femenino,30,Trimestral,10,30,No,No,1,26500,5,Sí,0,0.7018,1
+VF5749,Nicoya,21,Masculino,9,Anual,10,4,No,No,0,22500,0,No,0,0.3188,0
+VF6741,Liberia Centro,54,Masculino,40,Trimestral,9,25,Sí,Sí,0,25500,6,Sí,0,0.4591,0
+VF2758,Nicoya,25,Femenino,8,Mensual,8,1,Sí,No,1,28000,2,Sí,0,0.5446,1
+VF6367,Liberia Centro,40,Masculino,11,Mensual,13,11,Sí,No,1,28000,1,No,0,0.5315,1
+VF3459,Santa Cruz,27,Femenino,5,Semestral,10,1,No,No,0,22500,0,No,0,0.3978,0
+VF3440,Nicoya,39,Femenino,12,Semestral,14,7,Sí,No,0,23500,2,No,0,0.3276,0
+VF2113,Liberia Centro,21,Femenino,25,Trimestral,7,13,Sí,No,0,25000,4,No,0,0.4334,0
+VF2602,Liberia Centro,47,Femenino,15,Mensual,12,4,No,No,0,30000,3,No,0,0.4485,0
+VF1639,Nicoya,21,Masculino,15,Mensual,12,5,Sí,No,0,29000,1,No,0,0.434,0
+VF3515,Nicoya,34,Masculino,5,Mensual,9,5,Sí,No,0,27500,0,No,0,0.496,0
+VF8952,Nicoya,36,Masculino,59,Mensual,4,2,Sí,No,0,29000,10,No,0,0.4359,0
+VF2879,Santa Cruz,38,Femenino,27,Mensual,11,6,Sí,No,2,26500,4,No,0,0.5865,1
+VF5101,Liberia Centro,34,Masculino,24,Mensual,5,17,No,No,0,30000,4,No,0,0.6698,1
+VF3653,Nicoya,46,Masculino,27,Semestral,12,7,No,Sí,1,22000,4,No,0,0.4724,0
+VF6273,Liberia Centro,46,Masculino,13,Trimestral,14,9,Sí,Sí,0,28500,2,No,0,0.275,0
+VF9363,Liberia Centro,35,Masculino,13,Anual,8,21,No,Sí,0,21500,2,No,0,0.4619,0
+VF2836,Nicoya,18,Femenino,28,Trimestral,9,17,No,No,0,25500,4,No,0,0.5544,1
+VF1739,Liberia Centro,28,Masculino,7,Mensual,7,9,No,No,0,28500,0,Sí,0,0.5962,1
+VF7953,Santa Cruz,23,Masculino,12,Semestral,8,10,Sí,Sí,0,26000,3,No,0,0.401,0
+VF2579,Liberia Centro,53,Femenino,9,Semestral,9,12,Sí,No,0,24500,0,Sí,0,0.3842,0
+VF7489,Santa Cruz,35,Femenino,14,Mensual,9,6,No,No,1,29000,2,Sí,1,0.6141,1
+VF7708,Nicoya,43,Femenino,9,Semestral,7,10,Sí,No,0,26000,1,No,0,0.4305,0
+VF0500,Nicoya,34,Femenino,4,Trimestral,7,3,Sí,No,1,27000,0,Sí,0,0.4472,0
+VF4231,Santa Cruz,54,Femenino,29,Trimestral,10,6,Sí,No,1,28000,4,Sí,0,0.3589,0
+VF8688,Liberia Centro,19,Femenino,33,Semestral,8,15,Sí,Sí,1,22500,5,Sí,0,0.4942,0
+VF9800,Nicoya,19,Femenino,4,Trimestral,9,4,Sí,No,0,27000,1,No,0,0.3731,0
+VF7547,Nicoya,31,Femenino,28,Semestral,8,3,Sí,No,0,22500,4,No,1,0.3484,0
+VF9548,Liberia Centro,33,Masculino,14,Semestral,9,6,No,No,0,24500,3,No,0,0.4232,0
+VF3809,Liberia Centro,45,Masculino,25,Trimestral,9,5,No,No,0,23000,3,Sí,0,0.3929,0
+VF9715,Santa Cruz,35,Femenino,2,Mensual,16,12,Sí,No,2,26500,0,Sí,0,0.6193,1
+VF5931,Liberia Centro,39,Masculino,8,Semestral,12,12,Sí,No,1,22000,2,No,0,0.4688,0
+VF2996,Nicoya,37,Femenino,11,Anual,5,2,Sí,No,1,19500,0,No,0,0.3638,0
+VF1161,Nicoya,33,Femenino,6,Mensual,8,11,Sí,No,0,27500,0,No,0,0.5682,1
+VF5883,Liberia Centro,31,Femenino,2,Semestral,6,4,No,No,1,25000,0,No,0,0.5332,1
+VF8699,Santa Cruz,33,Masculino,31,Mensual,9,17,No,No,1,27500,5,No,0,0.711,1
+VF0482,Santa Cruz,37,Femenino,18,Mensual,7,5,Sí,No,0,28000,3,No,0,0.4784,0
+VF2167,Santa Cruz,31,Femenino,4,Mensual,6,6,No,No,0,30500,0,No,1,0.5883,1
+VF4780,Liberia Centro,36,Femenino,41,Semestral,12,8,Sí,No,1,25000,5,No,0,0.3431,0
+VF9112,Santa Cruz,33,Masculino,9,Anual,6,17,No,No,0,25000,1,No,0,0.4621,0
+VF9866,Liberia Centro,27,Femenino,24,Anual,2,0,Sí,No,0,19000,5,No,0,0.2824,0
+VF4002,Nicoya,22,Femenino,16,Mensual,8,15,No,No,0,27500,2,No,0,0.6759,1
+VF9874,Liberia Centro,34,Masculino,23,Mensual,9,4,No,No,0,28000,3,Sí,0,0.4913,0
+VF9408,Santa Cruz,47,Masculino,12,Semestral,10,4,Sí,No,0,24500,1,Sí,0,0.3142,0
+VF1722,Liberia Centro,29,Masculino,10,Semestral,7,8,No,Sí,1,21500,1,Sí,1,0.5541,1
+VF9891,Santa Cruz,28,Masculino,17,Mensual,4,21,Sí,No,0,28500,2,Sí,0,0.6789,1
+VF6632,Liberia Centro,34,Masculino,14,Semestral,12,10,Sí,No,0,23500,2,No,0,0.3502,0
+VF8936,Santa Cruz,36,Femenino,24,Trimestral,8,12,Sí,No,0,24500,4,No,0,0.4214,0
+VF6848,Liberia Centro,18,Masculino,27,Trimestral,6,4,Sí,No,1,24500,4,No,0,0.4359,0
+VF1966,Santa Cruz,34,Masculino,15,Trimestral,7,6,Sí,No,0,26000,2,No,0,0.3796,0
+VF8809,Liberia Centro,38,Masculino,12,Semestral,10,28,Sí,No,1,24000,2,No,0,0.6384,1
+VF8966,Santa Cruz,40,Femenino,7,Mensual,14,12,No,No,0,27000,0,Sí,1,0.5489,1
+VF5228,Nicoya,29,Femenino,17,Mensual,9,7,No,No,0,26500,3,No,0,0.5888,1
+VF1135,Santa Cruz,34,Masculino,12,Trimestral,12,6,Sí,Sí,0,28500,2,No,0,0.2941,0
+VF0688,Liberia Centro,18,Femenino,32,Semestral,9,31,No,Sí,0,19500,5,No,1,0.6719,1
+VF8930,Nicoya,35,Masculino,3,Trimestral,9,6,Sí,Sí,0,27000,0,No,0,0.367,0
+VF1578,Santa Cruz,50,Masculino,9,Semestral,6,14,No,Sí,1,25500,1,No,1,0.6103,1
+VF0439,Santa Cruz,35,Femenino,19,Mensual,11,2,Sí,No,0,26000,4,No,0,0.4107,0
+VF1450,Santa Cruz,31,Femenino,19,Anual,8,10,Sí,No,0,21500,3,No,0,0.3007,0
+VF9121,Nicoya,43,Masculino,7,Mensual,9,11,Sí,No,0,27000,0,Sí,0,0.5466,1
+VF4156,Liberia Centro,36,Masculino,13,Semestral,5,2,No,No,0,24000,2,No,0,0.4348,0
+VF0242,Nicoya,27,Femenino,13,Mensual,11,15,No,Sí,0,27500,2,No,0,0.6266,1
+VF3347,Liberia Centro,36,Masculino,10,Mensual,14,16,No,Sí,2,27000,1,No,0,0.7122,1
+VF7300,Santa Cruz,46,Masculino,5,Trimestral,11,8,No,Sí,0,28500,0,Sí,0,0.3918,0
+VF9980,Santa Cruz,24,Masculino,35,Anual,4,17,No,No,1,21000,5,No,0,0.5597,1
+VF6294,Liberia Centro,45,Femenino,34,Trimestral,6,11,Sí,No,1,26000,5,No,1,0.4644,0
+VF5122,Nicoya,44,Masculino,19,Mensual,8,6,Sí,No,0,27000,4,No,0,0.5013,1
+VF9595,Liberia Centro,29,Femenino,6,Trimestral,10,11,No,No,1,27000,1,No,0,0.5433,1
+VF8696,Santa Cruz,28,Femenino,14,Mensual,6,18,No,No,0,26500,2,No,0,0.7166,1
+VF2065,Liberia Centro,50,Masculino,38,Semestral,7,9,Sí,No,0,23000,6,No,0,0.3597,0
+VF3209,Liberia Centro,32,Masculino,27,Trimestral,13,11,Sí,No,1,26500,4,Sí,0,0.3861,0
+VF3784,Nicoya,35,Masculino,46,Mensual,3,3,Sí,No,0,27500,7,No,0,0.4891,0
+VF7901,Santa Cruz,19,Masculino,19,Semestral,7,4,Sí,No,0,23000,2,No,0,0.3723,0
+VF1202,Liberia Centro,44,Masculino,18,Trimestral,14,11,Sí,No,0,26000,4,No,0,0.3206,0
+VF8068,Liberia Centro,45,Femenino,10,Anual,11,9,No,No,1,22000,2,Sí,0,0.3819,0
+VF3443,Liberia Centro,29,Femenino,37,Mensual,5,3,No,No,0,26000,6,No,0,0.5356,1
+VF8594,Nicoya,30,Femenino,4,Trimestral,5,5,No,No,0,27500,1,No,0,0.5044,1
+VF9700,Nicoya,41,Masculino,16,Trimestral,10,8,No,No,0,27000,3,Sí,1,0.4413,0
+VF4611,Liberia Centro,26,Masculino,3,Semestral,10,4,Sí,No,1,26500,0,Sí,0,0.3884,0
+VF8910,Nicoya,20,Femenino,9,Trimestral,9,14,Sí,No,0,29000,1,Sí,0,0.444,0
+VF9385,Santa Cruz,42,Femenino,12,Mensual,12,20,No,No,1,26000,1,Sí,1,0.7229,1
+VF7390,Liberia Centro,40,Masculino,15,Mensual,9,24,No,No,0,29000,2,Sí,0,0.6954,1
+VF5170,Nicoya,29,Masculino,6,Trimestral,3,19,Sí,No,0,23500,1,Sí,1,0.6198,1
+VF5353,Liberia Centro,25,Femenino,18,Mensual,9,10,No,No,1,28500,4,No,1,0.6521,1
+VF8137,Liberia Centro,39,Femenino,9,Mensual,5,22,Sí,Sí,1,26000,1,No,1,0.7373,1
+VF7049,Liberia Centro,42,Femenino,22,Mensual,8,11,Sí,No,0,29000,3,No,1,0.4909,0
+VF4845,Liberia Centro,37,Femenino,6,Semestral,10,12,Sí,No,0,23000,1,No,0,0.4086,0
+VF2806,Nicoya,27,Femenino,12,Mensual,7,15,No,No,0,28000,1,No,1,0.686,1
+VF2561,Nicoya,21,Femenino,31,Mensual,10,5,No,No,0,28000,6,No,0,0.5296,1
+VF7306,Nicoya,40,Masculino,24,Mensual,12,8,Sí,No,1,28500,3,Sí,0,0.518,1
+VF5786,Nicoya,49,Femenino,33,Semestral,6,4,No,No,1,25000,5,Sí,1,0.4985,0
+VF4435,Liberia Centro,18,Masculino,24,Trimestral,6,9,No,No,0,27500,4,Sí,0,0.469,0
+VF3373,Liberia Centro,27,Femenino,4,Mensual,8,7,Sí,No,0,29500,1,No,0,0.4904,0
+VF6607,Liberia Centro,36,Masculino,17,Trimestral,7,7,Sí,No,1,24500,2,Sí,0,0.4509,0
+VF1040,Liberia Centro,32,Masculino,19,Trimestral,7,7,No,Sí,0,27500,3,No,0,0.4205,0
+VF9899,Nicoya,34,Masculino,11,Trimestral,7,6,Sí,Sí,1,24500,2,Sí,0,0.4749,0
+VF3930,Liberia Centro,35,Masculino,17,Trimestral,7,3,Sí,No,1,26500,2,No,1,0.4012,0
+VF1218,Santa Cruz,41,Masculino,33,Anual,4,20,Sí,No,0,23000,6,No,0,0.4154,0
+VF5610,Santa Cruz,51,Femenino,9,Mensual,9,13,Sí,Sí,0,28500,0,No,0,0.5131,1
+VF1079,Liberia Centro,40,Femenino,3,Trimestral,7,6,Sí,No,0,26000,0,No,0,0.376,0
+VF9572,Liberia Centro,36,Femenino,12,Mensual,10,9,No,No,0,27000,2,Sí,1,0.5554,1
+VF8843,Liberia Centro,34,Masculino,9,Trimestral,14,13,Sí,No,1,28500,1,No,0,0.4118,0
+VF6559,Santa Cruz,38,Femenino,12,Mensual,7,1,Sí,No,1,29000,2,No,0,0.5185,1
+VF0906,Nicoya,18,Femenino,10,Semestral,10,14,Sí,Sí,0,23000,1,No,0,0.4512,0
+VF1408,Nicoya,38,Masculino,11,Mensual,8,6,Sí,No,0,28000,1,No,0,0.5039,1
+VF2430,Nicoya,45,Femenino,6,Anual,2,5,No,Sí,0,22000,1,No,0,0.4104,0
+VF3850,Liberia Centro,18,Femenino,18,Anual,5,5,No,No,0,22500,3,Sí,0,0.3454,0
+VF1049,Nicoya,37,Femenino,16,Semestral,8,5,No,Sí,0,24000,2,No,0,0.4331,0
+VF6811,Nicoya,21,Femenino,30,Semestral,11,12,No,Sí,1,22500,6,No,0,0.5523,1
+VF1004,Santa Cruz,36,Masculino,9,Mensual,11,6,Sí,No,0,32500,2,Sí,1,0.4184,0
+VF8442,Liberia Centro,48,Femenino,8,Mensual,16,20,Sí,No,1,27500,1,No,1,0.587,1
+VF2715,Liberia Centro,36,Masculino,7,Anual,12,8,No,No,0,21500,1,No,0,0.3062,0
+VF0305,Santa Cruz,30,Femenino,3,Mensual,3,1,No,No,0,25500,0,Sí,0,0.6096,1
+VF7248,Nicoya,36,Femenino,12,Trimestral,10,14,No,No,0,24500,2,No,1,0.5332,1
+VF8609,Santa Cruz,37,Femenino,16,Anual,14,17,Sí,No,0,21500,2,Sí,0,0.2882,0
+VF7359,Liberia Centro,23,Masculino,13,Trimestral,8,9,Sí,No,0,27500,2,No,0,0.3827,0
+VF4609,Nicoya,19,Femenino,24,Mensual,9,16,Sí,No,0,29000,4,No,0,0.5811,1
+VF0853,Liberia Centro,40,Masculino,21,Mensual,10,6,No,No,0,26000,4,Sí,0,0.5184,1
+VF3391,Liberia Centro,41,Femenino,9,Mensual,12,3,No,No,0,27500,1,Sí,0,0.4603,0
+VF7850,Liberia Centro,28,Masculino,2,Mensual,6,17,Sí,No,0,29000,0,Sí,0,0.622,1
+VF6604,Nicoya,41,Femenino,11,Semestral,11,5,Sí,No,0,26500,1,No,0,0.3231,0
+VF3418,Santa Cruz,38,Femenino,6,Mensual,8,19,No,No,1,28000,2,No,1,0.7664,1
+VF5583,Nicoya,48,Femenino,12,Semestral,6,13,No,No,0,22500,2,No,1,0.5738,1
+VF2001,Liberia Centro,43,Masculino,9,Mensual,10,26,No,Sí,1,28000,1,Sí,0,0.7629,1
+VF3009,Santa Cruz,29,Masculino,52,Mensual,9,12,Sí,No,1,29000,8,No,0,0.5468,1
+VF4372,Liberia Centro,36,Masculino,21,Mensual,8,24,Sí,No,0,28500,3,No,0,0.6379,1
+VF2552,Liberia Centro,26,Masculino,12,Mensual,6,2,Sí,Sí,0,30000,2,No,0,0.4336,0
+VF1631,Santa Cruz,42,Masculino,18,Mensual,11,10,Sí,No,0,29000,3,No,0,0.4685,0
+VF3128,Liberia Centro,20,Femenino,28,Mensual,9,13,Sí,Sí,0,29000,4,Sí,1,0.4821,0
+VF4535,Santa Cruz,26,Masculino,11,Mensual,9,12,Sí,Sí,0,30000,1,Sí,0,0.5071,1
+VF4157,Santa Cruz,20,Femenino,26,Semestral,6,6,Sí,No,0,24500,4,Sí,0,0.3796,0
+VF2490,Liberia Centro,40,Femenino,4,Semestral,6,12,Sí,No,0,23000,0,Sí,0,0.4556,0
+VF4413,Santa Cruz,26,Masculino,19,Semestral,11,14,Sí,Sí,1,25000,3,No,0,0.4691,0
+VF7079,Santa Cruz,23,Femenino,21,Mensual,9,13,Sí,Sí,0,28000,3,Sí,0,0.5162,1
+VF0134,Liberia Centro,42,Masculino,6,Trimestral,6,8,No,No,0,27000,1,No,1,0.4799,0
+VF7038,Liberia Centro,34,Femenino,32,Anual,10,17,Sí,No,0,20500,4,No,0,0.3074,0
+VF6104,Nicoya,42,Femenino,9,Mensual,11,3,No,No,0,26000,2,Sí,0,0.5241,1
+VF7485,Liberia Centro,43,Femenino,4,Mensual,10,28,Sí,Sí,1,26500,0,Sí,1,0.7301,1
+VF7394,Santa Cruz,26,Femenino,9,Mensual,12,1,Sí,No,0,29000,0,Sí,0,0.3738,0
+VF5364,Santa Cruz,36,Femenino,17,Mensual,5,4,No,No,1,27500,1,Sí,1,0.6437,1
+VF0889,Liberia Centro,41,Femenino,20,Anual,5,5,No,No,0,22000,3,Sí,1,0.3296,0
+VF3146,Liberia Centro,43,Femenino,12,Semestral,19,11,No,Sí,0,24500,2,Sí,0,0.3156,0
+VF6295,Nicoya,23,Femenino,19,Trimestral,11,10,Sí,No,0,27000,4,Sí,0,0.3782,0
+VF7748,Santa Cruz,29,Femenino,37,Mensual,5,20,No,No,0,27500,6,Sí,0,0.7038,1
+VF3703,Liberia Centro,23,Masculino,27,Mensual,14,6,Sí,No,1,26500,4,Sí,0,0.4577,0
+VF5242,Liberia Centro,45,Femenino,11,Mensual,12,5,Sí,No,0,29500,0,Sí,0,0.3772,0
+VF5429,Santa Cruz,35,Femenino,12,Mensual,8,29,Sí,No,0,25000,1,No,0,0.7285,1
+VF7026,Santa Cruz,31,Femenino,3,Trimestral,10,3,Sí,No,1,26000,0,No,0,0.405,0
+VF0711,Nicoya,29,Masculino,32,Mensual,13,7,No,No,2,27000,5,No,1,0.6614,1
+VF4293,Santa Cruz,37,Femenino,33,Anual,10,7,Sí,Sí,0,22000,5,No,0,0.2177,0
+VF7029,Liberia Centro,18,Femenino,24,Semestral,5,14,Sí,No,0,26000,4,Sí,0,0.4545,0
+VF9243,Santa Cruz,27,Femenino,5,Trimestral,5,3,No,Sí,1,28000,1,No,0,0.5239,1
+VF6322,Santa Cruz,43,Masculino,11,Anual,10,1,Sí,Sí,0,19500,1,No,0,0.2097,0
+VF9070,Liberia Centro,39,Masculino,8,Semestral,14,3,Sí,No,1,23000,2,No,0,0.3443,0
+VF5595,Liberia Centro,37,Masculino,11,Semestral,6,13,No,No,0,26000,1,Sí,1,0.5171,1
+VF0326,Santa Cruz,29,Masculino,22,Mensual,6,14,Sí,Sí,1,27000,3,Sí,0,0.6471,1
+VF0457,Liberia Centro,33,Femenino,26,Semestral,2,7,No,No,1,22500,4,No,1,0.5952,1
+VF8880,Liberia Centro,33,Femenino,2,Trimestral,10,9,Sí,No,0,26500,0,No,0,0.3708,0
+VF3537,Liberia Centro,32,Masculino,15,Semestral,11,11,No,No,0,25000,3,No,0,0.443,0
+VF9287,Santa Cruz,34,Femenino,39,Mensual,9,14,Sí,No,0,30500,6,No,0,0.4931,0
+VF3675,Santa Cruz,28,Femenino,16,Trimestral,11,6,Sí,No,1,28000,2,No,1,0.3891,0
+VF0684,Santa Cruz,40,Femenino,20,Mensual,11,5,No,No,0,27000,4,No,0,0.5083,1
+VF9213,Liberia Centro,31,Femenino,35,Anual,5,13,Sí,No,0,23000,5,No,1,0.3142,0
+VF4505,Santa Cruz,18,Femenino,2,Mensual,7,11,No,No,2,27000,1,Sí,1,0.7878,1
+VF0222,Santa Cruz,22,Femenino,19,Semestral,13,17,Sí,No,0,24000,3,Sí,1,0.4129,0
+VF7186,Nicoya,34,Masculino,28,Mensual,8,11,No,Sí,0,25000,4,No,0,0.6147,1
+VF1982,Nicoya,32,Femenino,44,Mensual,7,8,Sí,No,2,28000,6,No,0,0.6398,1
+VF9621,Liberia Centro,35,Femenino,13,Trimestral,10,6,No,No,0,27000,3,No,0,0.3996,0
+VF6158,Santa Cruz,27,Femenino,9,Semestral,12,0,Sí,No,0,23000,0,No,0,0.2808,0
+VF4588,Liberia Centro,48,Masculino,12,Trimestral,9,6,Sí,No,0,27500,2,No,0,0.3271,0
+VF9449,Liberia Centro,42,Femenino,9,Trimestral,6,10,Sí,No,0,24000,1,No,0,0.4327,0
+VF6009,Santa Cruz,27,Femenino,7,Mensual,6,6,Sí,Sí,0,27500,1,Sí,0,0.509,1
+VF1246,Santa Cruz,18,Femenino,3,Mensual,12,12,No,No,0,26500,0,No,0,0.6089,1
+VF2486,Nicoya,33,Femenino,22,Semestral,6,7,Sí,No,0,22500,3,Sí,0,0.4175,0
+VF3674,Liberia Centro,34,Masculino,8,Mensual,8,6,Sí,No,0,25500,1,No,0,0.4965,0
+VF6405,Liberia Centro,31,Femenino,7,Trimestral,8,17,Sí,No,0,25500,0,No,0,0.4762,0
+VF4826,Liberia Centro,44,Masculino,7,Semestral,12,26,No,No,1,25500,1,No,1,0.6602,1
+VF3450,Liberia Centro,37,Masculino,31,Trimestral,8,10,Sí,No,0,25500,4,No,0,0.3643,0
+VF1457,Santa Cruz,41,Masculino,4,Semestral,7,10,Sí,No,0,24500,0,No,1,0.4341,0
+VF5797,Liberia Centro,41,Masculino,3,Trimestral,9,14,No,No,0,26500,0,No,1,0.5091,1
+VF7972,Santa Cruz,38,Masculino,7,Anual,9,6,No,No,1,21500,1,No,1,0.4121,0
+VF9802,Liberia Centro,35,Masculino,34,Anual,10,4,No,Sí,0,21000,5,No,0,0.2466,0
+VF2919,Liberia Centro,34,Masculino,10,Semestral,9,4,No,No,1,26500,0,Sí,0,0.4575,0
+VF0968,Liberia Centro,26,Masculino,8,Mensual,11,3,No,No,0,28500,1,Sí,1,0.4827,0
+VF3640,Liberia Centro,48,Femenino,7,Anual,14,17,No,Sí,1,21500,1,No,0,0.4161,0
+VF1442,Liberia Centro,35,Masculino,42,Semestral,9,9,Sí,Sí,0,25000,7,No,0,0.3123,0
+VF8865,Liberia Centro,33,Femenino,16,Trimestral,12,4,No,No,1,26500,2,No,0,0.4234,0
+VF2785,Nicoya,18,Femenino,10,Mensual,9,20,Sí,Sí,0,27500,1,Sí,0,0.6307,1
+VF2461,Nicoya,35,Femenino,9,Mensual,18,3,Sí,No,0,26500,1,Sí,1,0.3495,0
+VF9255,Nicoya,44,Femenino,8,Mensual,8,8,Sí,No,0,29000,2,No,0,0.5228,1
+VF5628,Liberia Centro,40,Masculino,10,Anual,9,9,Sí,No,2,21000,1,No,0,0.422,0
+VF6152,Santa Cruz,26,Femenino,19,Mensual,10,4,No,No,2,29500,3,Sí,1,0.6519,1
+VF5869,Nicoya,25,Masculino,9,Mensual,7,16,Sí,Sí,0,29000,2,No,0,0.6161,1
+VF4551,Nicoya,32,Masculino,60,Mensual,12,13,Sí,Sí,0,30000,10,Sí,0,0.4142,0
+VF2299,Liberia Centro,47,Masculino,11,Anual,8,23,No,Sí,0,23500,0,No,0,0.4558,0
+VF6140,Nicoya,39,Masculino,14,Mensual,9,2,Sí,No,1,27500,1,No,0,0.5237,1
+VF9726,Nicoya,34,Masculino,3,Mensual,3,0,Sí,No,0,27000,0,No,0,0.534,1
+VF3822,Liberia Centro,24,Masculino,37,Mensual,12,6,Sí,No,0,31000,6,No,0,0.3652,0
+VF6292,Liberia Centro,36,Femenino,21,Trimestral,14,11,Sí,No,0,27500,3,Sí,1,0.2992,0
+VF1240,Liberia Centro,42,Femenino,8,Semestral,12,18,No,No,2,23500,1,No,1,0.6657,1
+VF4270,Nicoya,35,Femenino,30,Semestral,4,2,Sí,Sí,0,24500,5,Sí,0,0.3529,0
+VF4354,Nicoya,43,Masculino,24,Mensual,7,5,Sí,No,0,28000,4,Sí,0,0.4807,0
+VF0362,Santa Cruz,51,Masculino,13,Semestral,9,2,Sí,No,0,22500,3,No,0,0.3282,0
+VF8919,Liberia Centro,18,Femenino,19,Mensual,3,17,No,No,0,28000,3,Sí,1,0.7147,1
+VF3081,Santa Cruz,18,Masculino,10,Trimestral,8,19,No,No,0,25500,1,No,0,0.602,1
+VF3509,Nicoya,31,Masculino,18,Mensual,7,22,Sí,No,1,27000,4,Sí,0,0.7474,1
+VF6330,Liberia Centro,40,Masculino,18,Mensual,9,17,Sí,No,0,28500,2,Sí,0,0.5484,1
+VF1841,Liberia Centro,26,Femenino,16,Mensual,3,18,Sí,No,0,30500,2,No,1,0.6404,1
+VF4318,Liberia Centro,33,Femenino,14,Trimestral,7,15,Sí,No,0,29000,2,No,0,0.4349,0
+VF4749,Liberia Centro,18,Femenino,8,Mensual,11,6,Sí,Sí,0,26500,2,No,0,0.4447,0
+VF2638,Nicoya,22,Masculino,9,Trimestral,3,17,Sí,No,0,25000,1,Sí,1,0.587,1
+VF4504,Liberia Centro,41,Masculino,11,Semestral,6,13,No,No,0,23500,1,No,0,0.5372,1
+VF1275,Santa Cruz,45,Masculino,20,Mensual,9,2,Sí,No,1,27000,3,No,0,0.4989,0
+VF8565,Santa Cruz,26,Femenino,25,Trimestral,14,14,No,No,2,25000,4,No,0,0.5999,1
+VF9885,Liberia Centro,30,Masculino,27,Semestral,15,16,No,No,1,24500,4,No,0,0.5013,1
+VF9246,Nicoya,38,Femenino,9,Anual,6,9,No,No,0,22500,1,No,0,0.4087,0
+VF2444,Nicoya,24,Masculino,2,Trimestral,6,3,No,No,1,25000,0,Sí,0,0.5695,1
+VF5088,Liberia Centro,19,Masculino,15,Semestral,9,9,Sí,Sí,1,23500,2,Sí,0,0.4429,0
+VF9484,Nicoya,30,Femenino,9,Mensual,11,11,Sí,No,0,27500,0,Sí,0,0.5172,1
+VF4279,Liberia Centro,19,Femenino,11,Semestral,11,2,Sí,No,1,21500,0,Sí,0,0.3728,0
+VF9254,Liberia Centro,53,Femenino,9,Mensual,12,3,No,No,0,30000,2,No,1,0.4437,0
+VF9365,Liberia Centro,49,Masculino,6,Mensual,7,5,Sí,No,0,29500,1,No,0,0.4653,0
+VF1689,Santa Cruz,18,Femenino,19,Mensual,7,33,No,Sí,0,27000,3,No,0,0.8059,1
+VF0257,Nicoya,36,Femenino,28,Trimestral,7,5,No,No,1,25500,5,No,0,0.5273,1
+VF1523,Liberia Centro,37,Masculino,13,Trimestral,8,1,Sí,No,0,24000,2,Sí,0,0.3151,0
+VF0458,Santa Cruz,25,Masculino,15,Anual,10,6,Sí,Sí,0,20500,1,No,0,0.2438,0
+VF6615,Liberia Centro,32,Femenino,36,Semestral,17,0,Sí,No,0,24000,6,No,0,0.186,0
+VF6953,Liberia Centro,41,Masculino,29,Trimestral,8,4,No,No,1,27000,4,No,0,0.4491,0
+VF5391,Liberia Centro,51,Masculino,7,Mensual,9,1,Sí,No,0,27000,2,Sí,1,0.4101,0
+VF0847,Liberia Centro,33,Femenino,4,Trimestral,8,17,No,No,1,27500,0,No,1,0.6254,1
+VF9682,Liberia Centro,38,Femenino,13,Mensual,4,6,No,No,0,28500,1,Sí,0,0.5861,1
+VF5177,Nicoya,38,Femenino,21,Semestral,9,16,No,No,0,25500,2,No,0,0.5285,1
+VF4820,Liberia Centro,25,Femenino,5,Mensual,13,8,No,No,0,28000,1,No,1,0.522,1
+VF7448,Liberia Centro,43,Femenino,41,Anual,10,5,No,No,1,20500,5,No,1,0.3156,0
+VF8949,Liberia Centro,39,Masculino,31,Trimestral,13,32,No,No,0,23000,5,No,0,0.6234,1
+VF7352,Liberia Centro,37,Femenino,27,Mensual,10,1,Sí,No,0,28000,4,No,0,0.3644,0
+VF4225,Santa Cruz,43,Masculino,33,Mensual,9,2,No,No,0,30000,5,No,0,0.4562,0
+VF3862,Santa Cruz,42,Masculino,2,Mensual,14,3,No,No,1,27000,1,No,0,0.5574,1
+VF2612,Liberia Centro,34,Masculino,32,Mensual,6,11,No,Sí,1,26000,5,No,0,0.6697,1
+VF7333,Nicoya,32,Masculino,2,Anual,7,0,Sí,No,1,22500,0,No,0,0.3262,0
+VF8923,Santa Cruz,18,Masculino,31,Mensual,10,33,Sí,Sí,0,25500,6,No,0,0.7175,1
+VF5415,Liberia Centro,41,Masculino,9,Mensual,4,1,Sí,No,0,27000,1,No,0,0.4804,0
+VF4768,Liberia Centro,31,Masculino,6,Mensual,10,14,No,No,1,29500,0,Sí,0,0.6749,1
+VF0470,Nicoya,36,Femenino,2,Mensual,14,21,Sí,No,1,27500,0,No,0,0.6726,1
+VF8899,Liberia Centro,41,Femenino,6,Mensual,6,3,Sí,No,0,25000,0,No,0,0.4882,0
+VF0137,Santa Cruz,18,Femenino,20,Trimestral,8,3,Sí,Sí,0,25000,4,Sí,1,0.3297,0
+VF2249,Santa Cruz,18,Masculino,32,Trimestral,6,6,Sí,No,0,27500,6,Sí,1,0.367,0
+VF8790,Santa Cruz,39,Femenino,11,Semestral,8,5,Sí,No,1,24000,2,No,0,0.4421,0
+VF0211,Santa Cruz,24,Femenino,20,Mensual,9,2,Sí,No,0,28500,3,No,0,0.4206,0
+VF7497,Liberia Centro,51,Femenino,2,Trimestral,8,16,Sí,No,0,28000,0,No,0,0.4459,0
+VF3708,Liberia Centro,36,Masculino,14,Anual,11,10,Sí,No,0,21000,2,No,0,0.2624,0
+VF8446,Santa Cruz,42,Femenino,22,Trimestral,7,5,No,No,1,26000,3,No,0,0.5059,1
+VF3005,Santa Cruz,33,Femenino,12,Mensual,10,17,No,No,0,26500,2,Sí,0,0.6571,1
+VF4970,Liberia Centro,23,Femenino,23,Semestral,3,2,Sí,No,0,24000,3,Sí,0,0.3667,0
+VF6031,Santa Cruz,36,Femenino,15,Mensual,12,16,Sí,Sí,1,27500,2,No,0,0.5953,1
+VF4367,Liberia Centro,28,Masculino,7,Mensual,4,2,Sí,No,0,27500,1,Sí,0,0.4965,0
+VF7463,Nicoya,28,Masculino,15,Semestral,11,14,No,Sí,1,27000,1,Sí,0,0.5473,1
+VF7253,Liberia Centro,21,Masculino,10,Mensual,9,6,Sí,No,0,26500,0,No,0,0.4753,0
+VF8972,Santa Cruz,27,Masculino,30,Trimestral,9,11,No,No,0,24500,4,Sí,0,0.466,0
+VF1683,Santa Cruz,19,Femenino,24,Trimestral,10,9,No,No,1,28500,4,No,0,0.5053,1
+VF9997,Nicoya,42,Femenino,11,Mensual,5,8,No,No,3,27500,1,No,0,0.8235,1
+VF9305,Santa Cruz,21,Masculino,7,Trimestral,14,15,Sí,No,0,25000,1,No,0,0.4086,0
+VF0102,Santa Cruz,29,Masculino,10,Semestral,7,18,No,No,1,22000,1,Sí,0,0.6814,1
+VF8233,Nicoya,23,Femenino,5,Semestral,12,4,Sí,Sí,0,21500,0,Sí,0,0.334,0
+VF6470,Nicoya,23,Masculino,16,Mensual,3,4,Sí,No,0,27500,1,No,1,0.5533,1
+VF5276,Liberia Centro,45,Masculino,8,Semestral,12,18,Sí,No,0,25000,1,No,1,0.4222,0
+VF7549,Nicoya,43,Femenino,30,Trimestral,12,12,No,No,0,25500,5,Sí,0,0.4378,0
+VF3267,Santa Cruz,21,Femenino,15,Trimestral,9,21,Sí,No,1,25000,1,Sí,0,0.5915,1
+VF9689,Liberia Centro,35,Femenino,15,Mensual,9,9,No,No,0,27000,2,No,0,0.5674,1
+VF3439,Nicoya,68,Masculino,8,Trimestral,5,2,Sí,Sí,0,24500,1,Sí,0,0.3619,0
+VF6590,Nicoya,18,Femenino,12,Mensual,10,15,Sí,Sí,0,27500,2,Sí,0,0.5665,1
+VF8170,Liberia Centro,40,Femenino,29,Trimestral,5,4,No,No,2,27500,4,No,0,0.5643,1
+VF5938,Liberia Centro,33,Femenino,31,Mensual,12,2,No,No,0,30000,6,Sí,0,0.4081,0
+VF9342,Santa Cruz,36,Femenino,23,Mensual,9,9,No,No,0,28500,3,No,1,0.5579,1
+VF4016,Liberia Centro,37,Femenino,5,Mensual,8,6,No,No,0,27000,0,Sí,0,0.5581,1
+VF2542,Nicoya,29,Femenino,7,Mensual,8,16,Sí,Sí,0,29000,0,Sí,0,0.5883,1
+VF9250,Liberia Centro,43,Masculino,19,Trimestral,8,15,No,No,0,26500,4,No,0,0.5116,1
+VF6871,Santa Cruz,30,Femenino,11,Mensual,6,10,No,No,1,29000,1,Sí,1,0.6949,1
+VF2935,Santa Cruz,50,Femenino,7,Trimestral,8,18,Sí,No,0,25000,1,Sí,0,0.4931,0
+VF8072,Liberia Centro,23,Femenino,33,Anual,6,18,No,Sí,0,20000,5,No,0,0.4394,0
+VF0352,Nicoya,23,Femenino,14,Trimestral,13,12,Sí,No,2,27000,3,Sí,1,0.5375,1
+VF1888,Liberia Centro,51,Masculino,13,Mensual,10,16,No,No,0,29500,2,Sí,0,0.6001,1
+VF4928,Liberia Centro,19,Femenino,7,Trimestral,9,8,Sí,No,0,26500,1,Sí,0,0.3712,0
+VF6587,Santa Cruz,34,Femenino,4,Trimestral,10,2,No,No,0,28500,1,No,0,0.3777,0
+VF4013,Santa Cruz,33,Femenino,19,Mensual,5,16,Sí,No,0,27000,3,No,1,0.6269,1
+VF6408,Liberia Centro,31,Femenino,22,Mensual,9,8,Sí,Sí,0,28000,3,Sí,0,0.4388,0
+VF5897,Nicoya,30,Masculino,11,Semestral,11,12,Sí,No,0,26000,0,No,0,0.4001,0
+VF4191,Santa Cruz,40,Masculino,10,Trimestral,2,5,Sí,No,0,27500,1,No,1,0.4283,0
+VF3701,Santa Cruz,18,Femenino,26,Anual,8,3,Sí,No,1,20500,4,Sí,0,0.3051,0
+VF2503,Santa Cruz,46,Femenino,18,Mensual,8,6,No,Sí,1,28000,3,Sí,0,0.6056,1
+VF5735,Santa Cruz,18,Femenino,40,Mensual,7,4,No,Sí,1,27000,6,Sí,0,0.5862,1
+VF4548,Santa Cruz,22,Masculino,10,Semestral,10,1,Sí,Sí,0,23000,0,No,0,0.3016,0
+VF7516,Nicoya,46,Masculino,20,Trimestral,8,23,Sí,No,0,28500,4,Sí,0,0.5277,1
+VF7237,Santa Cruz,29,Masculino,25,Anual,9,13,Sí,No,0,20500,4,No,0,0.3173,0
+VF6954,Liberia Centro,28,Masculino,3,Trimestral,6,9,Sí,No,0,27500,0,No,0,0.4202,0
+VF2209,Liberia Centro,33,Masculino,8,Trimestral,7,10,Sí,Sí,0,27000,1,Sí,0,0.3887,0
+VF8445,Liberia Centro,26,Femenino,13,Semestral,9,8,Sí,No,0,22000,2,No,0,0.3837,0
+VF9931,Nicoya,20,Femenino,4,Mensual,9,15,No,No,0,26500,0,No,0,0.6887,1
+VF7202,Liberia Centro,20,Masculino,6,Anual,8,4,No,No,0,20000,1,Sí,0,0.3342,0
+VF5951,Liberia Centro,25,Femenino,12,Trimestral,11,22,No,Sí,0,24500,2,No,0,0.5593,1
+VF7941,Liberia Centro,35,Femenino,6,Trimestral,12,33,No,No,0,24500,1,No,1,0.6743,1
+VF0024,Liberia Centro,47,Masculino,32,Semestral,7,3,Sí,No,0,24000,5,Sí,1,0.3034,0
+VF6388,Santa Cruz,37,Masculino,14,Anual,7,2,Sí,No,0,23500,2,Sí,0,0.235,0
+VF0503,Liberia Centro,40,Masculino,11,Semestral,14,22,Sí,No,0,26000,2,No,0,0.4306,0
+VF1568,Liberia Centro,18,Masculino,26,Mensual,12,10,Sí,No,1,30000,3,No,0,0.5087,1
+VF5828,Liberia Centro,38,Femenino,6,Mensual,14,18,No,No,0,29000,1,No,1,0.5941,1
+VF9780,Santa Cruz,32,Masculino,4,Mensual,6,13,Sí,No,1,26500,0,No,0,0.6852,1
+VF7615,Liberia Centro,38,Masculino,13,Mensual,10,3,Sí,Sí,0,29500,2,Sí,0,0.3788,0
+VF8034,Liberia Centro,41,Femenino,15,Semestral,11,4,Sí,No,0,22000,2,Sí,0,0.3025,0
+VF9550,Nicoya,36,Masculino,11,Mensual,7,4,No,No,1,28500,1,Sí,1,0.6453,1
+VF9335,Liberia Centro,45,Femenino,25,Mensual,11,4,Sí,No,0,24000,3,Sí,0,0.3984,0
+VF1560,Nicoya,32,Femenino,18,Semestral,13,11,Sí,No,0,24000,4,No,0,0.3751,0
+VF4260,Liberia Centro,36,Femenino,47,Trimestral,8,1,Sí,Sí,0,25000,8,Sí,0,0.2495,0
+VF7742,Liberia Centro,39,Masculino,24,Mensual,13,5,Sí,No,0,29500,4,No,0,0.3636,0
+VF6431,Santa Cruz,37,Masculino,27,Trimestral,11,9,No,No,0,25000,3,No,0,0.4152,0
+VF1716,Nicoya,38,Masculino,6,Mensual,9,6,Sí,Sí,1,27000,0,No,0,0.5679,1
+VF1451,Santa Cruz,37,Femenino,21,Mensual,13,6,Sí,No,0,27500,4,No,0,0.4085,0
+VF7222,Liberia Centro,35,Femenino,12,Mensual,14,4,No,No,0,31000,2,Sí,0,0.4205,0
+VF2982,Liberia Centro,27,Femenino,24,Trimestral,9,5,Sí,No,0,25500,3,Sí,0,0.315,0
+VF0154,Santa Cruz,29,Masculino,6,Trimestral,9,16,Sí,Sí,0,27500,0,No,0,0.4443,0
+VF8204,Liberia Centro,30,Femenino,3,Semestral,7,23,No,No,1,25000,0,Sí,1,0.7016,1
+VF6962,Liberia Centro,30,Masculino,2,Mensual,11,11,No,No,0,30500,1,Sí,1,0.5645,1
+VF9029,Nicoya,29,Femenino,38,Anual,8,5,Sí,No,1,23000,6,No,0,0.3045,0
+VF6980,Liberia Centro,29,Femenino,17,Mensual,9,15,Sí,No,0,29000,2,Sí,0,0.5312,1
+VF4838,Liberia Centro,28,Femenino,4,Anual,10,8,Sí,No,0,24000,1,No,0,0.2576,0
+VF7882,Santa Cruz,33,Masculino,15,Mensual,13,2,Sí,No,0,27500,2,Sí,0,0.3739,0
+VF7386,Liberia Centro,19,Masculino,29,Mensual,8,5,No,No,0,29000,5,No,0,0.5189,1
+VF6967,Nicoya,44,Masculino,14,Anual,16,5,No,No,0,20500,3,No,1,0.2597,0
+VF3424,Liberia Centro,50,Femenino,30,Mensual,15,2,Sí,No,0,31000,5,No,0,0.2845,0
+VF6452,Nicoya,43,Masculino,16,Mensual,6,9,No,No,0,29500,2,Sí,0,0.6142,1
+VF3111,Santa Cruz,36,Masculino,5,Mensual,7,6,Sí,No,1,30000,0,No,0,0.5757,1
+VF4439,Nicoya,39,Femenino,13,Mensual,10,7,Sí,Sí,0,26000,2,Sí,1,0.4757,0
+VF6532,Nicoya,26,Femenino,21,Trimestral,5,5,No,No,0,26000,4,No,0,0.4904,0
+VF1743,Nicoya,37,Masculino,3,Mensual,9,10,No,No,0,29000,0,Sí,0,0.6138,1
+VF8548,Liberia Centro,33,Femenino,10,Mensual,6,5,No,Sí,1,25000,0,Sí,0,0.6398,1
+VF1660,Liberia Centro,31,Femenino,27,Semestral,12,11,No,No,0,25500,4,Sí,0,0.3951,0
+VF2761,Liberia Centro,48,Masculino,9,Anual,6,20,Sí,No,2,20000,0,No,0,0.5775,1
+VF0314,Nicoya,24,Femenino,14,Trimestral,8,11,Sí,No,0,26000,2,No,1,0.4422,0
+VF4783,Santa Cruz,41,Femenino,40,Semestral,12,20,Sí,No,0,22500,6,No,0,0.423,0
+VF2029,Liberia Centro,41,Femenino,17,Anual,13,2,No,Sí,1,22000,2,No,0,0.2705,0
+VF0204,Nicoya,18,Masculino,3,Mensual,10,6,Sí,No,1,28000,0,No,1,0.5851,1
+VF7725,Nicoya,32,Femenino,6,Mensual,7,8,Sí,No,3,25500,1,No,1,0.7765,1
+VF9960,Liberia Centro,39,Femenino,15,Trimestral,9,1,Sí,No,0,23000,1,Sí,1,0.2977,0
+VF5146,Nicoya,49,Femenino,7,Mensual,11,13,Sí,No,0,32000,1,Sí,0,0.5022,1
+VF0072,Liberia Centro,40,Masculino,34,Trimestral,8,4,Sí,Sí,0,25500,5,Sí,0,0.2854,0
+VF3412,Liberia Centro,23,Masculino,3,Mensual,8,14,Sí,No,0,29500,0,No,0,0.5675,1
+VF4880,Nicoya,33,Masculino,6,Trimestral,10,16,Sí,No,2,28000,1,No,0,0.6224,1
+VF5617,Nicoya,39,Femenino,8,Mensual,12,7,No,No,0,28000,1,No,0,0.5432,1
+VF6529,Liberia Centro,26,Femenino,28,Mensual,9,8,Sí,No,0,29000,5,No,0,0.4517,0
+VF4829,Liberia Centro,34,Masculino,24,Anual,13,20,No,No,0,21500,4,Sí,1,0.38,0
+VF7635,Santa Cruz,30,Masculino,14,Mensual,12,6,No,No,0,23500,1,No,0,0.5407,1
+VF2305,Nicoya,34,Masculino,22,Trimestral,8,5,No,Sí,0,26500,3,No,0,0.4195,0
+VF1103,Nicoya,39,Femenino,22,Mensual,9,9,No,No,0,29500,4,No,0,0.5742,1
+VF1336,Santa Cruz,21,Masculino,6,Semestral,12,16,No,No,0,25000,0,No,0,0.5143,1
+VF2054,Nicoya,24,Femenino,12,Semestral,8,2,Sí,No,0,22500,1,Sí,0,0.3616,0
+VF4582,Liberia Centro,33,Femenino,9,Trimestral,4,3,Sí,No,2,24000,2,No,1,0.5572,1
+VF3737,Santa Cruz,34,Masculino,6,Trimestral,11,8,Sí,No,0,26500,1,No,0,0.3609,0
+VF1603,Liberia Centro,36,Masculino,2,Semestral,15,7,No,No,1,24500,0,No,0,0.4445,0
+VF7047,Santa Cruz,35,Masculino,6,Mensual,7,12,Sí,No,0,27500,2,Sí,0,0.5792,1
+VF9843,Liberia Centro,25,Masculino,9,Mensual,6,23,No,Sí,0,29000,1,No,1,0.7278,1
+VF7234,Santa Cruz,34,Masculino,10,Mensual,7,12,No,No,0,26500,1,Sí,1,0.6486,1
+VF8124,Santa Cruz,32,Masculino,18,Mensual,6,9,No,No,0,25500,4,No,0,0.6396,1
+VF0261,Santa Cruz,33,Masculino,9,Semestral,18,8,No,No,0,25500,2,Sí,1,0.3382,0
+VF7486,Santa Cruz,43,Femenino,48,Trimestral,8,5,No,No,1,28000,8,No,0,0.4373,0
+VF2157,Liberia Centro,32,Femenino,6,Mensual,7,5,Sí,No,0,30500,1,No,1,0.4674,0
+VF4139,Santa Cruz,51,Masculino,22,Trimestral,12,11,No,Sí,0,22500,2,Sí,0,0.4161,0
+VF9628,Nicoya,44,Masculino,34,Mensual,12,4,No,No,0,29000,6,Sí,0,0.4586,0
+VF1440,Santa Cruz,34,Masculino,8,Mensual,10,3,No,No,0,27000,1,No,0,0.5232,1
+VF4371,Liberia Centro,18,Femenino,18,Semestral,7,2,Sí,No,1,24000,3,No,0,0.4107,0
+VF8093,Santa Cruz,39,Masculino,18,Anual,12,1,No,No,2,24000,3,No,0,0.3647,0
+VF3499,Liberia Centro,34,Masculino,8,Trimestral,9,8,Sí,No,0,24000,1,Sí,0,0.3784,0
+VF3844,Liberia Centro,33,Femenino,34,Semestral,9,10,Sí,No,0,21000,5,Sí,0,0.3659,0
+VF2995,Liberia Centro,31,Masculino,9,Trimestral,9,10,No,No,1,26500,2,Sí,0,0.5437,1
+VF3419,Liberia Centro,33,Femenino,7,Mensual,12,9,No,No,1,26000,0,Sí,0,0.6183,1
+VF9856,Santa Cruz,18,Masculino,5,Mensual,14,14,Sí,Sí,0,29500,0,Sí,1,0.4789,0
+VF2592,Nicoya,35,Masculino,33,Semestral,12,15,No,No,0,23500,5,No,0,0.4807,0
+VF9717,Liberia Centro,36,Masculino,14,Trimestral,12,10,No,No,0,27500,2,No,0,0.4056,0
+VF8221,Nicoya,43,Masculino,2,Trimestral,8,43,Sí,No,0,27000,0,No,0,0.7559,1
+VF3976,Nicoya,19,Masculino,23,Semestral,10,8,Sí,No,0,22000,3,No,1,0.393,0
+VF9708,Santa Cruz,36,Femenino,11,Semestral,11,12,Sí,No,0,26500,1,No,0,0.3766,0
+VF6015,Santa Cruz,35,Femenino,26,Trimestral,8,7,No,No,0,26500,4,Sí,0,0.4249,0
+VF9863,Nicoya,41,Masculino,34,Semestral,11,1,Sí,No,0,22500,4,No,0,0.2786,0
+VF5538,Nicoya,42,Masculino,18,Trimestral,9,7,No,No,0,26000,3,Sí,0,0.4459,0
+VF9286,Santa Cruz,25,Femenino,13,Semestral,11,2,No,Sí,1,24000,3,No,0,0.442,0
+VF2689,Santa Cruz,38,Femenino,7,Trimestral,9,9,Sí,No,0,24500,1,No,0,0.4026,0
+VF1905,Santa Cruz,42,Femenino,22,Trimestral,11,13,No,No,1,27000,4,Sí,0,0.5281,1
+VF8706,Santa Cruz,30,Femenino,13,Mensual,10,12,Sí,Sí,0,26000,3,No,1,0.5259,1
+VF8789,Liberia Centro,38,Masculino,13,Semestral,11,2,No,No,0,25500,2,No,0,0.3451,0
+VF2763,Santa Cruz,43,Femenino,57,Mensual,8,8,Sí,No,1,30000,10,No,0,0.4955,0
+VF5057,Liberia Centro,28,Masculino,2,Anual,4,6,Sí,No,0,22500,0,No,0,0.3189,0
+VF1256,Liberia Centro,29,Femenino,27,Semestral,8,27,No,No,1,25000,3,Sí,1,0.6886,1
+VF6867,Liberia Centro,36,Femenino,13,Mensual,9,16,Sí,No,0,30000,1,No,0,0.5398,1
+VF7483,Liberia Centro,18,Femenino,5,Mensual,12,5,No,No,0,27500,0,Sí,0,0.5028,1
+VF4206,Santa Cruz,22,Femenino,17,Trimestral,9,2,No,No,1,27000,2,Sí,0,0.4564,0
+VF6898,Liberia Centro,34,Masculino,14,Mensual,9,13,No,Sí,0,27500,2,No,1,0.5945,1
+VF0723,Liberia Centro,31,Femenino,13,Anual,10,10,Sí,No,0,21500,3,Sí,0,0.2725,0
+VF1554,Nicoya,36,Masculino,21,Anual,13,8,No,No,1,21500,4,Sí,1,0.3751,0
+VF3979,Liberia Centro,37,Masculino,8,Semestral,6,24,Sí,Sí,0,23000,2,No,0,0.5746,1
+VF5162,Liberia Centro,56,Femenino,29,Trimestral,10,2,Sí,No,0,22000,4,Sí,0,0.2746,0
+VF7228,Liberia Centro,37,Femenino,8,Mensual,15,8,No,No,1,28000,1,No,1,0.5587,1
+VF7789,Liberia Centro,37,Masculino,31,Anual,9,11,No,Sí,0,25500,5,Sí,0,0.2909,0
+VF2203,Liberia Centro,18,Femenino,43,Trimestral,6,5,No,No,0,29000,6,Sí,0,0.3784,0
+VF3864,Liberia Centro,35,Femenino,20,Anual,15,31,Sí,No,0,24500,3,No,0,0.3744,0
+VF1730,Santa Cruz,54,Masculino,11,Semestral,8,7,Sí,Sí,1,25000,1,Sí,1,0.422,0
+VF1645,Liberia Centro,48,Femenino,5,Mensual,10,27,No,Sí,0,29500,0,No,0,0.7031,1
+VF8282,Nicoya,39,Masculino,8,Anual,7,6,No,No,0,19000,1,Sí,1,0.3887,0
+VF8644,Liberia Centro,20,Femenino,27,Mensual,9,19,Sí,No,1,29000,4,No,1,0.6459,1
+VF2589,Liberia Centro,24,Masculino,6,Mensual,9,2,Sí,No,0,26500,2,Sí,0,0.4452,0
+VF4319,Liberia Centro,35,Femenino,14,Anual,9,8,Sí,No,1,24000,2,No,0,0.314,0
+VF2817,Santa Cruz,34,Femenino,7,Trimestral,8,18,Sí,No,0,23000,2,Sí,0,0.5235,1
+VF9110,Santa Cruz,44,Masculino,16,Semestral,10,10,Sí,No,0,25000,2,Sí,0,0.3652,0
+VF5255,Nicoya,18,Masculino,25,Mensual,6,1,No,No,0,26500,4,No,0,0.563,1
+VF0810,Liberia Centro,25,Masculino,18,Semestral,9,14,No,No,1,22000,3,No,0,0.6,1
+VF8760,Santa Cruz,45,Femenino,7,Mensual,15,6,No,No,1,28000,1,No,0,0.5511,1
+VF8981,Santa Cruz,24,Femenino,21,Mensual,12,15,No,No,0,29000,2,Sí,1,0.5798,1
+VF7846,Santa Cruz,43,Femenino,3,Semestral,9,7,No,No,0,24500,0,No,1,0.4529,0
+VF8203,Nicoya,47,Femenino,7,Mensual,8,1,Sí,Sí,0,29500,1,No,0,0.4245,0
+VF9467,Nicoya,30,Femenino,16,Mensual,9,8,Sí,No,0,27000,2,No,0,0.5138,1
+VF6816,Liberia Centro,18,Femenino,10,Mensual,8,8,Sí,No,0,27500,1,Sí,0,0.5019,1
+VF2657,Nicoya,37,Femenino,3,Semestral,10,7,Sí,Sí,0,24500,1,No,1,0.3728,0
+VF1574,Nicoya,29,Masculino,12,Semestral,9,15,No,No,1,24500,3,Sí,0,0.633,1
+VF5210,Liberia Centro,24,Masculino,13,Mensual,5,1,No,No,1,27500,3,Sí,0,0.6272,1
+VF7533,Liberia Centro,26,Femenino,12,Semestral,10,2,No,No,1,25000,3,Sí,0,0.4455,0
+VF9954,Liberia Centro,26,Masculino,10,Anual,11,11,Sí,No,0,19500,1,No,0,0.2891,0
+VF8128,Nicoya,29,Masculino,7,Mensual,4,1,Sí,No,0,30000,1,Sí,0,0.5028,1
+VF0059,Liberia Centro,35,Masculino,15,Mensual,8,5,No,No,0,26500,2,Sí,1,0.5405,1
+VF8224,Nicoya,23,Femenino,28,Trimestral,11,4,Sí,No,0,25500,5,No,0,0.3193,0
+VF8288,Liberia Centro,36,Masculino,6,Anual,7,31,No,No,0,25500,2,No,0,0.5852,1
+VF5821,Nicoya,46,Femenino,12,Trimestral,6,9,No,Sí,0,28500,2,No,1,0.4826,0
+VF3722,Nicoya,47,Femenino,7,Mensual,10,21,Sí,No,1,26000,0,No,0,0.7115,1
+VF8729,Liberia Centro,48,Masculino,14,Anual,10,10,Sí,Sí,0,21500,3,Sí,0,0.2504,0
+VF5247,Nicoya,37,Femenino,20,Anual,9,2,Sí,Sí,0,19000,3,Sí,1,0.2306,0
+VF4809,Liberia Centro,67,Masculino,33,Anual,9,15,No,No,2,22500,4,No,0,0.4926,0
+VF3189,Nicoya,18,Femenino,22,Anual,8,4,Sí,No,1,22500,4,Sí,0,0.3266,0
+VF1620,Santa Cruz,30,Femenino,20,Mensual,11,9,No,Sí,0,28500,2,Sí,0,0.5156,1
+VF2587,Liberia Centro,32,Masculino,18,Mensual,9,7,No,Sí,0,27000,3,No,1,0.532,1
+VF8046,Liberia Centro,30,Masculino,24,Anual,7,6,Sí,Sí,0,22000,5,No,0,0.249,0
+VF3297,Santa Cruz,18,Masculino,32,Semestral,5,4,No,No,0,21000,5,No,0,0.4741,0
+VF9790,Liberia Centro,26,Masculino,29,Mensual,8,3,Sí,No,0,29000,4,No,0,0.4091,0
+VF5337,Liberia Centro,18,Masculino,17,Semestral,11,7,No,No,0,24500,2,Sí,0,0.4006,0
+VF2291,Santa Cruz,26,Masculino,5,Anual,8,9,Sí,Sí,0,22500,0,No,0,0.294,0
+VF8659,Liberia Centro,43,Femenino,9,Semestral,8,6,Sí,No,0,20500,0,No,0,0.3758,0
+VF0435,Liberia Centro,44,Masculino,13,Mensual,9,3,No,No,0,30000,3,No,0,0.4889,0
+VF5045,Santa Cruz,22,Masculino,24,Mensual,9,8,Sí,Sí,0,27500,4,No,0,0.4729,0
+VF5017,Liberia Centro,35,Masculino,37,Mensual,15,22,No,No,0,27500,5,Sí,0,0.5767,1
+VF7103,Nicoya,35,Femenino,10,Trimestral,6,1,Sí,No,0,26500,0,Sí,0,0.3521,0
+VF2038,Liberia Centro,43,Femenino,2,Mensual,13,12,No,No,0,29000,0,Sí,0,0.5418,1
+VF5252,Nicoya,37,Femenino,9,Anual,7,18,Sí,No,0,22000,0,Sí,0,0.4049,0
+VF6562,Liberia Centro,39,Femenino,11,Mensual,10,22,No,No,2,29000,1,No,1,0.7958,1
+VF1073,Liberia Centro,27,Femenino,2,Trimestral,7,4,No,No,0,27500,0,No,0,0.4336,0
+VF0820,Liberia Centro,26,Femenino,15,Semestral,14,32,Sí,No,0,23500,2,Sí,0,0.5459,1
+VF2707,Liberia Centro,39,Femenino,2,Mensual,11,16,Sí,Sí,0,28000,0,No,1,0.5299,1
+VF2391,Liberia Centro,24,Femenino,31,Anual,10,9,No,No,0,24000,5,Sí,0,0.2902,0
+VF4442,Nicoya,31,Femenino,4,Semestral,9,11,No,Sí,0,24000,0,Sí,0,0.5016,1
+VF7043,Santa Cruz,27,Femenino,5,Trimestral,13,4,Sí,Sí,0,25500,0,No,0,0.2912,0
+VF4201,Nicoya,18,Femenino,19,Anual,10,8,Sí,No,0,22000,3,No,0,0.2808,0
+VF0161,Liberia Centro,35,Femenino,6,Mensual,8,2,No,Sí,0,31000,0,Sí,1,0.4696,0
+VF1083,Liberia Centro,33,Masculino,12,Mensual,10,14,No,Sí,1,28000,2,No,0,0.668,1
+VF4091,Santa Cruz,29,Masculino,11,Trimestral,3,29,Sí,Sí,0,25000,0,No,1,0.6634,1
+VF5905,Liberia Centro,41,Femenino,16,Mensual,8,16,No,Sí,0,27500,2,No,1,0.6256,1
+VF2559,Liberia Centro,30,Femenino,6,Mensual,10,10,No,No,1,26000,2,Sí,0,0.6661,1
+VF4184,Liberia Centro,33,Femenino,18,Mensual,7,23,No,No,0,29000,4,Sí,0,0.7129,1
+VF2926,Nicoya,31,Femenino,3,Mensual,10,16,No,No,0,29000,0,No,1,0.6656,1
+VF1110,Liberia Centro,45,Femenino,9,Mensual,9,4,Sí,No,1,29000,2,Sí,0,0.5034,1
+VF3228,Liberia Centro,23,Femenino,19,Anual,10,2,Sí,No,0,20500,4,No,0,0.2161,0
+VF4068,Nicoya,49,Femenino,12,Mensual,5,34,Sí,No,0,27500,2,No,1,0.7935,1
+VF2224,Liberia Centro,18,Femenino,13,Mensual,9,15,Sí,No,2,27000,1,Sí,1,0.7061,1
+VF7663,Nicoya,34,Femenino,17,Anual,8,15,Sí,No,2,22000,2,Sí,1,0.5108,1
+VF6748,Liberia Centro,25,Masculino,12,Mensual,12,11,Sí,No,0,29000,2,No,1,0.4708,0
+VF3887,Nicoya,27,Femenino,27,Trimestral,8,4,Sí,Sí,1,25500,3,No,0,0.4067,0
+VF0974,Liberia Centro,31,Femenino,7,Semestral,8,3,Sí,Sí,2,23500,0,No,0,0.4771,0
+VF6666,Santa Cruz,32,Masculino,6,Mensual,9,2,Sí,No,0,27000,1,No,0,0.4529,0
+VF3938,Liberia Centro,37,Masculino,12,Mensual,14,9,Sí,No,0,26500,3,Sí,0,0.4315,0
+VF6679,Santa Cruz,41,Masculino,8,Anual,9,21,No,No,0,24500,1,No,0,0.4635,0
+VF8416,Liberia Centro,47,Masculino,2,Mensual,8,10,Sí,No,1,26500,0,No,0,0.6108,1
+VF1466,Liberia Centro,19,Masculino,1,Mensual,6,4,No,No,0,28500,0,No,0,0.5837,1
+VF8884,Liberia Centro,40,Femenino,22,Mensual,7,3,Sí,No,0,28000,3,No,0,0.4291,0
+VF3756,Liberia Centro,27,Masculino,19,Mensual,7,11,Sí,No,1,27000,2,No,0,0.6135,1
+VF6785,Santa Cruz,27,Femenino,12,Mensual,8,8,No,No,0,30500,2,No,1,0.575,1
+VF2637,Nicoya,45,Masculino,6,Mensual,7,10,Sí,No,0,28500,2,No,1,0.5679,1
+VF8708,Santa Cruz,40,Femenino,14,Mensual,10,3,No,No,1,28500,2,No,0,0.5751,1
+VF0287,Santa Cruz,40,Masculino,39,Anual,4,13,No,No,2,22000,6,Sí,0,0.5688,1
+VF9557,Liberia Centro,20,Femenino,6,Semestral,8,4,No,Sí,0,25500,2,No,0,0.4133,0
+VF9599,Liberia Centro,36,Masculino,13,Trimestral,7,17,Sí,No,1,29500,2,No,1,0.5355,1
+VF2474,Santa Cruz,28,Masculino,9,Mensual,7,2,Sí,No,0,31500,1,Sí,0,0.4387,0
+VF7064,Nicoya,34,Femenino,8,Trimestral,7,11,Sí,No,2,23000,1,No,0,0.637,1
+VF1524,Liberia Centro,35,Femenino,5,Mensual,16,2,Sí,Sí,0,26000,1,Sí,0,0.3297,0
+VF8792,Liberia Centro,36,Femenino,6,Semestral,4,19,Sí,No,0,25000,1,Sí,0,0.5452,1
+VF6752,Santa Cruz,22,Masculino,16,Anual,9,3,No,No,2,22000,3,No,0,0.455,0
+VF2711,Nicoya,32,Masculino,13,Anual,6,9,Sí,Sí,0,22500,3,Sí,0,0.3208,0
+VF1435,Liberia Centro,39,Masculino,17,Trimestral,10,10,No,Sí,0,28000,3,No,0,0.4077,0
+VF3393,Nicoya,46,Femenino,6,Anual,4,29,Sí,No,1,24000,0,Sí,0,0.6255,1
+VF7709,Santa Cruz,34,Femenino,23,Mensual,9,0,No,No,1,26000,4,Sí,0,0.5619,1
+VF1607,Liberia Centro,33,Masculino,20,Anual,7,8,Sí,No,0,21500,3,No,0,0.28,0
+VF6799,Liberia Centro,45,Masculino,19,Mensual,15,9,Sí,Sí,0,28000,4,Sí,0,0.3743,0
+VF2975,Liberia Centro,48,Masculino,17,Mensual,10,3,Sí,No,0,28000,2,No,1,0.3938,0
+VF0977,Santa Cruz,31,Femenino,1,Trimestral,11,10,No,No,0,25500,0,Sí,0,0.4673,0
+VF5313,Nicoya,35,Femenino,9,Mensual,9,6,No,Sí,0,27000,1,No,0,0.5643,1
+VF6300,Liberia Centro,32,Masculino,14,Mensual,15,26,Sí,No,0,29500,2,Sí,0,0.5692,1
+VF6858,Liberia Centro,26,Masculino,16,Mensual,8,6,No,Sí,1,29500,1,No,0,0.5962,1
+VF2808,Liberia Centro,25,Femenino,8,Anual,13,3,Sí,No,0,21500,1,No,0,0.1987,0
+VF1082,Liberia Centro,48,Femenino,11,Mensual,5,3,Sí,No,0,28500,1,No,0,0.4644,0
+VF6627,Nicoya,34,Femenino,17,Mensual,8,19,Sí,No,1,29500,2,No,0,0.6909,1
+VF0168,Liberia Centro,43,Masculino,19,Mensual,8,28,No,No,0,28500,4,Sí,0,0.7415,1
+VF8584,Liberia Centro,37,Masculino,14,Semestral,8,9,No,No,0,24000,3,No,1,0.4688,0
+VF4228,Santa Cruz,42,Masculino,12,Trimestral,10,6,Sí,Sí,0,26500,2,Sí,0,0.3205,0
+VF4997,Liberia Centro,34,Masculino,43,Semestral,10,14,Sí,No,1,24000,7,No,0,0.4447,0
+VF7095,Liberia Centro,31,Masculino,10,Trimestral,11,16,Sí,No,0,25000,0,No,0,0.4241,0
+VF1281,Santa Cruz,33,Masculino,27,Semestral,6,10,Sí,No,0,21000,3,No,0,0.4364,0
+VF1344,Santa Cruz,23,Masculino,21,Mensual,9,13,No,Sí,1,29000,3,Sí,0,0.6657,1
+VF4397,Liberia Centro,31,Femenino,12,Semestral,11,6,No,No,0,23500,2,No,0,0.4023,0
+VF1446,Liberia Centro,32,Masculino,9,Anual,7,4,Sí,No,0,19500,0,No,0,0.2685,0
+VF8245,Liberia Centro,47,Femenino,6,Trimestral,7,3,Sí,No,1,25500,1,No,0,0.4186,0
+VF5455,Santa Cruz,42,Masculino,11,Mensual,15,1,Sí,No,0,29000,2,Sí,0,0.3324,0
+VF3231,Santa Cruz,18,Femenino,19,Mensual,3,15,Sí,No,1,28500,3,No,1,0.7125,1
+VF3292,Nicoya,31,Femenino,4,Anual,6,19,No,Sí,1,23500,0,No,0,0.5815,1
+VF3260,Nicoya,52,Femenino,27,Anual,8,6,Sí,No,0,21500,3,No,0,0.2543,0
+VF0179,Nicoya,38,Femenino,35,Semestral,13,11,Sí,Sí,2,21500,5,Sí,0,0.4878,0
+VF2107,Nicoya,44,Masculino,4,Mensual,11,4,Sí,No,0,28500,1,Sí,0,0.446,0
+VF9359,Nicoya,41,Masculino,12,Semestral,8,8,Sí,No,0,24000,2,No,1,0.412,0
+VF2012,Liberia Centro,44,Femenino,8,Trimestral,11,5,No,No,0,27500,2,No,0,0.3742,0
+VF1671,Liberia Centro,30,Femenino,18,Trimestral,10,6,No,No,2,27500,2,No,0,0.5417,1
+VF5629,Santa Cruz,52,Masculino,10,Anual,5,20,No,No,0,23000,1,No,0,0.5058,1
+VF5066,Liberia Centro,28,Femenino,9,Trimestral,10,5,No,Sí,1,26500,1,Sí,0,0.455,0
+VF7623,Liberia Centro,18,Masculino,13,Mensual,7,11,Sí,No,0,30500,3,Sí,0,0.5308,1
+VF1094,Santa Cruz,18,Masculino,6,Semestral,14,7,Sí,No,1,25500,1,No,0,0.3967,0
+VF8041,Nicoya,30,Femenino,9,Mensual,7,8,No,No,0,28000,1,Sí,0,0.6192,1
+VF8472,Liberia Centro,36,Femenino,25,Semestral,11,6,Sí,No,0,24500,4,No,0,0.2998,0
+VF7393,Nicoya,29,Femenino,13,Mensual,18,15,Sí,No,0,27500,3,No,0,0.4735,0
+VF9195,Nicoya,35,Femenino,12,Trimestral,6,11,Sí,No,1,26500,2,No,1,0.543,1
+VF4957,Liberia Centro,41,Femenino,60,Mensual,9,9,Sí,No,0,28500,10,No,0,0.4015,0
+VF2473,Nicoya,37,Femenino,10,Trimestral,12,32,Sí,No,0,25500,2,No,0,0.6113,1
+VF6640,Liberia Centro,21,Masculino,20,Semestral,15,9,Sí,No,0,24500,3,Sí,0,0.2938,0
+VF1339,Liberia Centro,26,Femenino,8,Mensual,11,17,No,No,0,28000,1,No,0,0.6333,1
+VF0546,Liberia Centro,25,Masculino,3,Mensual,7,4,No,No,0,26000,1,No,1,0.5834,1
+VF3868,Santa Cruz,24,Masculino,30,Trimestral,9,3,Sí,Sí,0,27000,6,Sí,0,0.2916,0
+VF9123,Santa Cruz,39,Femenino,1,Anual,10,5,Sí,No,0,20500,1,No,0,0.2649,0
+VF3330,Santa Cruz,34,Masculino,11,Mensual,9,6,No,No,0,30500,2,No,0,0.5409,1
+VF6111,Nicoya,29,Masculino,17,Trimestral,4,10,Sí,Sí,1,25500,1,Sí,1,0.5354,1
+VF5778,Liberia Centro,35,Femenino,4,Anual,10,6,Sí,No,0,23500,0,No,0,0.2373,0
+VF6432,Nicoya,32,Masculino,7,Semestral,6,10,Sí,No,0,25000,1,Sí,0,0.4615,0
+VF0488,Liberia Centro,38,Masculino,29,Mensual,7,2,Sí,No,0,29000,4,Sí,0,0.3991,0
+VF3445,Nicoya,35,Masculino,5,Trimestral,10,8,No,No,0,25000,0,Sí,0,0.4724,0
+VF1294,Santa Cruz,37,Femenino,1,Mensual,6,11,No,No,0,29000,0,No,0,0.6511,1
+VF2084,Nicoya,36,Femenino,21,Mensual,6,12,Sí,Sí,0,28500,2,No,0,0.553,1
+VF7404,Liberia Centro,31,Femenino,9,Mensual,12,23,No,No,0,30500,1,No,1,0.657,1
+VF3971,Nicoya,51,Femenino,10,Mensual,25,16,Sí,No,0,27500,1,Sí,0,0.3683,0
+VF9024,Liberia Centro,45,Masculino,13,Mensual,13,21,No,Sí,2,29500,1,No,0,0.74,1
+VF8487,Liberia Centro,37,Femenino,28,Trimestral,9,16,No,No,0,25500,4,No,1,0.495,0
+VF9771,Nicoya,22,Femenino,9,Mensual,10,5,No,No,0,28000,1,No,1,0.559,1
+VF5308,Liberia Centro,34,Masculino,24,Trimestral,9,19,Sí,No,1,28500,3,Sí,0,0.5106,1
+VF9351,Liberia Centro,18,Femenino,7,Mensual,9,8,Sí,No,0,28000,2,Sí,0,0.4967,0
+VF5362,Liberia Centro,33,Femenino,10,Mensual,12,3,Sí,No,1,28000,0,No,0,0.4606,0
+VF8042,Liberia Centro,45,Masculino,8,Semestral,4,12,Sí,No,2,25000,1,Sí,0,0.621,1
+VF6534,Liberia Centro,36,Femenino,22,Anual,14,12,Sí,No,0,22000,2,Sí,0,0.2223,0
+VF8917,Santa Cruz,28,Femenino,11,Mensual,8,1,Sí,No,0,28500,0,Sí,0,0.4238,0
+VF3778,Santa Cruz,30,Masculino,11,Mensual,8,14,Sí,No,0,27500,1,Sí,0,0.5734,1
+VF9146,Liberia Centro,24,Masculino,3,Mensual,5,2,Sí,No,0,29000,1,Sí,1,0.4846,0
+VF8559,Nicoya,34,Masculino,6,Trimestral,6,7,Sí,Sí,0,24500,1,No,0,0.4319,0
+VF2923,Nicoya,18,Femenino,14,Mensual,10,12,No,No,1,27500,2,No,0,0.7006,1
+VF5678,Liberia Centro,39,Femenino,21,Mensual,10,7,Sí,No,0,28000,3,Sí,0,0.4283,0
+VF2481,Liberia Centro,57,Femenino,5,Semestral,11,12,No,No,1,22000,0,Sí,0,0.5397,1
+VF6857,Santa Cruz,40,Femenino,24,Anual,14,2,Sí,No,0,23500,3,No,0,0.162,0
+VF9217,Santa Cruz,26,Femenino,20,Anual,9,8,Sí,No,0,22000,3,No,0,0.2703,0
+VF3968,Liberia Centro,18,Femenino,24,Mensual,7,3,Sí,No,0,27500,4,Sí,1,0.4429,0
+VF5424,Liberia Centro,34,Masculino,4,Mensual,11,12,Sí,Sí,2,27500,0,Sí,0,0.644,1
+VF5269,Nicoya,28,Femenino,29,Trimestral,8,7,No,No,1,26000,5,Sí,0,0.5293,1
+VF7298,Santa Cruz,33,Femenino,38,Semestral,10,1,No,No,0,24000,6,Sí,0,0.3306,0
+VF3677,Liberia Centro,29,Femenino,7,Mensual,5,18,Sí,No,1,26500,1,No,0,0.7239,1
+VF0962,Santa Cruz,35,Femenino,28,Mensual,10,3,Sí,Sí,0,27500,5,No,0,0.3908,0
+VF5632,Santa Cruz,43,Masculino,16,Mensual,13,17,Sí,No,1,31500,1,No,0,0.5718,1
+VF3461,Liberia Centro,47,Femenino,14,Semestral,9,3,Sí,No,0,25500,2,No,0,0.2983,0
+VF4158,Nicoya,50,Masculino,12,Mensual,11,26,Sí,Sí,1,30000,3,Sí,1,0.7041,1
+VF0243,Nicoya,20,Femenino,18,Mensual,11,21,Sí,Sí,0,28000,2,No,0,0.6007,1
+VF3986,Nicoya,42,Femenino,1,Mensual,10,8,Sí,Sí,1,26500,0,Sí,0,0.5801,1
+VF2687,Liberia Centro,42,Masculino,13,Mensual,6,1,No,Sí,1,28000,2,No,0,0.5826,1
+VF3695,Liberia Centro,34,Masculino,30,Semestral,13,15,Sí,No,0,26500,5,Sí,0,0.339,0
+VF7790,Santa Cruz,29,Masculino,19,Mensual,8,10,Sí,No,0,30500,3,Sí,0,0.5007,1
+VF7383,Nicoya,41,Masculino,19,Semestral,6,9,No,No,0,25500,3,No,0,0.5059,1
+VF4335,Liberia Centro,32,Masculino,44,Semestral,9,19,No,No,0,23500,6,No,0,0.5087,1
+VF5294,Liberia Centro,18,Masculino,11,Mensual,11,1,Sí,No,0,28500,1,No,0,0.387,0
+VF3620,Liberia Centro,31,Femenino,13,Mensual,8,22,No,No,0,28500,2,No,1,0.7035,1
+VF0385,Santa Cruz,24,Masculino,6,Anual,5,2,Sí,No,1,20000,1,Sí,0,0.3653,0
+VF0738,Nicoya,23,Masculino,13,Trimestral,12,12,No,No,1,27000,2,No,0,0.5564,1
+VF7131,Liberia Centro,24,Masculino,14,Trimestral,11,9,No,No,0,26500,1,Sí,0,0.4144,0
+VF4349,Nicoya,39,Masculino,9,Mensual,5,32,No,No,1,27500,0,No,0,0.8737,1
+VF7467,Nicoya,52,Femenino,10,Mensual,7,5,Sí,No,0,26000,1,No,0,0.511,1
+VF7231,Liberia Centro,29,Masculino,3,Trimestral,12,7,No,No,1,25500,1,Sí,1,0.4895,0
+VF7875,Santa Cruz,47,Femenino,4,Mensual,10,5,Sí,No,0,27000,0,No,0,0.4575,0
+VF0593,Liberia Centro,33,Femenino,12,Mensual,5,13,Sí,No,2,28000,2,No,1,0.7289,1
+VF6112,Liberia Centro,53,Femenino,3,Trimestral,8,7,Sí,Sí,0,28500,0,No,0,0.3329,0
+VF4178,Nicoya,38,Femenino,10,Mensual,14,8,Sí,No,1,28000,1,No,0,0.5226,1
+VF1410,Nicoya,44,Masculino,11,Mensual,14,5,No,Sí,1,27500,1,No,0,0.5535,1
+VF9052,Santa Cruz,33,Masculino,10,Trimestral,9,4,No,No,1,26500,2,No,0,0.4982,0
+VF3219,Santa Cruz,45,Femenino,14,Semestral,10,17,Sí,No,0,24500,2,No,0,0.446,0
+VF6164,Liberia Centro,27,Masculino,20,Mensual,11,8,No,No,2,28500,3,No,0,0.6731,1
+VF2392,Liberia Centro,20,Femenino,9,Mensual,5,2,Sí,No,1,31000,1,No,1,0.5409,1
+VF3608,Liberia Centro,30,Femenino,60,Semestral,7,7,Sí,No,0,22000,9,No,0,0.3216,0
+VF9093,Santa Cruz,21,Femenino,13,Mensual,10,30,Sí,No,0,28000,1,No,0,0.7034,1
+VF8061,Santa Cruz,20,Masculino,18,Trimestral,9,3,Sí,No,2,27000,2,No,0,0.4741,0
+VF5829,Liberia Centro,37,Masculino,5,Mensual,9,10,No,No,0,27500,0,No,0,0.5903,1
+VF7962,Liberia Centro,49,Femenino,3,Anual,13,5,No,Sí,2,25000,0,No,0,0.3652,0
+VF4557,Santa Cruz,43,Femenino,31,Semestral,9,8,Sí,Sí,1,24500,4,No,0,0.3984,0
+VF1973,Liberia Centro,31,Masculino,5,Mensual,15,5,Sí,No,0,27500,0,Sí,0,0.3777,0
+VF3122,Liberia Centro,18,Femenino,11,Mensual,5,2,No,No,0,23500,1,Sí,0,0.585,1
+VF0955,Liberia Centro,32,Masculino,7,Semestral,9,4,Sí,No,0,24500,1,No,0,0.3362,0
+VF4105,Liberia Centro,34,Femenino,7,Semestral,15,0,Sí,No,0,23500,1,No,0,0.2373,0
+VF5985,Liberia Centro,48,Femenino,24,Mensual,9,10,No,No,2,29000,4,No,0,0.6923,1
+VF5211,Nicoya,47,Femenino,10,Anual,6,9,No,No,0,24500,1,No,0,0.3865,0
+VF3498,Nicoya,26,Femenino,1,Trimestral,10,4,No,No,0,26500,0,No,0,0.4381,0
+VF6396,Liberia Centro,38,Femenino,6,Trimestral,13,21,Sí,No,1,27500,1,No,0,0.518,1
+VF4942,Liberia Centro,22,Femenino,11,Anual,8,1,No,No,1,21000,0,No,0,0.3571,0
+VF8542,Santa Cruz,47,Femenino,7,Trimestral,8,22,No,No,0,23000,2,No,0,0.638,1
+VF6032,Liberia Centro,18,Masculino,33,Anual,6,10,No,No,0,21000,4,No,0,0.3691,0
+VF6166,Santa Cruz,40,Femenino,7,Semestral,8,15,Sí,No,0,22500,2,No,0,0.4872,0
+VF7268,Liberia Centro,29,Masculino,7,Trimestral,8,11,Sí,No,1,26000,0,No,0,0.4937,0
+VF1032,Santa Cruz,36,Masculino,19,Mensual,9,17,No,No,1,28500,3,No,0,0.7197,1
+VF5007,Nicoya,33,Masculino,8,Trimestral,16,14,Sí,No,0,26000,1,No,0,0.373,0
+VF0317,Liberia Centro,49,Femenino,16,Semestral,11,28,No,No,1,25000,2,Sí,1,0.6688,1
+VF3893,Santa Cruz,50,Masculino,16,Trimestral,7,1,No,No,0,28000,2,Sí,0,0.3738,0
+VF9748,Liberia Centro,35,Femenino,15,Semestral,10,35,Sí,No,1,23500,2,Sí,0,0.6956,1
+VF7522,Santa Cruz,31,Femenino,7,Mensual,10,20,Sí,No,0,28500,1,Sí,1,0.6073,1
+VF0189,Santa Cruz,38,Masculino,10,Semestral,11,20,No,No,0,25000,1,No,0,0.553,1
+VF8623,Santa Cruz,38,Masculino,7,Trimestral,10,5,No,No,0,29000,1,No,0,0.3974,0
+VF3114,Liberia Centro,26,Masculino,9,Mensual,7,11,No,No,0,27000,1,No,1,0.6324,1
+VF4523,Nicoya,22,Masculino,14,Semestral,9,12,No,No,0,25000,1,No,0,0.5164,1
+VF5092,Liberia Centro,28,Masculino,2,Semestral,10,33,Sí,No,0,24000,0,No,0,0.6336,1
+VF0150,Liberia Centro,35,Femenino,6,Trimestral,8,12,Sí,No,1,24000,0,No,0,0.514,1
+VF5594,Nicoya,33,Femenino,3,Mensual,4,13,Sí,No,0,30500,0,Sí,1,0.623,1
+VF6735,Liberia Centro,40,Femenino,38,Mensual,12,12,Sí,Sí,0,27500,7,No,0,0.4221,0
+VF0728,Nicoya,44,Femenino,10,Trimestral,5,9,No,No,1,27000,1,Sí,1,0.5995,1
+VF0835,Santa Cruz,18,Femenino,9,Semestral,8,2,No,No,0,20500,1,No,1,0.4502,0
+VF9475,Nicoya,18,Masculino,4,Semestral,9,9,Sí,No,1,27000,1,No,0,0.498,0
+VF7673,Nicoya,37,Femenino,15,Trimestral,7,5,Sí,No,0,25500,3,Sí,0,0.3857,0
+VF3235,Liberia Centro,36,Femenino,9,Trimestral,12,4,No,Sí,0,27500,1,No,0,0.3352,0
+VF4344,Nicoya,43,Femenino,10,Mensual,7,9,Sí,No,0,29000,0,No,0,0.5335,1
+VF6183,Liberia Centro,37,Femenino,34,Mensual,10,8,Sí,No,0,30000,4,Sí,0,0.3998,0
+VF7194,Liberia Centro,36,Femenino,13,Mensual,11,5,Sí,Sí,1,28500,2,Sí,0,0.4698,0
+VF1572,Liberia Centro,50,Femenino,5,Trimestral,9,3,Sí,Sí,0,24500,0,No,0,0.3066,0
+VF4870,Nicoya,35,Femenino,6,Anual,9,5,No,Sí,1,23500,1,No,0,0.3917,0
+VF9759,Liberia Centro,28,Masculino,17,Mensual,8,10,No,No,0,27500,2,No,0,0.5904,1
+VF7917,Santa Cruz,54,Femenino,8,Mensual,9,10,Sí,No,0,25000,1,No,0,0.5282,1
+VF8705,Liberia Centro,54,Femenino,18,Trimestral,4,6,Sí,No,0,26000,3,No,0,0.3841,0
+VF7645,Liberia Centro,26,Masculino,3,Anual,4,3,Sí,No,0,22000,0,No,0,0.2941,0
+VF3035,Liberia Centro,36,Masculino,10,Mensual,10,10,Sí,No,0,25000,1,No,1,0.5086,1
+VF0821,Nicoya,31,Femenino,17,Anual,7,9,No,No,0,22500,1,No,0,0.3817,0
+VF8739,Liberia Centro,25,Masculino,12,Mensual,6,4,Sí,Sí,1,29500,2,Sí,0,0.5338,1
+VF2352,Nicoya,44,Masculino,31,Mensual,7,8,No,No,0,24000,6,Sí,0,0.6108,1
+VF3954,Liberia Centro,38,Masculino,24,Anual,8,15,Sí,Sí,0,20000,4,No,0,0.3182,0
+VF0666,Liberia Centro,34,Femenino,9,Anual,8,13,Sí,Sí,0,19500,1,Sí,0,0.3182,0
+VF4746,Liberia Centro,50,Masculino,28,Mensual,7,2,No,No,0,29000,4,No,0,0.4766,0
+VF9926,Liberia Centro,41,Masculino,11,Mensual,8,29,No,No,0,26000,1,No,1,0.7713,1
+VF9664,Liberia Centro,58,Femenino,10,Trimestral,10,4,Sí,Sí,0,27000,1,Sí,0,0.2742,0
+VF2960,Nicoya,29,Masculino,10,Mensual,10,6,No,Sí,1,29000,0,No,1,0.6148,1
+VF8447,Santa Cruz,34,Masculino,9,Anual,7,3,Sí,No,0,21000,1,No,1,0.2675,0
+VF2743,Liberia Centro,45,Masculino,21,Semestral,13,2,Sí,No,1,23500,3,Sí,0,0.3118,0
+VF0185,Liberia Centro,19,Masculino,23,Mensual,10,8,Sí,No,0,27500,3,Sí,0,0.4543,0
+VF1191,Liberia Centro,41,Femenino,12,Semestral,11,5,No,No,0,25500,2,No,0,0.372,0
+VF6697,Santa Cruz,36,Femenino,45,Anual,12,19,No,No,1,20500,6,Sí,0,0.4389,0
+VF3003,Liberia Centro,19,Femenino,14,Trimestral,6,7,Sí,No,0,25500,2,No,0,0.4,0
+VF7907,Liberia Centro,24,Femenino,42,Semestral,4,11,No,No,1,26500,7,No,0,0.5636,1
+VF4924,Nicoya,40,Femenino,11,Trimestral,13,9,No,Sí,0,27500,2,No,1,0.4017,0
+VF0601,Liberia Centro,59,Masculino,12,Semestral,13,6,Sí,No,0,25500,2,No,0,0.2786,0
+VF6661,Santa Cruz,47,Femenino,6,Semestral,13,2,No,No,0,24000,0,Sí,0,0.3391,0
+VF4268,Liberia Centro,33,Masculino,13,Mensual,11,9,Sí,No,0,26500,3,No,0,0.4778,0
+VF5388,Nicoya,37,Femenino,14,Mensual,9,3,Sí,No,0,27500,2,No,0,0.4574,0
+VF9260,Liberia Centro,34,Masculino,25,Mensual,10,8,No,No,0,26500,4,No,1,0.5355,1
+VF7032,Liberia Centro,21,Masculino,16,Mensual,6,5,No,Sí,0,27500,1,Sí,0,0.5467,1
+VF2062,Santa Cruz,26,Masculino,21,Semestral,9,39,Sí,No,0,26000,4,No,0,0.6815,1
+VF5915,Santa Cruz,31,Masculino,19,Anual,10,6,No,No,0,22500,3,No,0,0.3057,0
+VF7039,Santa Cruz,27,Masculino,36,Trimestral,6,4,Sí,No,1,26000,6,No,0,0.4231,0
+VF0911,Santa Cruz,35,Masculino,6,Trimestral,6,18,Sí,Sí,0,25500,2,No,0,0.5258,1
+VF6894,Liberia Centro,19,Femenino,11,Anual,7,3,No,No,0,23500,2,Sí,0,0.3067,0
+VF8044,Santa Cruz,50,Femenino,7,Trimestral,8,5,Sí,Sí,1,28000,1,Sí,0,0.399,0
+VF6992,Liberia Centro,18,Femenino,7,Mensual,13,12,No,Sí,0,27500,1,Sí,0,0.5459,1
+VF9435,Liberia Centro,22,Femenino,7,Semestral,11,17,No,Sí,1,26500,1,No,0,0.5728,1
+VF1599,Liberia Centro,35,Femenino,19,Trimestral,10,4,No,No,0,28500,3,Sí,0,0.3512,0
+VF5850,Santa Cruz,40,Femenino,12,Mensual,12,7,Sí,Sí,0,25500,2,No,0,0.44,0
+VF9133,Santa Cruz,34,Femenino,8,Mensual,9,3,No,No,0,26500,0,Sí,0,0.5279,1
+VF1486,Liberia Centro,38,Masculino,14,Mensual,11,4,No,No,0,30000,2,Sí,0,0.4641,0
+VF5347,Liberia Centro,60,Femenino,60,Mensual,8,9,No,No,0,26500,9,No,1,0.49,0
+VF7307,Nicoya,39,Masculino,25,Semestral,12,7,Sí,Sí,1,24000,3,Sí,0,0.3806,0
+VF6297,Liberia Centro,35,Masculino,5,Mensual,13,8,Sí,No,0,28500,0,No,0,0.4299,0
+VF4267,Santa Cruz,27,Masculino,11,Mensual,10,5,No,No,0,26000,0,No,0,0.5444,1
+VF9556,Nicoya,43,Masculino,22,Trimestral,8,13,Sí,Sí,0,25500,3,No,0,0.4247,0
+VF0934,Santa Cruz,43,Masculino,16,Trimestral,10,20,No,No,0,28500,2,Sí,1,0.5322,1
+VF5685,Liberia Centro,41,Femenino,5,Trimestral,5,3,No,No,0,26500,0,No,0,0.4402,0
+VF5173,Liberia Centro,41,Masculino,6,Mensual,7,3,No,No,0,25500,0,No,1,0.5535,1
+VF8796,Liberia Centro,45,Femenino,21,Anual,7,9,Sí,No,1,23500,4,No,0,0.3375,0
+VF2830,Liberia Centro,23,Femenino,40,Mensual,9,6,No,No,0,28500,6,No,0,0.4915,0
+VF9850,Santa Cruz,39,Femenino,17,Mensual,4,29,No,No,1,26500,3,No,1,0.856,1
+VF1141,Nicoya,36,Femenino,11,Trimestral,10,8,No,No,0,24500,0,No,0,0.4629,0
+VF8726,Santa Cruz,20,Femenino,10,Semestral,8,14,Sí,No,1,25000,2,No,0,0.5458,1
+VF3519,Liberia Centro,31,Femenino,25,Mensual,7,2,Sí,Sí,1,29000,4,Sí,0,0.473,0
+VF6701,Santa Cruz,47,Masculino,5,Mensual,5,4,No,Sí,0,28500,0,Sí,0,0.5629,1
+VF5775,Liberia Centro,32,Masculino,10,Mensual,11,13,Sí,No,0,30000,2,No,0,0.4984,0
+VF5692,Liberia Centro,49,Masculino,14,Trimestral,11,32,No,No,1,26000,2,No,1,0.7172,1
+VF5333,Liberia Centro,38,Masculino,40,Anual,15,5,No,Sí,0,20000,7,Sí,0,0.2025,0
+VF2543,Nicoya,33,Masculino,7,Mensual,10,5,No,No,0,31000,1,No,0,0.5377,1
+VF4990,Nicoya,28,Femenino,2,Mensual,10,21,Sí,No,1,29500,1,Sí,1,0.7117,1
+VF8523,Liberia Centro,19,Femenino,2,Trimestral,15,22,Sí,No,1,24000,0,Sí,0,0.5396,1
+VF2410,Santa Cruz,41,Masculino,11,Trimestral,5,2,Sí,Sí,1,26000,1,No,1,0.4264,0
+VF4655,Liberia Centro,30,Masculino,11,Trimestral,9,18,No,No,0,27500,1,No,1,0.5371,1
+VF0162,Santa Cruz,36,Masculino,25,Semestral,8,6,Sí,No,0,23500,4,No,0,0.3597,0
+VF6460,Liberia Centro,25,Femenino,9,Semestral,7,5,Sí,Sí,2,25000,1,Sí,0,0.5003,1
+VF6224,Liberia Centro,28,Masculino,9,Mensual,13,13,Sí,Sí,0,28000,1,Sí,0,0.4639,0
+VF2615,Liberia Centro,36,Masculino,10,Semestral,8,12,Sí,No,1,24500,1,No,0,0.4984,0
+VF4385,Nicoya,33,Masculino,44,Trimestral,8,13,No,No,0,25500,8,No,1,0.4978,0
+VF8021,Santa Cruz,35,Femenino,25,Mensual,15,17,Sí,No,2,29000,4,Sí,1,0.6298,1
+VF0123,Liberia Centro,18,Femenino,9,Semestral,4,20,Sí,Sí,2,22500,1,No,1,0.7135,1
+VF4196,Liberia Centro,36,Masculino,5,Anual,9,9,No,No,1,21000,0,Sí,1,0.4269,0
+VF6789,Nicoya,46,Femenino,12,Trimestral,4,8,No,No,0,28500,2,Sí,0,0.5113,1
+VF8420,Liberia Centro,49,Femenino,22,Anual,9,14,Sí,Sí,0,24000,3,No,0,0.2658,0
+VF9505,Liberia Centro,31,Femenino,50,Mensual,13,2,No,No,2,27500,7,Sí,0,0.5314,1
+VF5107,Liberia Centro,26,Femenino,14,Mensual,8,3,No,No,2,28500,3,No,0,0.6739,1
+VF5700,Liberia Centro,37,Masculino,6,Anual,6,5,No,No,0,23000,0,No,0,0.3385,0
+VF0668,Liberia Centro,39,Femenino,12,Trimestral,14,17,No,No,1,25500,2,No,0,0.5454,1
+VF8893,Nicoya,37,Masculino,20,Trimestral,9,1,No,No,0,23500,3,No,0,0.405,0
+VF8979,Santa Cruz,48,Masculino,4,Semestral,9,15,Sí,No,0,23500,0,Sí,0,0.4564,0
+VF3526,Liberia Centro,30,Masculino,17,Trimestral,11,13,Sí,No,1,27000,2,No,0,0.4509,0
+VF5661,Liberia Centro,35,Masculino,12,Semestral,10,8,No,No,0,23500,3,No,0,0.4409,0
+VF5709,Santa Cruz,29,Masculino,12,Mensual,11,4,Sí,No,1,27000,3,No,0,0.5235,1
+VF6731,Santa Cruz,27,Masculino,8,Semestral,6,10,Sí,No,0,24000,0,Sí,0,0.4464,0
+VF6209,Liberia Centro,45,Masculino,5,Mensual,7,22,Sí,No,2,27500,0,No,1,0.7829,1
+VF6929,Santa Cruz,45,Masculino,20,Trimestral,11,8,Sí,No,0,25500,3,No,0,0.3377,0
+VF1658,Liberia Centro,41,Femenino,14,Semestral,9,7,No,No,1,24500,2,No,1,0.5003,1
+VF0286,Liberia Centro,21,Femenino,7,Mensual,15,12,No,No,0,31000,1,No,0,0.5133,1
+VF5423,Nicoya,48,Femenino,4,Mensual,9,20,No,No,0,28500,0,No,0,0.7045,1
+VF4350,Santa Cruz,31,Masculino,34,Semestral,6,18,Sí,No,0,26500,5,Sí,0,0.4699,0
+VF3224,Liberia Centro,37,Masculino,20,Semestral,11,1,Sí,No,0,24500,3,No,0,0.2648,0
+VF6434,Santa Cruz,23,Femenino,24,Anual,8,5,Sí,No,1,21000,4,No,0,0.3258,0
+VF9768,Nicoya,47,Masculino,27,Trimestral,9,14,No,Sí,0,26500,4,Sí,0,0.4784,0
+VF5024,Santa Cruz,18,Femenino,9,Trimestral,6,9,Sí,No,0,26500,1,Sí,0,0.433,0
+VF3664,Liberia Centro,50,Masculino,23,Trimestral,6,48,No,No,1,25500,4,No,0,0.8634,1
+VF9312,Liberia Centro,33,Masculino,18,Mensual,9,13,No,No,0,28000,3,No,0,0.6031,1
+VF2696,Santa Cruz,39,Masculino,9,Mensual,13,5,No,No,2,28500,1,Sí,0,0.6383,1
+VF1224,Nicoya,34,Femenino,8,Mensual,4,14,Sí,No,0,28000,1,Sí,0,0.6418,1
+VF2456,Liberia Centro,60,Masculino,8,Trimestral,9,5,Sí,No,1,26000,1,Sí,0,0.3933,0
+VF9183,Liberia Centro,29,Masculino,15,Trimestral,7,35,No,No,0,23500,2,Sí,1,0.7417,1
+VF2127,Santa Cruz,36,Femenino,20,Semestral,13,11,Sí,Sí,1,27000,3,Sí,0,0.3804,0
+VF4167,Liberia Centro,37,Femenino,9,Mensual,10,4,Sí,Sí,0,27500,1,Sí,0,0.4054,0
+VF3322,Liberia Centro,31,Femenino,16,Trimestral,13,2,Sí,Sí,0,28500,2,No,1,0.23,0
+VF9706,Liberia Centro,32,Femenino,1,Mensual,12,17,Sí,Sí,0,28000,0,No,0,0.5341,1
+VF7970,Nicoya,39,Femenino,6,Trimestral,10,7,No,No,0,25000,1,No,0,0.4635,0
+VF6029,Santa Cruz,47,Masculino,4,Anual,11,4,No,No,0,22000,0,No,0,0.289,0
+VF2242,Liberia Centro,42,Femenino,26,Trimestral,11,5,No,No,0,27500,3,No,1,0.3394,0
+VF0299,Santa Cruz,56,Masculino,9,Anual,13,5,Sí,Sí,0,23500,1,No,0,0.1893,0
+VF3429,Nicoya,26,Masculino,13,Mensual,10,1,No,Sí,0,28000,2,No,1,0.495,0
+VF8543,Nicoya,38,Masculino,16,Anual,13,6,No,No,0,22500,2,No,0,0.2852,0
+VF8460,Liberia Centro,44,Masculino,17,Mensual,14,7,Sí,Sí,0,29000,2,No,0,0.362,0
+VF3922,Liberia Centro,20,Femenino,18,Trimestral,7,15,No,No,0,24500,3,No,0,0.5507,1
+VF6326,Liberia Centro,51,Masculino,3,Anual,7,13,No,No,0,20500,0,Sí,0,0.4145,0
+VF6986,Liberia Centro,47,Masculino,16,Trimestral,9,5,Sí,Sí,0,26000,1,No,0,0.3008,0
+VF1508,Santa Cruz,30,Femenino,8,Semestral,8,6,Sí,No,1,25000,1,Sí,0,0.4494,0
+VF6083,Liberia Centro,38,Masculino,2,Mensual,12,14,Sí,No,2,28000,0,Sí,0,0.6646,1
+VF0497,Santa Cruz,43,Masculino,15,Semestral,4,7,Sí,No,0,25000,2,No,0,0.4213,0
+VF8889,Liberia Centro,30,Femenino,23,Trimestral,11,4,Sí,No,0,24500,3,Sí,1,0.2892,0
+VF3141,Liberia Centro,29,Femenino,1,Trimestral,12,6,No,No,0,25500,0,No,0,0.4023,0
+VF9862,Santa Cruz,34,Masculino,5,Mensual,7,6,No,No,0,29500,0,No,0,0.5802,1
+VF7644,Liberia Centro,26,Masculino,44,Semestral,13,9,No,No,0,25000,7,Sí,0,0.3462,0
+VF8508,Santa Cruz,36,Femenino,5,Mensual,14,9,Sí,No,0,28500,0,Sí,0,0.4347,0
+VF9193,Nicoya,39,Masculino,19,Semestral,11,12,Sí,No,0,23500,4,No,0,0.4104,0
+VF1165,Liberia Centro,39,Masculino,6,Trimestral,10,11,Sí,Sí,0,28500,2,No,1,0.3597,0
+VF5307,Santa Cruz,65,Masculino,23,Mensual,2,7,No,No,1,29500,3,No,0,0.68,1
+VF3829,Nicoya,29,Masculino,10,Semestral,6,8,Sí,No,0,22500,2,No,0,0.4628,0
+VF5772,Santa Cruz,35,Femenino,6,Anual,8,25,Sí,No,0,22000,2,Sí,0,0.4634,0
+VF0732,Nicoya,31,Femenino,6,Mensual,12,13,Sí,Sí,0,25500,1,No,0,0.5384,1
+VF0778,Santa Cruz,38,Femenino,22,Mensual,10,5,Sí,No,0,31000,3,No,0,0.4063,0
+VF5433,Santa Cruz,39,Femenino,13,Mensual,6,15,Sí,No,0,29000,2,Sí,1,0.5908,1
+VF0014,Liberia Centro,39,Masculino,7,Semestral,7,2,Sí,No,0,22000,1,No,0,0.3535,0
+VF3417,Liberia Centro,43,Masculino,14,Mensual,10,15,Sí,No,1,28000,1,No,0,0.604,1
+VF3471,Liberia Centro,26,Masculino,27,Trimestral,5,6,Sí,No,0,27000,4,Sí,0,0.3649,0
+VF2263,Nicoya,37,Femenino,5,Mensual,7,13,No,No,0,29000,0,No,1,0.6659,1
+VF6686,Liberia Centro,37,Masculino,13,Semestral,10,6,No,No,0,24000,2,No,1,0.4084,0
+VF0084,Liberia Centro,53,Masculino,57,Trimestral,10,4,Sí,No,0,24500,9,No,0,0.2501,0
+VF4470,Nicoya,41,Masculino,20,Mensual,8,16,Sí,Sí,1,30000,3,No,0,0.6402,1
+VF1866,Nicoya,31,Femenino,9,Semestral,13,32,Sí,No,1,23000,1,Sí,0,0.6775,1
+VF6921,Nicoya,19,Femenino,3,Anual,6,6,Sí,No,1,24000,0,Sí,0,0.386,0
+VF3851,Liberia Centro,40,Masculino,15,Mensual,11,17,Sí,No,0,28500,2,Sí,0,0.5284,1
+VF8449,Liberia Centro,34,Masculino,19,Trimestral,10,3,Sí,Sí,0,27500,3,No,0,0.2728,0
+VF2748,Liberia Centro,37,Masculino,25,Trimestral,7,9,Sí,No,0,27000,4,No,0,0.3709,0
+VF6088,Liberia Centro,45,Masculino,33,Mensual,5,7,No,Sí,0,27000,5,Sí,0,0.5452,1
+VF7557,Liberia Centro,34,Femenino,13,Mensual,5,14,No,Sí,0,28000,3,Sí,1,0.6518,1
+VF2320,Liberia Centro,39,Masculino,18,Trimestral,7,1,Sí,No,0,25000,3,No,1,0.3174,0
+VF0781,Santa Cruz,23,Femenino,5,Mensual,10,24,Sí,Sí,0,27500,0,Sí,0,0.6434,1
+VF6259,Nicoya,46,Masculino,12,Trimestral,12,5,Sí,Sí,0,27000,2,No,0,0.3028,0
+VF9998,Nicoya,44,Masculino,15,Mensual,5,0,No,No,1,27000,1,Sí,1,0.6271,1
+VF4135,Santa Cruz,47,Masculino,6,Trimestral,19,9,No,No,0,26000,1,No,0,0.3382,0
+VF7684,Santa Cruz,19,Masculino,21,Anual,9,12,No,No,0,21000,3,Sí,0,0.3837,0
+VF0995,Liberia Centro,23,Masculino,7,Semestral,10,20,No,No,0,22000,0,Sí,1,0.5793,1
+VF9106,Liberia Centro,18,Femenino,17,Mensual,11,6,No,No,0,29500,2,No,0,0.4979,0
+VF7189,Santa Cruz,28,Femenino,16,Semestral,10,6,Sí,Sí,2,24000,2,Sí,1,0.4789,0
+VF4669,Santa Cruz,18,Femenino,28,Mensual,7,1,No,No,0,29000,4,No,1,0.5027,1
+VF6446,Santa Cruz,32,Masculino,60,Semestral,8,5,Sí,No,0,24500,10,No,0,0.296,0
+VF4700,Nicoya,38,Femenino,11,Trimestral,5,9,Sí,Sí,0,23000,1,No,0,0.4593,0
+VF4690,Nicoya,39,Masculino,13,Mensual,6,33,Sí,No,2,28500,2,Sí,0,0.8667,1
+VF2746,Nicoya,36,Masculino,21,Semestral,11,26,No,No,0,23500,3,No,0,0.6272,1
+VF5324,Nicoya,32,Masculino,19,Trimestral,7,24,No,No,0,24000,3,Sí,1,0.6655,1
+VF6807,Santa Cruz,39,Femenino,42,Mensual,5,5,No,No,0,28500,7,No,0,0.5408,1
+VF2762,Liberia Centro,36,Masculino,18,Anual,8,5,No,No,0,21000,3,Sí,0,0.3098,0
+VF5150,Liberia Centro,30,Femenino,15,Anual,9,17,No,No,0,24500,1,Sí,0,0.3891,0
+VF6948,Liberia Centro,37,Masculino,6,Mensual,13,12,Sí,No,0,30500,1,Sí,0,0.4534,0
+VF0722,Liberia Centro,41,Masculino,7,Mensual,9,8,Sí,No,2,26500,1,No,0,0.6501,1
+VF9772,Liberia Centro,44,Femenino,6,Mensual,9,16,No,No,1,28500,2,Sí,0,0.7084,1
+VF8769,Liberia Centro,35,Masculino,23,Anual,5,14,Sí,No,0,23000,3,No,0,0.3411,0
+VF6740,Nicoya,28,Masculino,12,Mensual,10,2,Sí,No,0,29500,2,No,0,0.4332,0
+VF1358,Liberia Centro,23,Masculino,6,Trimestral,8,20,No,No,0,24500,1,No,0,0.609,1
+VF8016,Nicoya,39,Masculino,5,Mensual,15,7,Sí,No,0,27500,0,Sí,0,0.4267,0
+VF4374,Liberia Centro,22,Masculino,6,Mensual,9,31,No,No,0,28500,1,No,1,0.7819,1
+VF4119,Liberia Centro,40,Masculino,32,Mensual,6,23,Sí,No,1,29500,4,No,1,0.6956,1
+VF0827,Liberia Centro,66,Masculino,13,Mensual,7,2,Sí,No,0,27500,2,No,1,0.4239,0
+VF7853,Nicoya,39,Masculino,39,Mensual,8,9,Sí,No,0,27500,5,No,0,0.4888,0
+VF0917,Liberia Centro,31,Masculino,6,Trimestral,8,20,Sí,Sí,0,28000,1,No,0,0.4831,0
+VF4777,Liberia Centro,40,Femenino,12,Mensual,11,7,No,No,1,25500,1,No,0,0.6076,1
+VF1200,Liberia Centro,29,Femenino,3,Semestral,14,0,Sí,No,0,22000,0,No,0,0.2621,0
+VF2491,Liberia Centro,18,Femenino,11,Mensual,7,14,Sí,Sí,0,28500,1,Sí,1,0.5525,1
+VF5804,Nicoya,26,Femenino,18,Mensual,6,16,Sí,No,1,28500,4,Sí,0,0.6997,1
+VF3093,Liberia Centro,28,Masculino,5,Mensual,12,14,Sí,No,0,27500,0,No,1,0.5188,1
+VF5675,Nicoya,35,Femenino,5,Trimestral,9,19,Sí,No,1,27000,0,Sí,0,0.5849,1
+VF6508,Nicoya,21,Masculino,21,Trimestral,13,10,No,No,1,26500,3,No,0,0.5119,1
+VF1195,Liberia Centro,46,Femenino,10,Mensual,10,10,Sí,No,0,28000,0,No,0,0.4725,0
+VF0733,Santa Cruz,49,Femenino,6,Mensual,5,14,Sí,No,0,27500,1,No,1,0.614,1
+VF9853,Liberia Centro,53,Femenino,21,Semestral,5,1,No,No,1,25500,3,Sí,0,0.4586,0
+VF5814,Liberia Centro,28,Femenino,30,Mensual,9,3,Sí,Sí,0,26000,5,No,1,0.3984,0
+VF4610,Liberia Centro,40,Masculino,14,Anual,4,9,No,No,0,21500,3,No,0,0.4065,0
+VF3049,Liberia Centro,26,Femenino,7,Mensual,9,18,No,No,0,28500,1,No,1,0.6669,1
+VF7051,Nicoya,53,Femenino,10,Mensual,13,7,No,Sí,0,27500,1,No,1,0.5015,1
+VF8074,Santa Cruz,61,Femenino,3,Mensual,9,3,Sí,No,0,28500,0,Sí,1,0.4272,0
+VF7551,Nicoya,52,Femenino,13,Semestral,6,7,No,No,0,25500,2,Sí,0,0.479,0
+VF9605,Santa Cruz,29,Masculino,14,Semestral,10,3,No,No,0,23500,2,No,1,0.4005,0
+VF8803,Santa Cruz,43,Masculino,22,Anual,5,6,No,No,0,22500,3,Sí,0,0.3477,0
+VF0932,Nicoya,28,Masculino,3,Mensual,12,13,No,Sí,0,28500,0,Sí,0,0.5982,1
+VF5494,Liberia Centro,24,Femenino,45,Semestral,10,2,No,Sí,0,25500,7,No,0,0.3007,0
+VF4238,Nicoya,35,Masculino,10,Anual,10,6,Sí,Sí,0,22500,1,Sí,0,0.2472,0
+VF6117,Santa Cruz,43,Femenino,14,Anual,10,1,Sí,No,0,24000,1,Sí,0,0.1901,0
+VF6680,Santa Cruz,22,Femenino,32,Anual,9,11,No,No,0,21000,4,No,0,0.3532,0
+VF2275,Nicoya,27,Masculino,15,Mensual,14,28,Sí,Sí,0,26500,2,No,0,0.6464,1
+VF3556,Santa Cruz,40,Femenino,11,Mensual,15,7,Sí,No,1,28500,0,Sí,0,0.4623,0
+VF5503,Liberia Centro,33,Femenino,2,Trimestral,10,2,Sí,No,0,27500,0,No,1,0.2986,0
+VF3725,Liberia Centro,56,Masculino,24,Semestral,6,1,No,No,0,25000,4,Sí,1,0.3692,0
+VF2248,Nicoya,32,Femenino,24,Mensual,8,3,Sí,No,0,28000,4,No,0,0.456,0
+VF5933,Liberia Centro,34,Masculino,11,Trimestral,11,24,No,No,2,24000,2,No,1,0.7394,1
+VF8709,Liberia Centro,33,Femenino,17,Anual,10,14,No,No,0,22000,3,No,0,0.3702,0
+VF0813,Liberia Centro,22,Femenino,33,Trimestral,8,2,Sí,No,0,26500,5,No,0,0.2904,0
+VF7324,Santa Cruz,23,Femenino,33,Mensual,5,13,No,No,0,29000,5,Sí,0,0.6373,1
+VF3503,Nicoya,28,Femenino,7,Semestral,10,8,No,No,0,22500,1,No,0,0.4883,0
+VF4258,Santa Cruz,41,Masculino,8,Trimestral,11,3,Sí,No,0,27500,1,Sí,0,0.295,0
+VF8188,Nicoya,36,Femenino,1,Semestral,11,18,Sí,No,0,24000,0,No,0,0.4939,0
+VF8279,Liberia Centro,40,Femenino,16,Mensual,6,15,Sí,No,0,25500,2,Sí,0,0.5911,1
+VF0539,Santa Cruz,34,Masculino,5,Mensual,6,3,Sí,No,0,29000,0,Sí,1,0.4815,0
+VF2571,Liberia Centro,39,Masculino,10,Semestral,11,2,No,No,1,25500,0,No,0,0.4181,0
+VF2144,Liberia Centro,35,Masculino,9,Mensual,2,18,No,No,0,32000,1,Sí,1,0.7159,1
+VF1986,Liberia Centro,23,Masculino,35,Trimestral,12,6,No,Sí,0,25000,4,Sí,0,0.3321,0
+VF6588,Liberia Centro,49,Masculino,4,Semestral,8,26,Sí,Sí,2,23000,0,No,0,0.708,1
+VF7116,Nicoya,43,Femenino,8,Semestral,8,8,No,No,0,24500,2,No,0,0.493,0
+VF4447,Liberia Centro,36,Masculino,7,Mensual,12,14,Sí,No,2,29000,1,No,0,0.6573,1
+VF8698,Santa Cruz,22,Masculino,21,Semestral,13,16,No,No,1,25500,3,Sí,1,0.5488,1
+VF9645,Liberia Centro,19,Masculino,13,Mensual,10,2,No,No,0,27500,2,No,1,0.4955,0
+VF1364,Santa Cruz,26,Femenino,14,Mensual,5,9,No,No,1,28500,2,No,1,0.705,1
+VF0263,Liberia Centro,42,Masculino,3,Anual,7,2,No,No,0,23500,0,Sí,0,0.295,0
+VF2859,Liberia Centro,38,Femenino,4,Trimestral,6,5,No,No,0,26500,0,No,1,0.4521,0
+VF1060,Santa Cruz,31,Femenino,36,Semestral,11,10,No,No,0,22000,6,Sí,1,0.4263,0
+VF7161,Santa Cruz,50,Masculino,28,Anual,11,1,Sí,Sí,0,20000,5,No,0,0.1813,0
+VF4751,Liberia Centro,48,Masculino,1,Mensual,6,3,No,Sí,0,30000,0,No,0,0.5256,1
+VF3566,Santa Cruz,33,Masculino,60,Semestral,9,10,No,No,0,24000,9,No,0,0.402,0
+VF9794,Liberia Centro,28,Femenino,54,Mensual,11,4,Sí,Sí,1,27000,10,No,0,0.4187,0
+VF6058,Santa Cruz,42,Femenino,8,Semestral,5,38,Sí,No,0,24500,2,No,0,0.7338,1
+VF0035,Nicoya,32,Femenino,5,Mensual,4,14,No,No,0,28500,0,No,1,0.7161,1
+VF9086,Liberia Centro,36,Femenino,4,Trimestral,9,7,No,No,1,28000,0,Sí,0,0.4978,0
+VF5032,Santa Cruz,28,Masculino,14,Mensual,8,8,Sí,Sí,0,29000,2,No,0,0.4867,0
+VF6970,Santa Cruz,39,Femenino,7,Anual,6,2,Sí,No,0,19500,2,No,0,0.2811,0
+VF9851,Santa Cruz,35,Masculino,3,Trimestral,10,3,Sí,No,0,24000,0,Sí,0,0.3387,0
+VF4631,Liberia Centro,34,Masculino,33,Semestral,12,16,Sí,No,1,22500,5,No,1,0.4641,0
+VF4290,Nicoya,25,Femenino,2,Mensual,7,10,Sí,No,0,26500,1,No,0,0.5979,1
+VF8912,Nicoya,46,Masculino,10,Mensual,7,24,No,Sí,0,28500,1,No,1,0.7422,1
+VF1031,Liberia Centro,30,Femenino,19,Mensual,13,4,No,No,0,27500,3,No,0,0.455,0
+VF5789,Nicoya,27,Femenino,11,Mensual,7,27,No,No,0,31000,1,No,0,0.7709,1
+VF5540,Santa Cruz,30,Masculino,8,Mensual,9,11,Sí,No,1,29500,0,Sí,0,0.5959,1
+VF6855,Liberia Centro,44,Femenino,5,Trimestral,6,10,No,No,0,25000,0,No,0,0.5088,1
+VF4287,Nicoya,38,Masculino,17,Mensual,9,30,No,No,0,26500,2,Sí,0,0.7823,1
+VF4742,Liberia Centro,32,Masculino,12,Trimestral,3,13,No,No,0,25000,3,Sí,1,0.5842,1
+VF6175,Santa Cruz,57,Masculino,11,Trimestral,8,4,Sí,No,0,26000,1,Sí,0,0.3327,0
+VF4736,Liberia Centro,48,Masculino,1,Trimestral,12,11,Sí,No,0,25000,1,Sí,0,0.3695,0
+VF6052,Nicoya,37,Femenino,21,Anual,5,15,Sí,Sí,0,24000,4,No,0,0.3661,0
+VF3577,Liberia Centro,46,Femenino,25,Mensual,6,14,Sí,No,0,29500,5,No,0,0.5456,1
+VF8308,Liberia Centro,29,Femenino,38,Mensual,9,21,No,No,0,28000,6,No,0,0.6496,1
+VF3920,Nicoya,41,Femenino,10,Trimestral,8,3,No,No,0,25500,1,Sí,0,0.4292,0
+VF6557,Liberia Centro,39,Masculino,16,Mensual,12,2,No,No,1,28500,2,No,0,0.5196,1
+VF7458,Liberia Centro,30,Femenino,3,Semestral,10,11,Sí,No,0,22000,0,No,0,0.4127,0
+VF0744,Santa Cruz,36,Femenino,21,Semestral,9,11,No,No,0,25500,3,No,0,0.463,0
+VF8678,Santa Cruz,59,Femenino,3,Mensual,10,18,Sí,Sí,0,28500,0,No,1,0.5609,1
+VF9007,Liberia Centro,37,Masculino,28,Semestral,8,15,Sí,Sí,0,25500,4,No,1,0.3966,0
+VF2009,Liberia Centro,45,Femenino,54,Mensual,12,31,Sí,No,1,28000,10,No,0,0.6791,1
+VF0466,Liberia Centro,38,Femenino,32,Mensual,7,10,No,No,0,28000,6,No,1,0.5732,1
+VF6013,Nicoya,50,Masculino,36,Mensual,10,6,No,No,0,26000,6,Sí,0,0.5194,1
+VF5901,Santa Cruz,35,Femenino,21,Anual,8,14,Sí,No,0,23000,4,Sí,0,0.3208,0
+VF7259,Santa Cruz,23,Femenino,8,Mensual,8,20,Sí,Sí,1,29000,1,No,0,0.6939,1
+VF4474,Liberia Centro,24,Masculino,12,Trimestral,11,8,No,No,0,25000,3,No,0,0.4334,0
+VF2287,Nicoya,21,Masculino,5,Semestral,9,12,No,No,0,22500,0,No,1,0.5522,1
+VF7887,Liberia Centro,20,Femenino,6,Anual,11,9,No,No,0,22500,1,Sí,0,0.3262,0
+VF5718,Liberia Centro,22,Femenino,16,Mensual,1,7,No,Sí,0,28500,3,Sí,0,0.6321,1
+VF2779,Liberia Centro,29,Masculino,6,Mensual,7,29,No,Sí,0,30000,1,No,1,0.7634,1
+VF8443,Santa Cruz,30,Masculino,19,Mensual,9,6,Sí,No,0,28000,3,Sí,0,0.4619,0
+VF1857,Santa Cruz,42,Masculino,26,Trimestral,6,5,No,No,0,24500,4,Sí,0,0.443,0
+VF9076,Santa Cruz,39,Masculino,11,Mensual,9,10,No,Sí,0,28500,1,No,0,0.572,1
+VF8686,Santa Cruz,18,Masculino,18,Trimestral,5,17,No,No,0,28000,2,No,0,0.5898,1
+VF1041,Santa Cruz,48,Masculino,9,Mensual,11,8,Sí,No,0,27000,1,No,0,0.47,0
+VF8989,Nicoya,31,Masculino,18,Mensual,9,4,No,Sí,2,27500,2,No,0,0.6804,1
+VF9897,Santa Cruz,26,Masculino,14,Semestral,6,8,Sí,No,1,23500,2,Sí,0,0.5043,1
+VF9529,Nicoya,48,Femenino,23,Mensual,7,16,Sí,Sí,1,32000,3,No,0,0.6256,1
+VF5113,Santa Cruz,21,Femenino,23,Semestral,6,5,No,No,2,22000,4,Sí,1,0.6287,1
+VF3877,Liberia Centro,20,Masculino,3,Anual,5,1,Sí,No,0,22500,1,No,0,0.2702,0
+VF9552,Nicoya,42,Masculino,12,Trimestral,9,13,No,No,0,27500,2,No,0,0.5135,1
+VF0418,Liberia Centro,42,Femenino,8,Anual,7,21,Sí,No,0,22000,1,Sí,0,0.4047,0
+VF2921,Liberia Centro,24,Masculino,17,Mensual,10,14,No,No,0,27500,2,No,0,0.6074,1
+VF7011,Liberia Centro,30,Masculino,10,Mensual,12,2,Sí,Sí,0,29500,2,Sí,0,0.3556,0
+VF2472,Nicoya,32,Masculino,22,Semestral,9,2,No,Sí,0,21500,2,No,0,0.3982,0
+VF7174,Santa Cruz,50,Masculino,4,Trimestral,13,6,Sí,No,1,24500,0,Sí,0,0.3888,0
+VF9167,Nicoya,35,Masculino,21,Anual,5,20,No,No,0,24000,3,Sí,0,0.507,1
+VF3567,Santa Cruz,31,Masculino,18,Trimestral,6,4,No,No,0,25500,2,Sí,0,0.4433,0
+VF1833,Santa Cruz,47,Masculino,3,Mensual,7,28,No,No,0,29000,0,No,0,0.7776,1
+VF1921,Santa Cruz,37,Masculino,14,Mensual,7,16,Sí,No,1,27500,1,No,1,0.6743,1
+VF4893,Santa Cruz,51,Masculino,7,Trimestral,10,4,No,No,0,26500,1,No,0,0.3956,0
+VF4063,Nicoya,22,Masculino,37,Trimestral,15,12,Sí,No,0,24500,6,No,0,0.3397,0
+VF6012,Nicoya,48,Masculino,11,Mensual,13,12,Sí,No,0,27500,2,Sí,0,0.4948,0
+VF0506,Liberia Centro,18,Femenino,6,Trimestral,10,23,Sí,No,0,23000,1,No,1,0.5464,1
+VF0508,Nicoya,18,Femenino,4,Mensual,7,12,Sí,Sí,0,27500,0,No,0,0.5906,1
+VF4263,Liberia Centro,36,Masculino,27,Anual,9,4,Sí,Sí,1,22500,4,No,0,0.2579,0
+VF6669,Liberia Centro,28,Femenino,24,Mensual,9,17,No,No,1,29000,4,No,0,0.6991,1
+VF3621,Santa Cruz,47,Femenino,7,Trimestral,9,7,No,Sí,0,25500,1,No,0,0.4302,0
+VF1008,Nicoya,19,Masculino,3,Mensual,7,6,Sí,No,0,27500,1,No,0,0.5541,1
+VF4217,Liberia Centro,36,Femenino,6,Anual,10,12,No,Sí,0,23500,1,No,0,0.3396,0
+VF9439,Liberia Centro,42,Masculino,26,Semestral,13,17,No,No,0,26000,3,Sí,0,0.4329,0
+VF1967,Liberia Centro,37,Masculino,27,Mensual,10,13,Sí,No,0,29000,4,Sí,0,0.4784,0
+VF9458,Nicoya,27,Masculino,31,Mensual,10,7,Sí,No,0,27500,4,Sí,0,0.4586,0
+VF6023,Nicoya,34,Masculino,32,Semestral,12,16,Sí,Sí,0,24000,6,Sí,0,0.3952,0
+VF5453,Liberia Centro,43,Masculino,10,Mensual,6,10,No,No,0,28000,1,No,0,0.615,1
+VF0382,Santa Cruz,48,Masculino,26,Mensual,11,11,No,No,1,28500,3,No,1,0.6169,1
+VF2614,Santa Cruz,20,Femenino,6,Anual,9,7,Sí,No,0,23000,1,No,0,0.2794,0
+VF9056,Nicoya,40,Masculino,4,Trimestral,10,8,Sí,No,0,25500,0,No,1,0.3944,0
+VF0594,Liberia Centro,28,Masculino,17,Trimestral,9,7,No,No,1,27500,2,No,0,0.4926,0
+VF9020,Santa Cruz,37,Femenino,28,Mensual,9,5,No,No,0,25500,4,No,0,0.529,1
+VF3686,Santa Cruz,45,Masculino,14,Trimestral,9,22,Sí,No,0,27000,3,No,0,0.5111,1
+VF2334,Santa Cruz,23,Masculino,22,Trimestral,11,5,Sí,No,0,25500,3,Sí,0,0.3148,0
+VF4090,Liberia Centro,51,Femenino,4,Mensual,11,2,Sí,No,0,28500,0,Sí,0,0.3791,0
+VF6277,Liberia Centro,49,Femenino,4,Mensual,10,6,Sí,Sí,1,27500,0,Sí,0,0.5047,1
+VF5486,Nicoya,36,Femenino,14,Mensual,11,8,Sí,No,0,27000,3,Sí,0,0.4866,0
+VF9653,Liberia Centro,29,Femenino,18,Trimestral,7,3,Sí,No,1,29000,4,No,0,0.3921,0
+VF3307,Liberia Centro,39,Masculino,48,Trimestral,11,9,No,Sí,0,23000,8,No,1,0.3689,0
+VF4244,Santa Cruz,50,Masculino,1,Mensual,7,5,Sí,Sí,0,27000,0,Sí,1,0.4847,0
+VF5278,Liberia Centro,54,Masculino,8,Mensual,12,18,No,Sí,1,30000,1,Sí,1,0.6551,1
+VF5043,Liberia Centro,25,Masculino,17,Semestral,7,10,Sí,Sí,0,24000,1,Sí,0,0.3851,0
+VF4194,Santa Cruz,31,Masculino,38,Mensual,9,7,Sí,Sí,1,27500,6,No,1,0.5113,1
+VF6835,Nicoya,34,Femenino,16,Trimestral,8,9,Sí,No,1,27000,2,Sí,0,0.4768,0
+VF5863,Liberia Centro,30,Masculino,3,Mensual,3,6,Sí,Sí,0,27000,1,No,1,0.5524,1
+VF6791,Nicoya,37,Masculino,6,Anual,7,16,No,No,1,22000,0,No,0,0.5579,1
+VF0641,Liberia Centro,31,Femenino,10,Mensual,8,6,Sí,No,2,27000,1,Sí,0,0.6325,1
+VF5812,Nicoya,23,Masculino,14,Anual,6,8,No,No,1,22000,2,No,0,0.487,0
+VF0580,Liberia Centro,21,Femenino,15,Anual,9,16,No,No,1,19500,2,No,0,0.509,1
+VF8777,Nicoya,25,Femenino,15,Mensual,9,11,Sí,No,0,27000,2,Sí,0,0.5464,1
+VF3221,Santa Cruz,38,Femenino,14,Mensual,5,6,No,No,0,31000,3,No,0,0.5832,1
+VF8113,Nicoya,22,Masculino,11,Anual,14,13,Sí,No,0,21000,1,Sí,0,0.2892,0
+VF1211,Liberia Centro,52,Femenino,13,Anual,8,10,Sí,No,0,20500,2,No,0,0.2887,0
+VF7703,Santa Cruz,55,Femenino,3,Mensual,13,18,No,No,0,28000,1,No,0,0.6253,1
+VF9603,Liberia Centro,49,Masculino,18,Trimestral,5,2,No,No,0,26500,3,Sí,0,0.4048,0
+VF1337,Liberia Centro,39,Masculino,5,Mensual,14,6,Sí,No,0,28500,0,No,0,0.3934,0
+VF8945,Liberia Centro,37,Femenino,12,Semestral,12,8,No,Sí,1,22500,2,No,0,0.4748,0
+VF4769,Santa Cruz,39,Masculino,21,Mensual,4,24,No,No,1,29000,3,No,0,0.8132,1
+VF0975,Liberia Centro,39,Femenino,34,Anual,6,5,Sí,Sí,0,23000,5,Sí,0,0.2184,0
+VF2137,Liberia Centro,31,Masculino,12,Mensual,4,19,No,No,0,29000,3,Sí,1,0.7236,1
+VF9373,Liberia Centro,37,Femenino,13,Mensual,16,8,No,No,0,31000,3,Sí,1,0.4359,0
+VF3139,Santa Cruz,36,Femenino,16,Anual,11,24,Sí,No,0,24500,2,No,0,0.3762,0
+VF8656,Liberia Centro,38,Femenino,11,Mensual,3,4,Sí,Sí,1,27500,1,No,1,0.5794,1
+VF3908,Liberia Centro,36,Masculino,16,Mensual,13,16,No,No,0,27000,2,No,0,0.5857,1
+VF4142,Liberia Centro,33,Femenino,45,Trimestral,8,18,No,Sí,0,26500,6,Sí,0,0.4714,0
+VF5381,Liberia Centro,30,Femenino,10,Semestral,6,18,Sí,No,0,23500,1,No,0,0.5176,1
+VF2063,Nicoya,41,Femenino,12,Semestral,12,1,No,Sí,0,24500,3,Sí,0,0.3438,0
+VF8951,Liberia Centro,51,Femenino,2,Anual,8,20,Sí,Sí,1,22000,0,No,0,0.4514,0
+VF4285,Santa Cruz,39,Masculino,29,Semestral,11,3,No,No,0,22500,4,No,0,0.3618,0
+VF3357,Santa Cruz,18,Masculino,15,Mensual,14,12,Sí,Sí,0,30000,2,Sí,1,0.4394,0
+VF3055,Santa Cruz,27,Masculino,19,Anual,11,21,Sí,No,0,21500,2,No,0,0.3684,0
+VF4774,Nicoya,32,Femenino,5,Trimestral,6,13,No,No,0,24000,1,No,0,0.5953,1
+VF5179,Santa Cruz,44,Masculino,8,Mensual,7,6,Sí,No,0,27500,1,No,1,0.5055,1
+VF5239,Liberia Centro,40,Femenino,3,Anual,11,7,Sí,No,1,18000,0,No,0,0.3305,0
+VF6116,Santa Cruz,33,Masculino,6,Anual,12,15,Sí,Sí,0,24500,1,Sí,0,0.2829,0
+VF4735,Liberia Centro,34,Femenino,28,Trimestral,8,7,No,Sí,1,26500,4,Sí,0,0.4669,0
+VF2888,Liberia Centro,33,Femenino,15,Semestral,6,5,No,No,0,25000,2,Sí,0,0.435,0
+VF4203,Liberia Centro,33,Femenino,25,Mensual,11,16,No,No,0,28500,5,No,0,0.5935,1
+VF3289,Nicoya,42,Masculino,22,Trimestral,7,3,Sí,No,0,24500,2,Sí,0,0.3517,0
+VF2945,Santa Cruz,30,Femenino,20,Semestral,10,6,No,No,1,24000,3,No,0,0.494,0
+VF8968,Santa Cruz,31,Masculino,24,Mensual,10,11,Sí,No,0,29500,4,No,1,0.4871,0
+VF6041,Santa Cruz,40,Femenino,4,Mensual,6,17,No,Sí,1,30000,0,No,0,0.7436,1
+VF0073,Liberia Centro,27,Femenino,21,Trimestral,9,6,No,No,0,29000,3,No,0,0.3858,0
+VF7532,Liberia Centro,40,Masculino,12,Mensual,15,9,Sí,No,2,31500,2,Sí,1,0.5353,1
+VF5244,Nicoya,34,Masculino,22,Trimestral,6,20,Sí,No,0,26000,3,Sí,0,0.5403,1
+VF7773,Liberia Centro,25,Femenino,7,Semestral,9,5,No,No,1,21500,0,Sí,1,0.5146,1
+VF6207,Liberia Centro,52,Femenino,12,Anual,12,7,No,Sí,0,23000,2,No,0,0.2577,0
+VF4683,Nicoya,33,Masculino,4,Mensual,9,13,Sí,Sí,0,27500,0,No,0,0.5665,1
+VF3413,Liberia Centro,26,Femenino,51,Anual,9,19,No,No,0,20500,8,Sí,0,0.3867,0
+VF3863,Liberia Centro,18,Femenino,13,Mensual,7,11,No,No,1,28500,2,No,0,0.6925,1
+VF0982,Nicoya,30,Femenino,41,Trimestral,11,4,No,Sí,0,27000,6,No,0,0.3372,0
+VF8002,Santa Cruz,35,Femenino,6,Semestral,6,7,No,Sí,0,23500,0,Sí,0,0.4775,0
+VF1250,Santa Cruz,38,Femenino,12,Trimestral,13,2,Sí,No,0,28000,2,Sí,0,0.2571,0
+VF6618,Liberia Centro,29,Femenino,9,Semestral,15,14,Sí,No,1,27000,1,Sí,1,0.4062,0
+VF8960,Nicoya,41,Femenino,7,Trimestral,5,38,Sí,Sí,0,27000,1,Sí,0,0.7231,1
+VF7056,Liberia Centro,37,Femenino,30,Trimestral,11,13,Sí,No,0,25500,4,No,1,0.3552,0
+VF4390,Liberia Centro,28,Femenino,12,Trimestral,10,15,Sí,No,1,26000,3,No,0,0.5083,1
+VF6141,Santa Cruz,25,Masculino,4,Semestral,9,2,Sí,No,0,25000,0,No,0,0.3358,0
+VF0496,Liberia Centro,43,Masculino,27,Mensual,13,16,Sí,No,0,26000,4,Sí,0,0.4862,0
+VF6653,Liberia Centro,50,Femenino,8,Anual,8,4,Sí,No,1,20000,1,No,0,0.3134,0
+VF8639,Santa Cruz,18,Femenino,11,Semestral,8,2,No,Sí,0,23500,2,No,0,0.4124,0
+VF2124,Liberia Centro,35,Masculino,16,Mensual,6,6,Sí,Sí,0,28000,3,No,0,0.4783,0
+VF8178,Santa Cruz,30,Masculino,31,Mensual,10,7,No,No,0,27000,6,No,0,0.5355,1
+VF1363,Santa Cruz,40,Femenino,12,Trimestral,14,12,No,No,0,24000,2,No,0,0.4394,0
+VF1412,Liberia Centro,24,Femenino,12,Semestral,6,11,No,No,0,21000,2,No,0,0.5454,1
+VF3057,Santa Cruz,18,Masculino,8,Mensual,16,12,No,Sí,0,27000,1,No,0,0.5305,1
+VF5075,Nicoya,45,Masculino,6,Mensual,9,10,No,Sí,0,27500,1,No,0,0.6049,1
+VF0335,Liberia Centro,45,Masculino,14,Mensual,6,41,No,No,0,27500,2,No,0,0.8543,1
+VF8964,Liberia Centro,24,Masculino,17,Mensual,10,7,Sí,Sí,0,28500,2,Sí,0,0.4265,0
+VF0941,Liberia Centro,27,Femenino,17,Mensual,14,13,Sí,No,0,28500,3,Sí,0,0.4513,0
+VF0255,Liberia Centro,43,Masculino,15,Mensual,6,4,No,No,1,27500,2,No,0,0.6271,1
+VF2663,Liberia Centro,34,Masculino,6,Mensual,12,16,No,Sí,0,29500,1,Sí,0,0.5809,1
+VF5625,Liberia Centro,27,Masculino,6,Trimestral,8,6,No,No,1,26500,2,No,0,0.5305,1
+VF7083,Liberia Centro,20,Masculino,33,Anual,11,15,Sí,No,2,21500,5,No,0,0.4309,0
+VF5168,Liberia Centro,39,Femenino,37,Anual,10,13,Sí,No,3,21500,6,Sí,1,0.4769,0
+VF9975,Liberia Centro,18,Masculino,6,Trimestral,11,4,Sí,No,0,26500,1,No,0,0.3183,0
+VF7146,Santa Cruz,34,Masculino,4,Semestral,3,4,Sí,No,0,23500,1,Sí,0,0.4373,0
+VF0533,Nicoya,28,Femenino,15,Mensual,8,1,Sí,No,1,28500,2,Sí,0,0.5219,1
+VF7960,Liberia Centro,34,Masculino,4,Mensual,11,15,Sí,No,0,28500,0,Sí,1,0.529,1
+VF4874,Liberia Centro,41,Femenino,17,Anual,10,6,No,Sí,1,21500,2,Sí,0,0.3399,0
+VF0662,Nicoya,41,Masculino,47,Semestral,9,17,Sí,No,0,23500,7,Sí,1,0.4294,0
+VF7694,Santa Cruz,47,Masculino,20,Semestral,9,15,No,No,0,25000,2,No,0,0.5016,1
+VF9988,Liberia Centro,41,Masculino,12,Mensual,11,11,Sí,No,1,26500,2,Sí,1,0.5658,1
+VF6478,Liberia Centro,53,Masculino,26,Mensual,18,5,No,No,0,28500,5,No,1,0.3713,0
+VF2780,Liberia Centro,42,Femenino,5,Trimestral,5,14,No,No,0,27500,1,No,0,0.5529,1
+VF5382,Santa Cruz,35,Femenino,21,Semestral,8,17,Sí,No,0,25500,3,Sí,0,0.4559,0
+VF3155,Liberia Centro,42,Femenino,10,Mensual,8,5,No,No,0,31000,1,Sí,1,0.5081,1
+VF5513,Nicoya,40,Masculino,9,Mensual,6,17,Sí,Sí,1,28000,0,No,0,0.6984,1
+VF9871,Liberia Centro,53,Femenino,6,Mensual,9,11,No,No,0,29000,1,Sí,0,0.5735,1
+VF9571,Liberia Centro,29,Masculino,10,Mensual,4,13,Sí,No,0,31000,1,No,1,0.584,1
+VF1193,Liberia Centro,22,Femenino,18,Trimestral,6,3,No,No,2,26000,3,No,1,0.5853,1
+VF7155,Liberia Centro,32,Masculino,37,Mensual,8,7,Sí,No,1,28500,7,Sí,1,0.5195,1
+VF9777,Santa Cruz,33,Femenino,2,Anual,6,6,No,No,0,23000,0,Sí,0,0.3677,0
+VF6317,Santa Cruz,34,Femenino,11,Mensual,13,9,Sí,No,0,25000,2,Sí,1,0.4693,0
+VF3755,Liberia Centro,18,Femenino,7,Mensual,9,9,No,No,0,28000,1,No,0,0.5867,1
+VF9520,Liberia Centro,35,Femenino,18,Mensual,8,15,No,No,3,28500,3,No,1,0.8161,1
+VF5224,Liberia Centro,34,Femenino,9,Trimestral,12,8,Sí,Sí,0,26500,1,No,0,0.3098,0
+VF0256,Santa Cruz,30,Masculino,10,Anual,9,8,Sí,No,0,19500,1,Sí,0,0.2929,0
+VF8064,Liberia Centro,36,Femenino,16,Semestral,5,5,No,No,2,24000,2,No,0,0.6145,1
+VF7870,Liberia Centro,32,Masculino,40,Semestral,13,5,No,No,0,22500,6,Sí,0,0.3252,0
+VF1712,Liberia Centro,40,Femenino,11,Mensual,5,7,Sí,No,0,28000,1,No,0,0.5159,1
+VF0129,Liberia Centro,18,Femenino,5,Anual,9,9,No,No,0,22000,0,No,0,0.3579,0
+VF7950,Liberia Centro,53,Femenino,23,Trimestral,9,6,No,No,0,25500,4,Sí,0,0.387,0
+VF2732,Santa Cruz,35,Masculino,14,Mensual,12,22,No,No,1,28500,3,No,0,0.7391,1
+VF2847,Nicoya,32,Masculino,14,Anual,7,8,Sí,Sí,1,22500,2,Sí,1,0.3648,0
+VF0789,Santa Cruz,54,Femenino,7,Semestral,11,8,No,No,1,22500,0,No,0,0.5128,1
+VF2047,Liberia Centro,18,Masculino,24,Trimestral,11,3,No,Sí,0,26500,4,Sí,0,0.3336,0
+VF7955,Nicoya,25,Masculino,7,Semestral,10,10,Sí,Sí,1,22000,0,Sí,0,0.4917,0
+VF2091,Nicoya,48,Femenino,18,Mensual,11,6,Sí,No,2,31500,3,No,0,0.5799,1
+VF8757,Liberia Centro,28,Femenino,11,Trimestral,14,5,No,No,0,25500,1,Sí,0,0.3442,0
+VF6331,Liberia Centro,40,Femenino,5,Mensual,10,6,Sí,No,0,28500,0,Sí,0,0.4384,0
+VF3932,Liberia Centro,28,Femenino,32,Semestral,13,13,Sí,No,1,21500,6,No,0,0.4346,0
+VF3456,Liberia Centro,48,Masculino,13,Mensual,12,12,Sí,No,0,23000,2,Sí,0,0.5004,1
+VF5287,Nicoya,26,Masculino,2,Semestral,4,13,No,Sí,1,23500,0,No,1,0.6828,1
+VF3488,Liberia Centro,42,Masculino,12,Anual,7,3,No,No,3,21500,2,No,1,0.5403,1
+VF7589,Santa Cruz,37,Masculino,7,Mensual,11,29,Sí,No,0,27500,0,No,0,0.6871,1
+VF6403,Liberia Centro,49,Femenino,18,Trimestral,9,6,No,No,0,26000,4,No,0,0.4028,0
+VF4537,Liberia Centro,37,Femenino,9,Trimestral,7,10,Sí,No,2,24000,0,No,0,0.5775,1
+VF8675,Liberia Centro,19,Femenino,18,Trimestral,11,14,Sí,No,0,26000,4,No,0,0.4014,0
+VF7908,Nicoya,28,Masculino,7,Trimestral,19,12,Sí,No,1,24000,1,Sí,0,0.4046,0
+VF3803,Nicoya,18,Masculino,14,Anual,3,2,Sí,No,0,21000,3,No,1,0.3272,0
+VF8081,Liberia Centro,18,Femenino,11,Mensual,7,3,No,No,1,26500,0,No,0,0.6254,1
+VF6176,Santa Cruz,29,Femenino,23,Semestral,7,18,Sí,No,1,25500,4,Sí,1,0.5641,1
+VF1765,Liberia Centro,28,Femenino,14,Semestral,9,3,Sí,No,0,26000,1,Sí,1,0.2985,0
+VF4378,Nicoya,37,Femenino,11,Anual,9,32,No,No,1,20000,1,No,1,0.6933,1
+VF8875,Nicoya,48,Femenino,4,Mensual,8,19,No,No,1,25500,1,No,0,0.7871,1
+VF1465,Nicoya,45,Masculino,21,Semestral,7,10,Sí,No,2,26000,3,No,0,0.5716,1
+VF2977,Nicoya,41,Femenino,14,Mensual,12,19,Sí,No,0,29500,2,No,0,0.5677,1
+VF9128,Santa Cruz,33,Femenino,7,Mensual,10,6,Sí,No,0,28500,1,Sí,0,0.4596,0
+VF7810,Liberia Centro,20,Femenino,6,Semestral,6,12,Sí,No,0,24000,1,Sí,0,0.4625,0
+VF9753,Santa Cruz,46,Masculino,4,Mensual,7,5,No,No,0,27500,0,No,1,0.5779,1
+VF8347,Nicoya,50,Femenino,13,Semestral,10,8,No,Sí,0,22000,2,Sí,0,0.4445,0
+VF5517,Nicoya,18,Femenino,21,Mensual,12,18,Sí,No,1,26000,4,No,0,0.6651,1
+VF2265,Santa Cruz,18,Femenino,21,Mensual,12,25,No,No,0,29500,3,No,0,0.6872,1
+VF3302,Nicoya,19,Masculino,35,Trimestral,12,13,Sí,No,1,27000,6,Sí,0,0.4501,0
+VF9909,Liberia Centro,34,Femenino,31,Trimestral,6,9,No,No,0,24000,6,No,0,0.4771,0
+VF0796,Nicoya,43,Femenino,16,Mensual,9,1,Sí,No,0,25500,2,No,0,0.4415,0
+VF4049,Nicoya,26,Masculino,6,Mensual,9,16,Sí,No,0,28500,1,No,1,0.6113,1
+VF7195,Nicoya,37,Femenino,13,Mensual,10,13,No,No,0,26000,2,No,0,0.6388,1
+VF0719,Liberia Centro,41,Masculino,27,Semestral,12,6,Sí,No,0,27000,3,No,0,0.2658,0
+VF0690,Liberia Centro,32,Masculino,7,Mensual,6,16,Sí,No,0,28500,1,No,0,0.6103,1
+VF4246,Nicoya,41,Femenino,9,Semestral,9,4,Sí,No,0,24500,2,Sí,1,0.3551,0
+VF9214,Liberia Centro,29,Masculino,18,Mensual,12,13,Sí,No,0,27000,3,No,0,0.4934,0
+VF0874,Liberia Centro,41,Masculino,60,Mensual,10,7,Sí,No,0,29000,11,Sí,0,0.3674,0
+VF2671,Santa Cruz,18,Femenino,5,Mensual,11,11,Sí,Sí,2,28000,0,No,0,0.6565,1
+VF6126,Nicoya,50,Masculino,6,Semestral,13,14,Sí,Sí,1,22500,0,Sí,0,0.4739,0
+VF4340,Liberia Centro,30,Femenino,25,Semestral,8,17,Sí,No,0,23000,4,No,0,0.4606,0
+VF4496,Santa Cruz,32,Femenino,10,Mensual,10,4,Sí,No,0,26500,2,No,1,0.4559,0
+VF8407,Liberia Centro,27,Masculino,5,Mensual,6,15,Sí,No,0,29000,0,Sí,0,0.5955,1
+VF7506,Nicoya,39,Masculino,4,Trimestral,7,5,Sí,No,3,23500,0,Sí,0,0.6485,1
+VF6056,Santa Cruz,37,Masculino,30,Anual,11,5,No,No,0,23000,5,No,0,0.2652,0
+VF2837,Nicoya,49,Femenino,10,Mensual,11,8,No,No,0,29000,2,No,0,0.553,1
+VF0311,Liberia Centro,40,Femenino,11,Anual,7,1,No,No,0,20500,1,Sí,1,0.2905,0
+VF2312,Nicoya,38,Femenino,13,Mensual,10,7,No,No,0,26000,2,Sí,0,0.5727,1
+VF4440,Liberia Centro,39,Femenino,9,Trimestral,8,11,Sí,Sí,0,28500,2,No,0,0.3758,0
+VF2656,Liberia Centro,19,Femenino,7,Trimestral,13,2,No,No,0,25500,1,Sí,0,0.3426,0
+VF4599,Liberia Centro,32,Masculino,14,Trimestral,7,11,Sí,No,3,28000,3,No,0,0.6443,1
+VF0163,Santa Cruz,19,Femenino,15,Trimestral,11,7,No,Sí,0,28000,2,No,0,0.3912,0
+VF8424,Liberia Centro,35,Masculino,13,Anual,9,6,No,No,0,21000,1,No,0,0.3145,0
+VF0849,Santa Cruz,18,Masculino,20,Semestral,4,8,Sí,No,0,24000,2,No,0,0.4442,0
+VF1139,Santa Cruz,42,Masculino,12,Semestral,12,5,Sí,Sí,0,23500,3,No,0,0.3068,0
+VF9375,Liberia Centro,33,Femenino,32,Mensual,13,2,Sí,No,1,28500,5,No,0,0.4035,0
+VF7104,Santa Cruz,43,Femenino,8,Trimestral,14,8,No,No,1,23000,1,No,0,0.4872,0
+VF9602,Nicoya,37,Femenino,11,Mensual,6,9,No,Sí,0,28000,1,Sí,0,0.6168,1
+VF3404,Liberia Centro,18,Femenino,15,Semestral,10,11,Sí,No,1,24500,2,No,0,0.4628,0
+VF6535,Liberia Centro,36,Femenino,9,Trimestral,9,13,No,No,0,26500,1,Sí,0,0.4842,0
+VF0307,Santa Cruz,40,Masculino,9,Mensual,7,18,Sí,Sí,1,28000,1,No,0,0.6837,1
+VF7574,Santa Cruz,47,Masculino,6,Trimestral,7,1,No,No,0,24500,1,Sí,1,0.4188,0
+VF4226,Santa Cruz,28,Masculino,22,Trimestral,13,11,Sí,No,1,25000,4,No,0,0.4321,0
+VF4712,Santa Cruz,51,Femenino,8,Semestral,8,7,No,No,0,22500,0,No,0,0.4629,0
+VF9658,Liberia Centro,34,Femenino,26,Trimestral,5,2,No,No,0,24500,4,No,0,0.4168,0
+VF8144,Liberia Centro,31,Masculino,32,Trimestral,14,6,No,No,1,27000,5,No,0,0.3938,0
+VF7716,Nicoya,40,Femenino,8,Mensual,15,15,Sí,Sí,0,28500,1,Sí,1,0.4806,0
+VF9691,Nicoya,45,Masculino,6,Semestral,17,3,Sí,No,0,23000,2,No,0,0.2718,0
+VF4006,Liberia Centro,60,Masculino,15,Anual,9,10,No,No,0,26000,2,No,0,0.3047,0
+VF5711,Liberia Centro,35,Masculino,13,Semestral,9,6,Sí,No,0,26000,1,No,0,0.3305,0
+VF4395,Nicoya,44,Masculino,27,Anual,9,2,Sí,No,0,21500,4,No,0,0.2232,0
+VF5272,Liberia Centro,45,Masculino,36,Trimestral,12,15,Sí,No,0,24500,7,No,0,0.3654,0
+VF6340,Liberia Centro,35,Femenino,17,Mensual,6,3,Sí,No,0,29500,2,Sí,0,0.438,0
+VF5762,Nicoya,40,Femenino,23,Semestral,7,2,Sí,No,1,21500,4,No,0,0.4402,0
+VF5535,Liberia Centro,21,Masculino,40,Anual,13,2,Sí,No,0,20500,7,Sí,0,0.1672,0
+VF5199,Liberia Centro,35,Masculino,30,Semestral,7,15,Sí,No,1,24500,5,Sí,0,0.5093,1
+VF1627,Liberia Centro,22,Femenino,34,Trimestral,11,4,No,No,0,26000,4,No,0,0.3389,0
+VF4165,Santa Cruz,41,Masculino,26,Mensual,8,2,Sí,No,0,27000,3,No,0,0.4212,0
+VF7100,Nicoya,32,Masculino,13,Mensual,6,4,Sí,No,0,29000,1,No,0,0.5025,1
+VF5954,Santa Cruz,27,Femenino,12,Mensual,7,30,No,No,1,27500,2,No,1,0.8449,1
+VF7379,Santa Cruz,36,Femenino,13,Trimestral,10,12,Sí,No,3,30000,2,No,0,0.6105,1
+VF0651,Liberia Centro,21,Masculino,10,Semestral,10,17,No,No,0,23000,1,No,0,0.5448,1
+VF5840,Santa Cruz,18,Femenino,13,Semestral,8,1,No,No,0,25000,3,Sí,0,0.403,0
+VF1570,Santa Cruz,33,Femenino,14,Semestral,6,12,No,Sí,0,25000,2,Sí,0,0.5109,1
+VF1530,Santa Cruz,54,Femenino,29,Mensual,7,14,No,No,1,28000,3,Sí,1,0.6812,1
+VF3624,Nicoya,25,Masculino,40,Mensual,9,10,No,No,1,26500,6,No,1,0.6595,1
+VF1106,Liberia Centro,22,Femenino,7,Trimestral,8,24,Sí,No,2,23500,2,Sí,0,0.7198,1
+VF0971,Santa Cruz,45,Masculino,4,Mensual,10,5,No,Sí,0,24500,0,No,0,0.5426,1
+VF1922,Liberia Centro,38,Masculino,14,Trimestral,10,5,No,No,1,25500,2,Sí,0,0.4672,0
+VF5441,Santa Cruz,18,Femenino,23,Mensual,7,10,No,No,0,29000,2,Sí,0,0.5945,1
+VF6665,Nicoya,23,Masculino,22,Mensual,11,7,Sí,No,0,30500,3,Sí,0,0.4437,0
+VF9620,Liberia Centro,36,Masculino,15,Anual,7,7,Sí,No,0,23500,2,No,0,0.2646,0
+VF8078,Santa Cruz,34,Masculino,13,Semestral,7,9,No,No,1,24500,2,Sí,1,0.5703,1
+VF7647,Santa Cruz,33,Masculino,26,Trimestral,6,15,No,No,0,25000,4,No,0,0.5562,1
+VF7692,Nicoya,32,Femenino,6,Mensual,9,11,No,No,0,28000,0,Sí,0,0.6243,1
+VF1063,Nicoya,37,Femenino,11,Trimestral,7,17,Sí,No,0,27500,1,No,1,0.5018,1
+VF1468,Liberia Centro,47,Masculino,23,Mensual,8,9,Sí,Sí,0,30000,4,No,0,0.4475,0
+VF2883,Liberia Centro,27,Masculino,47,Semestral,10,15,Sí,No,0,22500,7,Sí,0,0.3781,0
+VF0770,Nicoya,42,Femenino,7,Semestral,6,9,Sí,Sí,0,24500,1,Sí,0,0.4281,0
+VF7280,Santa Cruz,47,Femenino,3,Trimestral,11,4,No,No,0,28000,0,No,1,0.3772,0
+VF5103,Santa Cruz,18,Femenino,9,Trimestral,15,13,Sí,No,1,25000,2,Sí,0,0.4472,0
+VF3821,Liberia Centro,32,Masculino,27,Mensual,10,8,No,No,0,28000,5,No,0,0.526,1
+VF5297,Santa Cruz,47,Femenino,30,Trimestral,8,9,Sí,No,0,25500,4,Sí,0,0.3583,0
+VF2518,Santa Cruz,36,Masculino,25,Mensual,9,16,Sí,No,2,25500,4,No,1,0.7207,1
+VF4883,Nicoya,38,Femenino,9,Mensual,7,9,No,No,0,29000,1,Sí,0,0.617,1
+VF4717,Santa Cruz,51,Masculino,34,Trimestral,7,5,No,No,0,27000,6,No,0,0.4009,0
+VF3847,Nicoya,38,Femenino,10,Mensual,8,12,Sí,Sí,1,24000,2,No,0,0.6581,1
+VF2395,Nicoya,35,Masculino,21,Mensual,4,6,No,No,2,27000,3,Sí,0,0.7603,1
+VF6875,Nicoya,44,Masculino,5,Semestral,3,1,Sí,Sí,0,23000,0,No,0,0.4028,0
+VF2460,Liberia Centro,35,Masculino,22,Mensual,10,7,No,No,1,27500,3,No,0,0.5987,1
+VF3446,Santa Cruz,29,Masculino,16,Anual,10,5,No,No,0,21000,2,No,0,0.3093,0
+VF1372,Liberia Centro,47,Masculino,4,Trimestral,4,14,Sí,No,0,24000,1,No,1,0.5136,1
+VF1916,Santa Cruz,36,Masculino,14,Trimestral,5,9,Sí,No,0,27500,2,No,0,0.4272,0
+VF7620,Liberia Centro,36,Masculino,42,Anual,11,23,No,No,0,25000,7,Sí,0,0.3826,0
+VF1768,Santa Cruz,30,Femenino,6,Semestral,13,2,Sí,No,1,22500,2,Sí,0,0.3689,0
+VF1092,Santa Cruz,43,Femenino,14,Mensual,10,5,Sí,Sí,1,28500,2,Sí,1,0.4928,0
+VF4021,Liberia Centro,41,Masculino,14,Semestral,11,10,Sí,No,0,25500,3,Sí,1,0.3448,0
+VF6492,Liberia Centro,46,Masculino,4,Mensual,7,20,Sí,No,0,30000,1,No,0,0.6247,1
+VF8361,Nicoya,50,Masculino,4,Mensual,9,6,No,No,1,27500,1,No,0,0.6572,1
+VF4529,Santa Cruz,32,Masculino,8,Mensual,10,8,Sí,No,0,26500,1,Sí,0,0.4961,0
+VF3543,Liberia Centro,29,Masculino,11,Mensual,11,7,Sí,No,1,29000,0,Sí,0,0.5076,1
+VF7308,Liberia Centro,39,Femenino,11,Semestral,14,20,No,No,0,25000,1,No,1,0.4893,0
+VF3622,Liberia Centro,18,Femenino,12,Mensual,7,0,No,No,0,28000,2,Sí,0,0.5073,1
+VF9248,Santa Cruz,29,Masculino,36,Anual,5,8,Sí,No,0,22500,5,Sí,0,0.2841,0
+VF8677,Liberia Centro,20,Masculino,17,Anual,14,17,Sí,No,1,20500,3,Sí,0,0.3654,0
+VF2105,Nicoya,46,Femenino,5,Anual,14,2,No,No,1,21500,0,No,0,0.3192,0
+VF5925,Liberia Centro,55,Femenino,34,Semestral,11,8,Sí,No,0,23000,6,No,0,0.3046,0
+VF7085,Santa Cruz,18,Femenino,13,Mensual,10,4,No,Sí,1,26500,2,No,1,0.6004,1
+VF3144,Santa Cruz,45,Femenino,3,Mensual,4,2,No,No,0,26500,0,Sí,1,0.5895,1
+VF1653,Liberia Centro,40,Femenino,13,Trimestral,9,2,Sí,No,0,26000,2,Sí,0,0.296,0
+VF2959,Liberia Centro,44,Femenino,4,Mensual,11,15,Sí,No,0,29000,1,No,1,0.5253,1
+VF2316,Liberia Centro,24,Masculino,19,Trimestral,7,33,Sí,Sí,0,25000,3,Sí,0,0.6303,1
+VF8612,Nicoya,22,Masculino,4,Trimestral,8,18,Sí,No,0,25500,1,No,1,0.5435,1
+VF1208,Liberia Centro,38,Femenino,12,Mensual,10,11,No,No,0,28000,2,No,0,0.5727,1
+VF0839,Santa Cruz,49,Masculino,22,Mensual,9,3,No,No,1,28000,3,No,0,0.574,1
+VF6852,Nicoya,33,Masculino,9,Mensual,5,21,No,No,0,30000,1,Sí,0,0.7487,1
+VF4656,Liberia Centro,19,Masculino,42,Mensual,6,7,No,Sí,0,26500,6,No,0,0.5414,1
+VF9138,Liberia Centro,28,Masculino,17,Mensual,11,11,No,No,0,28500,2,No,0,0.5535,1
+VF3505,Nicoya,38,Femenino,26,Semestral,7,5,Sí,Sí,1,25500,4,No,0,0.4208,0
+VF6541,Liberia Centro,47,Femenino,12,Trimestral,8,7,Sí,No,0,26500,2,No,0,0.3534,0
+VF2413,Santa Cruz,28,Masculino,4,Anual,9,6,Sí,No,0,22500,1,No,0,0.2754,0
+VF2511,Liberia Centro,34,Masculino,22,Trimestral,8,10,No,No,1,26000,2,Sí,0,0.5272,1
+VF1002,Santa Cruz,36,Masculino,5,Mensual,14,4,No,Sí,0,30000,0,Sí,0,0.437,0
+VF7492,Liberia Centro,40,Masculino,1,Semestral,6,36,Sí,No,1,22000,1,No,1,0.7803,1
+VF7543,Santa Cruz,49,Femenino,8,Semestral,4,5,No,No,1,23000,2,Sí,0,0.5784,1
+VF1345,Santa Cruz,31,Femenino,15,Mensual,7,9,Sí,No,0,30500,1,No,0,0.505,1
+VF3972,Santa Cruz,32,Femenino,4,Trimestral,6,6,Sí,No,0,28000,0,No,0,0.3943,0
+VF8927,Santa Cruz,22,Femenino,35,Mensual,13,7,No,No,0,28500,5,Sí,0,0.467,0
+VF8838,Santa Cruz,25,Femenino,10,Trimestral,11,15,Sí,No,0,28500,2,Sí,0,0.4112,0
+VF1330,Santa Cruz,34,Femenino,11,Trimestral,7,23,No,No,0,24500,0,No,1,0.6414,1
+VF7305,Liberia Centro,38,Masculino,6,Trimestral,11,2,Sí,Sí,0,26000,2,No,0,0.2813,0
+VF7679,Liberia Centro,35,Masculino,31,Mensual,10,27,Sí,Sí,0,30000,6,No,0,0.6069,1
+VF8247,Liberia Centro,52,Masculino,8,Mensual,11,25,Sí,No,0,25500,1,No,1,0.6397,1
+VF0147,Santa Cruz,28,Masculino,4,Semestral,9,19,Sí,No,1,21000,0,Sí,0,0.6093,1
+VF1762,Nicoya,37,Masculino,12,Mensual,8,24,Sí,No,0,31000,2,Sí,1,0.6644,1
+VF1264,Santa Cruz,45,Femenino,30,Mensual,9,6,Sí,No,0,29500,4,Sí,1,0.4161,0
+VF9824,Liberia Centro,18,Masculino,17,Mensual,13,5,No,No,0,28500,3,No,0,0.4746,0
+VF2869,Liberia Centro,42,Femenino,12,Mensual,11,9,Sí,Sí,1,28000,2,Sí,0,0.5139,1
+VF2153,Santa Cruz,27,Femenino,2,Mensual,4,5,No,Sí,0,29500,0,No,0,0.6027,1
+VF8337,Nicoya,34,Femenino,29,Trimestral,10,11,No,No,1,26000,5,No,0,0.5449,1
+VF3600,Santa Cruz,30,Masculino,12,Trimestral,5,10,Sí,No,0,27500,2,No,0,0.4466,0
+VF7388,Nicoya,52,Femenino,6,Anual,8,14,Sí,Sí,1,21500,0,Sí,0,0.4123,0
+VF4101,Santa Cruz,46,Masculino,6,Anual,12,7,Sí,No,0,23500,1,Sí,0,0.2298,0
+VF8475,Nicoya,27,Masculino,4,Anual,7,3,No,Sí,1,18500,0,No,0,0.441,0
+VF3931,Nicoya,28,Femenino,3,Mensual,12,8,Sí,No,0,28000,0,No,0,0.4893,0
+VF3719,Liberia Centro,36,Femenino,11,Mensual,7,6,No,No,1,30500,1,No,0,0.6207,1
+VF2104,Santa Cruz,35,Femenino,21,Mensual,12,10,No,No,0,27500,3,No,0,0.5402,1
+VF0707,Liberia Centro,20,Masculino,13,Semestral,11,13,No,No,0,26500,2,Sí,1,0.4569,0
+VF8494,Nicoya,34,Masculino,6,Semestral,8,10,Sí,No,1,22500,1,No,1,0.5382,1
+VF2207,Liberia Centro,40,Masculino,10,Semestral,9,2,No,Sí,0,26000,1,Sí,0,0.348,0
+VF1362,Liberia Centro,49,Femenino,8,Trimestral,11,12,No,No,1,25000,1,No,0,0.5354,1
+VF3120,Liberia Centro,47,Femenino,14,Trimestral,6,2,No,No,0,26500,3,No,0,0.4046,0
+VF9600,Liberia Centro,38,Femenino,43,Mensual,12,17,No,No,0,28000,7,No,0,0.5566,1
+VF1970,Liberia Centro,31,Femenino,2,Trimestral,6,1,Sí,No,0,25500,0,Sí,0,0.3467,0
+VF2400,Santa Cruz,38,Femenino,3,Semestral,6,18,Sí,Sí,0,20000,0,No,0,0.549,1
+VF7440,Liberia Centro,32,Masculino,6,Mensual,11,33,Sí,No,3,27500,1,No,1,0.8694,1
+VF0333,Liberia Centro,18,Masculino,6,Trimestral,8,7,Sí,Sí,0,29500,1,No,0,0.349,0
+VF6931,Liberia Centro,40,Masculino,5,Trimestral,11,9,Sí,No,0,24500,0,No,0,0.3625,0
+VF6168,Nicoya,25,Masculino,10,Mensual,8,7,Sí,No,1,29500,1,Sí,1,0.5897,1
+VF7285,Liberia Centro,31,Femenino,12,Anual,8,10,Sí,No,0,21500,3,No,0,0.3011,0
+VF3511,Liberia Centro,28,Masculino,4,Semestral,11,23,Sí,No,0,26000,1,Sí,0,0.4978,0
+VF6595,Santa Cruz,42,Femenino,9,Semestral,6,1,No,No,0,25000,1,No,1,0.4183,0
+VF7365,Santa Cruz,37,Masculino,14,Trimestral,7,14,No,Sí,0,27500,2,Sí,0,0.5094,1
+VF3264,Liberia Centro,58,Masculino,1,Semestral,5,23,Sí,No,1,21500,0,Sí,1,0.6673,1
+VF2206,Nicoya,29,Femenino,13,Mensual,8,18,No,Sí,1,27500,1,No,1,0.7514,1
+VF0208,Santa Cruz,42,Masculino,3,Anual,11,3,Sí,No,1,22000,1,No,0,0.2893,0
+VF8026,Liberia Centro,29,Femenino,26,Mensual,9,4,No,No,0,27000,5,Sí,0,0.5013,1
+VF5871,Liberia Centro,37,Masculino,10,Anual,7,26,No,Sí,1,24500,1,Sí,0,0.5827,1
+VF1030,Nicoya,35,Femenino,17,Mensual,8,12,Sí,Sí,0,28000,2,No,1,0.5397,1
+VF8640,Santa Cruz,20,Masculino,9,Mensual,10,2,Sí,Sí,0,28000,1,No,0,0.4169,0
+VF4359,Santa Cruz,21,Masculino,9,Semestral,14,24,Sí,No,0,23000,1,Sí,0,0.4981,0
+VF4554,Nicoya,29,Femenino,11,Trimestral,6,11,Sí,No,0,25500,2,Sí,1,0.4717,0
+VF5125,Nicoya,35,Femenino,26,Semestral,8,30,No,Sí,2,23000,3,No,0,0.8,1
+VF7651,Liberia Centro,18,Femenino,19,Anual,12,3,Sí,No,1,23500,4,Sí,0,0.2447,0
+VF0444,Liberia Centro,21,Masculino,38,Mensual,11,14,Sí,Sí,1,30500,5,No,0,0.5222,1
+VF8145,Nicoya,34,Masculino,32,Trimestral,11,7,Sí,Sí,0,25500,4,No,0,0.3153,0
+VF5562,Nicoya,36,Masculino,13,Semestral,12,10,No,No,0,23000,2,Sí,0,0.4606,0
+VF5930,Nicoya,21,Femenino,27,Anual,4,1,Sí,No,1,22000,3,No,0,0.3379,0
+VF8264,Liberia Centro,42,Masculino,34,Trimestral,10,4,Sí,No,0,27000,6,No,0,0.2749,0
+VF2335,Liberia Centro,19,Femenino,7,Trimestral,10,6,Sí,No,0,29000,1,No,0,0.3279,0
+VF5408,Liberia Centro,18,Masculino,30,Semestral,9,15,No,No,0,25000,5,Sí,0,0.4901,0
+VF3962,Liberia Centro,24,Masculino,25,Mensual,16,17,Sí,No,0,28000,3,No,0,0.4601,0
+VF9539,Liberia Centro,29,Masculino,15,Trimestral,7,6,No,No,0,25000,2,Sí,0,0.4464,0
+VF6745,Santa Cruz,35,Masculino,9,Anual,9,11,Sí,No,0,24000,0,Sí,0,0.2877,0
+VF5706,Liberia Centro,42,Femenino,3,Trimestral,9,12,Sí,No,0,25000,0,Sí,0,0.411,0
+VF5356,Liberia Centro,32,Femenino,6,Anual,13,12,No,Sí,0,23000,1,No,0,0.3091,0
+VF4831,Nicoya,18,Femenino,5,Trimestral,6,5,Sí,Sí,0,25500,1,No,0,0.415,0
+VF6121,Liberia Centro,31,Femenino,12,Trimestral,8,24,Sí,Sí,0,26000,2,No,0,0.5269,1
+VF0468,Nicoya,38,Femenino,2,Mensual,6,19,Sí,No,0,27500,1,Sí,0,0.6784,1
+VF4424,Santa Cruz,30,Masculino,14,Mensual,10,8,No,No,0,29500,3,No,0,0.5556,1
+VF0207,Liberia Centro,34,Femenino,19,Semestral,5,17,No,No,0,23500,3,No,0,0.5844,1
+VF0902,Liberia Centro,22,Femenino,28,Mensual,12,5,No,No,2,28000,4,No,0,0.622,1
+VF7424,Liberia Centro,39,Femenino,5,Mensual,7,17,Sí,No,0,30000,0,No,1,0.5897,1
+VF5955,Liberia Centro,32,Masculino,3,Mensual,5,9,No,No,0,28000,0,No,0,0.6369,1
+VF7122,Liberia Centro,35,Femenino,4,Semestral,6,16,Sí,Sí,0,22500,1,No,1,0.4978,0
+VF2741,Liberia Centro,37,Femenino,17,Anual,5,11,No,No,2,20500,2,Sí,1,0.5625,1
+VF1667,Liberia Centro,24,Femenino,15,Trimestral,9,5,Sí,No,0,25500,1,No,0,0.3324,0
+VF1520,Nicoya,32,Masculino,27,Mensual,8,10,Sí,No,1,28000,4,Sí,0,0.5993,1
+VF7368,Santa Cruz,48,Femenino,7,Mensual,15,6,No,No,0,28000,1,No,0,0.4688,0
+VF3936,Santa Cruz,34,Femenino,19,Mensual,7,1,Sí,No,0,29000,4,Sí,0,0.4287,0
+VF9270,Liberia Centro,37,Femenino,17,Anual,14,9,No,Sí,0,20000,1,No,0,0.2646,0
+VF9524,Santa Cruz,36,Masculino,14,Mensual,7,5,Sí,No,1,27000,1,No,1,0.5694,1
+VF9100,Liberia Centro,37,Masculino,54,Trimestral,6,25,Sí,Sí,0,28000,9,No,0,0.4793,0
+VF2488,Nicoya,30,Masculino,8,Mensual,19,2,No,No,0,28500,1,Sí,0,0.3965,0
+VF0604,Liberia Centro,31,Femenino,5,Mensual,11,20,Sí,No,0,28500,0,Sí,0,0.5782,1
+VF6235,Liberia Centro,36,Masculino,20,Anual,12,4,Sí,No,0,22000,3,No,0,0.1961,0
+VF8214,Santa Cruz,33,Masculino,12,Semestral,9,4,Sí,No,0,22500,2,No,0,0.3568,0
+VF5135,Nicoya,55,Masculino,13,Semestral,7,12,No,Sí,0,24500,2,No,1,0.5142,1
+VF5259,Liberia Centro,19,Femenino,9,Semestral,10,18,Sí,Sí,0,24000,1,No,0,0.4526,0
+VF5665,Santa Cruz,27,Masculino,8,Mensual,9,0,Sí,Sí,1,29500,1,No,0,0.4758,0
+VF3911,Liberia Centro,26,Masculino,11,Mensual,9,2,No,No,0,28000,1,No,1,0.5009,1
+VF1495,Santa Cruz,36,Femenino,16,Trimestral,10,9,Sí,Sí,0,27000,3,No,0,0.3467,0
+VF3388,Santa Cruz,20,Femenino,22,Mensual,5,3,No,No,0,29500,3,No,0,0.556,1
+VF0125,Liberia Centro,18,Femenino,1,Semestral,9,4,Sí,No,0,25000,0,No,0,0.3484,0
+VF7968,Liberia Centro,35,Femenino,22,Mensual,10,9,No,No,0,27500,3,No,0,0.538,1
+VF2329,Santa Cruz,29,Masculino,15,Mensual,8,10,No,Sí,1,28000,1,No,0,0.6615,1
+VF0174,Liberia Centro,26,Femenino,29,Mensual,9,14,No,No,2,26000,5,Sí,0,0.7462,1
+VF4598,Liberia Centro,41,Femenino,8,Trimestral,13,11,No,Sí,0,26000,1,Sí,0,0.3952,0
+VF4241,Santa Cruz,22,Femenino,5,Mensual,9,14,No,Sí,0,29500,0,No,0,0.6243,1
+VF8216,Santa Cruz,49,Femenino,24,Trimestral,7,18,Sí,No,0,26000,5,Sí,0,0.4776,0
+VF6188,Liberia Centro,21,Masculino,10,Mensual,5,2,Sí,No,0,30000,0,No,0,0.4629,0
+VF4076,Santa Cruz,20,Masculino,24,Trimestral,10,2,Sí,No,0,23000,4,Sí,0,0.3164,0
+VF7784,Liberia Centro,58,Femenino,25,Mensual,11,6,No,No,1,28500,4,No,0,0.5466,1
+VF0848,Nicoya,31,Masculino,14,Semestral,9,23,Sí,Sí,1,25500,2,Sí,0,0.6043,1
+VF3269,Santa Cruz,33,Femenino,13,Anual,15,23,No,Sí,0,21500,2,No,0,0.4034,0
+VF2304,Liberia Centro,35,Masculino,8,Trimestral,10,18,Sí,No,0,27000,0,No,0,0.4463,0
+VF6313,Santa Cruz,46,Femenino,17,Mensual,5,3,No,No,0,27500,2,No,1,0.5593,1
+VF0798,Santa Cruz,20,Femenino,44,Mensual,10,4,No,No,0,26500,7,Sí,1,0.4795,0
+VF6937,Liberia Centro,37,Masculino,5,Mensual,12,2,No,No,0,28000,0,Sí,1,0.4569,0
+VF9171,Liberia Centro,44,Femenino,20,Trimestral,8,19,No,No,1,26500,4,Sí,1,0.6207,1
+VF7585,Santa Cruz,38,Femenino,12,Trimestral,12,5,Sí,No,0,24000,3,Sí,0,0.3217,0
+VF1017,Liberia Centro,52,Masculino,15,Semestral,6,12,Sí,No,1,25000,1,Sí,0,0.4936,0
+VF2710,Liberia Centro,27,Femenino,25,Trimestral,14,15,No,No,0,27000,5,No,0,0.4247,0
+VF9905,Nicoya,27,Femenino,6,Mensual,15,12,No,No,0,23500,0,No,1,0.5948,1
+VF2922,Santa Cruz,33,Masculino,7,Mensual,7,4,No,No,1,27000,0,No,1,0.6491,1
+VF7311,Nicoya,43,Femenino,41,Anual,9,35,No,Sí,0,20500,6,No,0,0.5799,1
+VF4351,Nicoya,43,Masculino,25,Anual,6,19,Sí,No,1,22500,4,No,0,0.488,0
+VF5222,Santa Cruz,23,Masculino,19,Mensual,9,4,Sí,No,1,29500,3,No,0,0.5203,1
+VF9400,Liberia Centro,49,Masculino,20,Mensual,4,7,No,No,0,29000,2,Sí,1,0.576,1
+VF4994,Santa Cruz,26,Femenino,6,Mensual,9,14,Sí,No,1,28500,0,No,1,0.642,1
+VF9048,Santa Cruz,31,Masculino,20,Semestral,8,13,Sí,No,0,24000,3,Sí,0,0.4327,0
+VF7339,Santa Cruz,28,Femenino,17,Trimestral,13,4,Sí,No,0,27500,3,No,0,0.2802,0
+VF7883,Santa Cruz,30,Masculino,14,Semestral,15,21,No,No,0,21500,2,No,1,0.5344,1
+VF3792,Liberia Centro,52,Femenino,24,Mensual,8,11,No,No,0,27000,4,Sí,0,0.5724,1
+VF7966,Liberia Centro,28,Femenino,13,Mensual,8,16,No,No,1,29000,2,No,1,0.7162,1
+VF8358,Santa Cruz,18,Masculino,28,Semestral,8,13,Sí,No,0,23500,4,No,0,0.4357,0
+VF1458,Santa Cruz,41,Masculino,11,Trimestral,13,2,Sí,No,0,27500,1,No,0,0.2626,0
+VF5904,Liberia Centro,29,Femenino,17,Trimestral,18,5,No,No,0,23000,2,Sí,0,0.3025,0
+VF2336,Liberia Centro,35,Femenino,33,Mensual,9,5,Sí,No,0,26500,5,No,0,0.4198,0
+VF7655,Santa Cruz,43,Femenino,2,Anual,10,14,Sí,No,0,21500,0,No,1,0.3299,0
+VF1313,Santa Cruz,46,Masculino,25,Mensual,7,14,No,No,1,27500,3,Sí,1,0.6999,1
+VF3227,Liberia Centro,24,Femenino,6,Mensual,6,11,No,No,0,27500,1,Sí,1,0.6426,1
+VF5575,Santa Cruz,19,Femenino,37,Semestral,8,31,No,No,0,23000,6,No,0,0.6841,1
+VF6690,Liberia Centro,36,Masculino,6,Anual,10,6,No,No,0,22500,1,No,0,0.3076,0
+VF6231,Santa Cruz,41,Femenino,7,Trimestral,8,4,No,No,0,28500,1,Sí,0,0.4075,0
+VF6598,Liberia Centro,57,Masculino,43,Anual,4,1,Sí,Sí,2,22000,7,No,0,0.3244,0
+VF9040,Liberia Centro,31,Masculino,12,Mensual,6,6,Sí,No,0,27500,2,Sí,0,0.5016,1
+VF1937,Liberia Centro,44,Masculino,6,Mensual,8,13,Sí,No,1,29000,2,No,1,0.6255,1
+VF6225,Liberia Centro,55,Femenino,11,Trimestral,7,4,Sí,Sí,0,27000,1,Sí,1,0.3079,0
+VF4120,Santa Cruz,36,Femenino,19,Mensual,8,3,Sí,Sí,0,27000,3,No,0,0.4325,0
+VF4967,Nicoya,37,Masculino,8,Trimestral,7,21,No,No,1,27500,1,No,1,0.7023,1
+VF5218,Santa Cruz,33,Femenino,16,Anual,14,16,Sí,No,2,24000,1,Sí,1,0.4055,0
+VF6210,Liberia Centro,18,Masculino,9,Anual,8,5,No,No,0,24500,0,No,0,0.3105,0
+VF0924,Nicoya,28,Masculino,24,Semestral,12,5,Sí,No,0,23500,4,Sí,0,0.3206,0
+VF4550,Nicoya,33,Masculino,23,Trimestral,9,11,Sí,Sí,0,28000,3,No,0,0.3785,0
+VF0843,Liberia Centro,35,Femenino,24,Semestral,9,14,No,Sí,1,26000,3,Sí,0,0.5261,1
+VF5473,Liberia Centro,36,Femenino,7,Trimestral,16,2,No,No,0,27000,1,Sí,0,0.2874,0
+VF6717,Liberia Centro,28,Femenino,43,Mensual,15,4,Sí,No,1,25500,6,No,0,0.4001,0
+VF8411,Liberia Centro,36,Masculino,13,Mensual,7,21,Sí,No,0,29500,2,Sí,1,0.6236,1
+VF0597,Santa Cruz,39,Masculino,30,Semestral,11,3,No,No,0,24000,4,No,0,0.3497,0
+VF2972,Liberia Centro,37,Femenino,12,Anual,6,8,Sí,No,1,21000,2,No,0,0.3735,0
+VF5134,Liberia Centro,46,Masculino,30,Semestral,11,15,Sí,No,0,24000,6,No,1,0.3819,0
+VF3787,Santa Cruz,45,Femenino,10,Trimestral,13,41,No,No,0,28500,1,Sí,1,0.7059,1
+VF9987,Liberia Centro,35,Masculino,18,Semestral,12,15,Sí,No,0,26000,4,Sí,1,0.3769,0
+VF3985,Nicoya,34,Femenino,27,Mensual,13,4,Sí,No,2,26500,4,No,0,0.5601,1
+VF2842,Santa Cruz,35,Femenino,35,Semestral,9,12,No,Sí,1,25000,5,Sí,0,0.5112,1
+VF0686,Santa Cruz,40,Femenino,5,Mensual,10,5,Sí,No,2,29500,0,No,0,0.6013,1
+VF4618,Nicoya,55,Femenino,6,Anual,2,6,Sí,Sí,1,21500,2,No,1,0.4221,0
+VF1708,Liberia Centro,38,Masculino,5,Trimestral,13,10,Sí,No,0,27500,0,Sí,0,0.3246,0
+VF5636,Liberia Centro,43,Femenino,22,Semestral,12,20,No,No,0,25000,2,Sí,0,0.4866,0
+VF1280,Santa Cruz,29,Masculino,10,Trimestral,9,25,No,Sí,1,27000,0,No,0,0.6843,1
+VF5326,Santa Cruz,68,Femenino,24,Anual,10,30,No,No,0,20500,5,No,0,0.5311,1
+VF8339,Santa Cruz,45,Masculino,26,Semestral,13,6,Sí,No,0,25000,3,Sí,0,0.2751,0
+VF0171,Santa Cruz,43,Masculino,33,Mensual,8,2,No,No,0,29500,6,No,1,0.4781,0
+VF1162,Liberia Centro,34,Femenino,7,Mensual,6,1,Sí,Sí,0,26500,1,No,0,0.4469,0
+VF1511,Nicoya,34,Masculino,39,Mensual,12,32,Sí,No,0,25500,6,No,0,0.6897,1
+VF2608,Liberia Centro,18,Masculino,9,Semestral,9,16,Sí,Sí,0,24000,1,No,0,0.4488,0
+VF8896,Liberia Centro,34,Masculino,12,Mensual,15,5,No,Sí,0,26500,1,No,0,0.4363,0
+VF4730,Liberia Centro,20,Femenino,10,Mensual,7,10,No,No,0,28500,2,No,1,0.6159,1
+VF3366,Santa Cruz,48,Femenino,4,Trimestral,9,16,No,Sí,0,26500,0,Sí,0,0.5147,1
+VF4456,Liberia Centro,40,Femenino,25,Mensual,14,6,Sí,No,0,28500,4,Sí,0,0.357,0
+VF4084,Santa Cruz,31,Masculino,38,Trimestral,14,8,No,No,0,25500,6,No,0,0.3547,0
+VF2506,Liberia Centro,44,Masculino,6,Trimestral,10,7,Sí,No,0,29000,2,Sí,0,0.3258,0
+VF9397,Liberia Centro,52,Femenino,53,Trimestral,6,9,No,No,0,27500,9,No,0,0.4008,0
+VF1695,Liberia Centro,35,Masculino,3,Semestral,11,5,Sí,No,0,24000,1,Sí,0,0.3267,0
+VF4510,Nicoya,18,Masculino,9,Trimestral,10,7,No,No,0,25000,1,No,0,0.4739,0
+VF5367,Santa Cruz,32,Femenino,12,Mensual,7,2,Sí,No,2,29000,2,No,1,0.6117,1
+VF4802,Liberia Centro,39,Masculino,3,Semestral,13,10,Sí,Sí,1,25000,1,No,0,0.4043,0
+VF8970,Liberia Centro,28,Femenino,12,Mensual,3,5,No,No,0,31000,3,Sí,1,0.5902,1
+VF3743,Santa Cruz,49,Femenino,5,Anual,12,4,No,No,1,22500,0,No,0,0.3373,0
+VF0323,Santa Cruz,39,Femenino,31,Trimestral,5,10,Sí,No,0,27000,5,Sí,0,0.4045,0
+VF6343,Santa Cruz,18,Femenino,7,Semestral,7,7,Sí,Sí,0,21500,1,Sí,1,0.4133,0
+VF3316,Santa Cruz,45,Masculino,8,Mensual,9,6,Sí,No,0,29500,0,No,0,0.4584,0
+VF8291,Nicoya,39,Femenino,8,Anual,9,7,Sí,Sí,1,22000,0,No,0,0.3357,0
+VF9451,Liberia Centro,20,Masculino,29,Trimestral,6,19,Sí,No,0,27500,4,Sí,0,0.4811,0
+VF8994,Santa Cruz,25,Masculino,19,Mensual,11,3,No,No,0,31000,3,No,1,0.4698,0
+VF1918,Santa Cruz,34,Femenino,29,Anual,9,13,No,No,1,18500,4,No,0,0.467,0
+VF6652,Nicoya,35,Masculino,8,Anual,6,5,Sí,No,0,20500,2,No,0,0.3202,0
+VF6338,Liberia Centro,31,Masculino,37,Anual,6,6,No,No,2,20000,7,No,0,0.4864,0
+VF3735,Liberia Centro,44,Masculino,13,Trimestral,7,13,Sí,No,0,27000,1,Sí,0,0.4162,0
+VF0433,Santa Cruz,36,Femenino,9,Anual,8,11,No,Sí,0,19500,2,Sí,0,0.39,0
+VF9299,Nicoya,42,Masculino,7,Semestral,11,4,Sí,No,1,24500,1,Sí,0,0.4071,0
+VF7674,Santa Cruz,41,Femenino,19,Trimestral,8,6,No,Sí,0,24500,3,Sí,0,0.42,0
+VF5873,Santa Cruz,33,Masculino,17,Trimestral,10,1,No,No,0,25000,2,No,0,0.3692,0
+VF2158,Liberia Centro,18,Femenino,39,Trimestral,8,8,Sí,No,0,25500,6,No,0,0.3453,0
+VF6362,Santa Cruz,33,Femenino,6,Mensual,12,5,No,No,0,27000,2,No,1,0.5244,1
+VF0910,Liberia Centro,42,Femenino,4,Mensual,12,29,Sí,No,0,30000,0,Sí,0,0.6403,1
+VF1670,Nicoya,30,Femenino,17,Anual,10,26,Sí,No,1,23000,1,No,1,0.5155,1
+VF8285,Santa Cruz,38,Femenino,22,Mensual,10,3,Sí,Sí,0,27000,4,No,0,0.4018,0
+VF0634,Santa Cruz,48,Masculino,16,Trimestral,13,13,Sí,Sí,1,25000,2,Sí,0,0.4226,0
+VF8036,Liberia Centro,45,Masculino,28,Semestral,13,13,No,Sí,0,24000,4,No,1,0.392,0
+VF3101,Liberia Centro,22,Masculino,4,Trimestral,18,5,No,No,0,26000,0,Sí,0,0.3099,0
+VF3734,Santa Cruz,38,Masculino,10,Mensual,11,6,Sí,No,3,26000,1,No,0,0.6913,1
+VF5055,Liberia Centro,44,Femenino,12,Trimestral,8,19,Sí,Sí,0,24500,2,Sí,0,0.4705,0
+VF4320,Santa Cruz,35,Femenino,45,Mensual,7,21,No,No,0,28500,7,No,0,0.671,1
+VF3149,Nicoya,32,Femenino,20,Mensual,7,16,No,No,0,28000,3,No,0,0.6833,1
+VF2323,Santa Cruz,18,Masculino,15,Trimestral,14,4,Sí,No,0,27000,2,No,0,0.2802,0
+VF5432,Liberia Centro,26,Femenino,8,Mensual,12,6,Sí,No,0,29000,1,No,0,0.4201,0
+VF3191,Liberia Centro,39,Femenino,6,Semestral,12,2,Sí,Sí,2,24000,1,No,0,0.4104,0
+VF3643,Santa Cruz,37,Masculino,6,Mensual,12,5,Sí,No,1,27500,1,No,0,0.5164,1
+VF9055,Santa Cruz,43,Femenino,31,Mensual,11,18,Sí,No,0,31500,4,No,1,0.5045,1
+VF2509,Nicoya,46,Femenino,7,Trimestral,7,7,No,No,2,23000,0,Sí,0,0.6569,1
+VF7027,Liberia Centro,39,Masculino,15,Mensual,11,5,Sí,Sí,0,27000,2,Sí,1,0.3975,0
+VF5615,Liberia Centro,35,Masculino,14,Trimestral,8,2,Sí,No,0,25000,2,No,0,0.3216,0
+VF1134,Liberia Centro,22,Femenino,13,Semestral,12,6,No,No,0,22000,2,Sí,0,0.3984,0
+VF6474,Nicoya,54,Masculino,7,Anual,4,20,Sí,No,0,20000,2,Sí,0,0.4854,0
+VF7513,Liberia Centro,30,Masculino,6,Mensual,6,23,Sí,Sí,0,26500,1,No,0,0.6792,1
+VF5859,Liberia Centro,41,Masculino,37,Trimestral,10,18,Sí,No,0,25000,5,No,1,0.4097,0
+VF4121,Liberia Centro,28,Femenino,7,Trimestral,9,16,Sí,No,0,26000,1,Sí,0,0.4502,0
+VF9876,Liberia Centro,43,Femenino,7,Mensual,10,2,No,No,0,25000,1,No,0,0.5035,1
+VF9955,Liberia Centro,50,Femenino,36,Semestral,11,2,Sí,No,0,22500,7,No,0,0.2589,0
+VF2644,Santa Cruz,18,Femenino,50,Semestral,8,3,Sí,No,1,25000,9,No,0,0.369,0
+VF9604,Liberia Centro,43,Femenino,9,Anual,8,6,Sí,No,0,22000,1,No,0,0.2558,0
+VF3763,Santa Cruz,49,Femenino,15,Anual,5,9,Sí,No,1,21500,1,Sí,0,0.3846,0
+VF1846,Liberia Centro,41,Femenino,13,Trimestral,9,2,Sí,No,0,24000,3,No,0,0.3159,0
